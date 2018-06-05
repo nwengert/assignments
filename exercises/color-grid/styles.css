@@ -1,0 +1,44 @@
+/* THERE ARE A FEW TRICKS THAT I DONT KNOW ON THIS */
+
+* {
+    /* margin-left: 5px; */
+    margin-bottom: 5px;
+    font-size: 70px;
+    box-sizing: border-box;
+    text-align: center;
+}
+.todos {
+    height: 150px;
+    /* border: 5px solid white; */
+}
+.topPink {
+    color: #F5C6D6;
+    background: #F5C6D6;
+    width: 100%;
+    /* margin-top: 50px;
+    margin-left: 50px; */
+}
+.secondPinks {
+    display: inline-block;
+    color: #EE2E84;
+    background: #EE2E84;
+    width: 20%;
+}
+.thirdBlues {
+    display: inline-block;
+    color:#85CFD8;
+    background: #85CFD8;
+    width: 45%
+}
+.fourthGreen {
+    display: inline-block;
+    color:#8DC63F;
+    background:#8DC63F;
+    width: 70%;
+}
+.fourthOrange {
+    display: inline-block;
+    color:#E76E34;
+    background: #E76E34;
+    width: 20%;
+}
