@@ -1,0 +1,29 @@
+#girlpic {
+    max-width: 70%;
+    height: auto;
+}
+
+h1 {
+    font-size: 4em;
+    text-align: center;
+    color: RGB(209, 107, 84);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navBar {
+    display: inline-block;
+    height: 23px;
+    width: 222px;
+    background-color: rgb(125,167,173);
+    text-align: center;
+    margin: 5px;
+
+
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+h3 {
+    font-size: 2em;
+    font-family: "AvenirNext-Medium";
+}
