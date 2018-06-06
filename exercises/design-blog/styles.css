@@ -1,0 +1,62 @@
+body {
+    background-color: rgba(240, 190, 162, 0.5);
+}
+
+nav {
+    display: inline-block;
+    background-color:rgb(133,117,108);
+    height: 60px;
+    width: 98%;
+    box-align: center;
+    text-align: center;
+    position: fixed; 
+    top: 20px;
+    font-family: AndaleMono;
+    font-size: 44px;
+    
+    /* box-shadow: 0, 5, 20, rgb(133,117,108;  this would be cool but it screwed everything up.  What Daniel had */
+}
+
+div {
+    display: inline-block;
+    background-color:rgb(200, 230, 211);
+    height: 333px;
+    width: 75%;
+    text-align: left;
+    margin: 5px 12% 5px 12%;
+    font-family: AndaleMono;
+    border: solid 1px black;
+    padding: 4px;
+    
+    
+}
+
+.top {
+    display:inline-block;
+    background-color:  rgba(240, 190, 162, 0);
+    height: 70px;
+    border: none;
+}
+
+img {
+    float: left;
+    border: 2px black;
+    margin: 6px;
+}
+
+#Boundary {
+    height: 233px;
+    width: auto;
+}
+#Cheaha {
+    height: 233px;
+    width: auto;
+}
+#Elbert {
+    height: 200px;
+    width: auto;
+}
+
+span {
+    text-align: center;
+}

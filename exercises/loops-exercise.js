@@ -48,15 +48,15 @@ console.log(Tercero(miArray));
 // prints out the smallest number out of the ten without using Math.min()
 
 // NOT DONE
-                        // var thisArray = [5, 17, 23, 22, 32, 75, 93, 27, 46, 61];
-                        // var j = thisArray[0]
+    var thisArray = [5, 17, 23, 22, 32, 75, 93, 27, 46, 61];
+    var j = thisArray[0]
 
-                        // function Quarto(thisArray) {
-                        //     for (i = 1; i < thisArray.length; i++) {
-                        //         if (j < i) {
-                        //             i = j;
-                        //         }
-                        //     }
-                        //     return(i);
-                        // }
-                        // console.log(Quarto(thisArray))
+    function findSmallest(thisArray) {
+        for (i = 1; i < thisArray.length; i++) {
+            if (j < i) {
+                i = j;
+            }
+        }
+        return(i);
+    }
+    console.log(findSmallest(thisArray))

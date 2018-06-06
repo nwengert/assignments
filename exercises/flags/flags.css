@@ -1,0 +1,302 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    font-family: AndaleMono;
+    font-size: 12px;
+    padding: 5px;
+} 
+
+body {
+    background-color: lightgray;
+}
+.france {
+    display: inline-block;
+}
+#france1 {
+    height: 100px;
+    width: 50px;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    background-color: blue;
+}
+#france2 {
+    height: 100px;
+    width: 50px;
+    position: absolute;
+    background-color: white;
+    top: 50px;
+    left: 100px;
+    text-align: center;
+}
+#france3 {
+    height: 100px;
+    width: 50px;
+    position: absolute;
+    background-color: red;
+    top: 50px;
+    left: 150px;
+}
+.germany {
+    position: absolute;
+    height: 33px;
+    width: 150px; 
+    left: 250px;
+}
+#ger1 {
+    top: 50px;
+    background-color: black;
+}
+#ger2 {
+    top: 83px;
+    background-color: red;
+}
+#ger3 {
+    top: 116px;
+    background-color: yellow;
+    text-align: center;
+}
+
+.madegascar {
+    position: absolute;
+}
+#mad1 {
+    height: 100px;
+    width: 150px;
+    position: absolute;
+    top: 50px;
+    left: 450px;
+    background-color: white;
+}
+#mad2 {
+    height: 50px;
+    width: 100px;
+    position: absolute;
+    top: 50px;
+    left: 500px;
+    background-color:rgb(233, 78, 63);
+    text-align: center;
+}
+#mad3 {
+    height: 50px;
+    width: 100px;
+    position: absolute;
+    top: 100px;
+    left: 500px;
+    background-color: green;
+}
+
+#switz1 {
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 50px;
+    left: 650px;
+    background-color: red;
+    text-align: center;
+    
+}
+#switz2 {
+    /* vertical */
+    height: 50px;
+    width: 12px;
+    position: absolute;
+    top: 75px;
+    left: 695px;
+    background-color: white;
+    text-align: center;
+}
+#switz3 {
+    /* horizontal */
+    height: 12px;
+    width: 50px;
+    position: absolute;
+    top: 95px;
+    left: 675px;
+    background-color: white;
+}
+
+.sweden {
+    position: absolute;
+    left: 50px;
+    top: 200px;
+}
+#swed1 {
+    height: 100px;
+    width: 150px;
+    background-color: rgb(42, 105, 162);
+}
+#swed2 {
+    /* vertical */
+    height: 100px;
+    width: 20px;
+    left: 100px;
+    background-color: rgb(247, 205, 70);
+}
+#swed3 {
+    /* horizontal */
+    height: 20px;
+    width: 150px;
+    top: 240px;
+    background-color: rgb(247, 205, 70);
+    text-align: center;
+}
+
+.gambia {
+    position: absolute;
+    width: 150px; 
+    left: 250px;
+}
+#gam1 {
+    top: 200px;
+    background-color: white;
+    height: 100px;
+    width: 150px;
+}
+#gam2 {
+    top: 200px;
+    background-color: rgb(190, 44, 47);
+    height: 32px;
+    text-align: center;
+}
+#gam3 {
+    top: 116px;
+    background-color: rgb(11, 31, 134);
+    height: 23px;
+    top: 238px;
+}
+#gam4 {
+    background-color: darkolivegreen;
+    height: 32px;
+    top: 268px;
+}
+
+.tonga{
+    position: absolute;
+}
+#tonga1 {
+    top: 200px;
+    left: 450px;
+    background-color: rgb(179, 36, 24);
+    height: 100px;
+    width: 150px;
+    text-align: right;
+}
+#tonga2 {
+    top: 200px;
+    left: 450px;
+    background-color: white;
+    height: 45px;
+    width: 65px;
+}
+#tonga3 {
+    top: 207px;
+    left: 477px;
+    background-color: rgb(179, 36, 24);
+    height: 30px;
+    width: 12px;
+}
+#tonga4 {
+    top: 215px;
+    left: 468px;
+    background-color: rgb(179, 36, 24);
+    height: 12px;
+    width: 30px;
+}
+#japan1 {
+    position: absolute;
+    top: 200px;
+    left: 650px;
+    background-color: white;
+    height: 100px;
+    width: 150px;
+    text-align: center;
+}
+#japan2 {
+    position: absolute;
+    top: 225px;
+    left: 700px;
+    background-color: red;
+    height: 50px;
+    width: 50px;
+    text-align: right;
+    border-radius: 25px;
+}
+
+
+
+
+
+#greece1 {
+    position: absolute;
+    top: 350px;
+    left: 50px;
+    height: 100px;
+    width: 150px;
+    background: repeating-linear-gradient(rgb(39, 94, 169) 350px, rgb(39, 94, 169) 360px, white 360px, white 380px);
+
+}
+.niger {
+    position: absolute;
+    height: 33px;
+    width: 150px; 
+    left: 250px;
+}
+#niger1 {
+    top: 350px;
+    background-color:rgb(208, 91, 39);
+    text-align: center;
+}
+#niger2 {
+    top: 383px;
+    background-color:white;
+}
+#niger3 {
+    top: 416px;
+    background-color: rgb(80, 173, 65);
+}
+#niger4 {
+    top: 386px;
+    left: 310px;
+    background-color: rgb(208, 91, 39);
+    height: 28px;
+    width: 28px;
+    border-radius: 24px;
+}
+
+#maldives1 {
+    position: absolute;
+    top: 350px;
+    left: 450px;
+    height: 100px;
+    width: 150px;
+    background-color: rgb(193, 45, 58);
+    text-align: center;
+}
+#maldives2 {
+    position: absolute;
+    top: 375px;
+    left: 475px;
+    height: 50px;
+    width: 100px;
+    background-color: rgb(54, 124, 66);
+}
+#maldives3 {
+    position: absolute;
+    top: 380px;
+    left: 510px;
+    height: 38px;
+    width: 40px;
+    background-color: white;
+    border-radius:19px;
+}
+#maldives4 {
+    position: absolute;
+    top: 380px;
+    left: 516px;
+    height: 38px;
+    width: 40px;
+    background-color: rgb(54, 124, 66);
+    border-radius:19px;
+}
+
