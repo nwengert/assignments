@@ -22,13 +22,17 @@ var mayusculas = function(str) {
     return str.toUpperCase();
 }
 
-var thirdFunction = function() {
+// var thirdFunction = function() {
     var yell = mayusculas(fullName);
     var whisper = yell.toLowerCase();
     var first = whisper.replace(whisper.slice(whisper.indexOf('jacob'),whisper.indexOf('jingle')), 'name ');
     var second = first.replace(first.slice(0,first.indexOf('name')), 'His ');
     var third = second.replace('jingleheimer', 'is my name');
     var fourth = third.replace(third.slice(third.indexOf('schmidt')),'too!');
-}
+console.log(fourth);
 
-console.log(thirdFunction());
+
+var fifth = function(sstr) {
+    fourth.replace('His',sstr);
+}
+console.log(fifth('Your'));

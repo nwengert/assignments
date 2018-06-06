@@ -56,6 +56,7 @@ console.log(stringLength('First I was afraid, I was petrified.  Kept thinking I 
 
 // Write a function that accepts a number ‘n’ as a parameter. 
 // Then print the first ‘n’ Fibonacci numbers and return their sum.
+    // IS THIS A FACTORIAL QUESTION?
 
 var fibo = function (n) {
     var a = 0, b = 0, i = 0;

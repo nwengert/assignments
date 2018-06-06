@@ -1,28 +1,34 @@
 /* THERE ARE A FEW TRICKS THAT I DONT KNOW ON THIS */
 
 * {
-    /* margin-left: 5px; */
     margin-bottom: 5px;
     font-size: 70px;
     box-sizing: border-box;
     text-align: center;
 }
-.todos {
-    height: 150px;
-    /* border: 5px solid white; */
+div{
+    position: absolute;
 }
-.topPink {
-    color: #F5C6D6;
+
+#topPink {
     background: #F5C6D6;
-    width: 100%;
-    /* margin-top: 50px;
-    margin-left: 50px; */
+    margin-left: 10%;
+    margin-right: 10%;
+    width:75%;
+    height: 70px;
+    margin-top: 20px;
+
 }
 .secondPinks {
     display: inline-block;
-    color: #EE2E84;
     background: #EE2E84;
+    height: 70px;
     width: 20%;
+    top: 110px;
+}
+#pink1 {
+    margin-left: 10%;
+    left: 50px;
 }
 .thirdBlues {
     display: inline-block;
