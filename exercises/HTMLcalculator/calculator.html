@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Calculator</title>
+    <link rel="stylesheet" href="calculator.css">
+</head>
+
+<body>
+    <h1>HTML Simple Calculator</h1>
+<!-- I wasn't able to get any use out of naming the inputs.  It only worked with getItemByID -->
+    <div id="add"></div>
+    <form action="add">
+        <input type="number" name="addone" placeholder="number" id="addone">
+        <h4>+</h4>
+        <input type="number" name="addtwo" placeholder="number" id="addtwo">
+        <button id="addbutton">Submit for addition</button>
+    </form>
+
+    <div id="subtract"></div>
+    <form action="subtract">
+        <input type="number" name="subone" placeholder="number" id="subone">
+        <h4>-</h4>
+        <input type="number" name="subtwo" placeholder="number" id="subtwo">
+        <button id="subtractbutton">Submit for subtraction</button>
+    </form>
+
+    <div id="multiply"></div>
+    <form action="multiply">
+        <input type="number" name="multOne" placeholder="number" id="multOne">
+        <h4>*</h4>
+        <input type="number" name="multTwo" placeholder="number" id="multTwo">
+    <button id="multiplybutton">Submit for multiplication</button>
+    </form>
+
+    <script src="calculator.js"></script>
+</body>
+
+</html>
