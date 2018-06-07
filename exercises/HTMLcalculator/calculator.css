@@ -1,0 +1,22 @@
+* {
+    background-color: lightgray;
+    font-family: Futura-Medium;
+}
+input {
+    width: 50px;
+    margin: 5px;
+    background-color: whitesmoke;
+    text-align: center;
+}
+button {
+    width: 150px;
+    margin: 12px;
+    background-color: lightgreen;
+    box-shadow: 5px;
+}
+h4 {
+    display: inline-block;
+}
+h2 {
+    display: inline-block;
+}
