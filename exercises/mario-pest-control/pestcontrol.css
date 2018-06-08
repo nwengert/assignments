@@ -1,0 +1,99 @@
+body {
+    font-family: Chalkboard;
+    background-image: url("background.jpg");
+    background-size: 72%;
+    background-color: lightgrey;
+
+    
+}
+nav {
+    text-align: center;
+}
+nav.titlenav {
+    font-size: 53px;
+    height: 70px;
+}
+h1 {
+    display: inline-block;
+}
+img {
+    margin: 7px;
+    max-height: 150px;
+    width: auto;
+}
+span {
+    margin-bottom: 12px;
+}
+.main {
+    margin-left: 5%;
+}
+input {
+    width: 35px;
+    text-align: center;
+}
+
+/* Goombas */
+div#goombaDiv.main {
+    position: relative;
+    width: 575px;
+    background: linear-gradient(to right, rgb(249, 216, 164), rgb(208, 149, 125));
+}
+#goombatitle {
+    position: absolute;
+    top: 0px;
+    left: 222px;
+}
+div#goombainnerdiv.innerdiv {
+    position: absolute;
+    top: 90px;
+    left: 250px;
+    font-size: 22px;
+}
+/* BOB-OMBS */
+div#bob-ombsDiv.main {
+    position: relative;
+    width: 575px;
+    background: linear-gradient(to right, rgb(110, 204, 255), rgb(83, 87, 116));
+}
+#bob-ombstitle {
+    position: absolute;
+    top: 0px;
+    left: 222px;
+}
+div#bob-ombsinnerdiv {
+    position: absolute;
+    top: 90px;
+    left: 250px;
+    font-size: 22px;
+}
+/* cheep-cheeps */
+div#cheep-cheepsDiv.main {
+    position: relative;
+    width: 575px;
+    background: linear-gradient(to right, rgb(255, 214, 66), rgb(253, 0, 16));
+}
+#cheep-cheepstitle {
+    position: absolute;
+    top: 0px;
+    left: 222px;
+}
+div#cheep-cheepsinnerdiv {
+    position: absolute;
+    top: 90px;
+    left: 250px;
+    font-size: 22px;
+}
+
+li {
+    display: inline-block;
+}
+#pricing {
+    font-size: 28px;
+    text-align: center;
+
+}
+footer {
+    position: relative;
+    top: 20px;
+    
+}

@@ -1,8 +1,6 @@
-/* THERE ARE A FEW TRICKS THAT I DONT KNOW ON THIS */
+THERE ARE A FEW TRICKS THAT I DONT KNOW ON THIS
 
 * {
-    margin-bottom: 5px;
-    font-size: 70px;
     box-sizing: border-box;
     text-align: center;
 }
@@ -12,24 +10,42 @@ div{
 
 #topPink {
     background: #F5C6D6;
+    margin-top: 5%;
     margin-left: 10%;
-    margin-right: 10%;
-    width:75%;
-    height: 70px;
-    margin-top: 20px;
-
+    margin-right: 8%;
+    height: 12%;
+    width:80%;
 }
 .secondPinks {
+    margin: 0px;
     display: inline-block;
     background: #EE2E84;
-    height: 70px;
-    width: 20%;
-    top: 110px;
+    top: 18%;
+    height: 12%;
+    width: 19%;
 }
 #pink1 {
-    margin-left: 10%;
+    margin-left: 0px;
     left: 50px;
 }
+#pink2 {
+    margin-left: 20%;
+    left: 50px;
+}
+#pink3 {
+    margin-left: 40%;
+    left: 50px;
+}
+#pink4 {
+    margin-left: 60%;
+    left: 50px;
+}
+
+
+
+
+
+
 .thirdBlues {
     display: inline-block;
     color:#85CFD8;

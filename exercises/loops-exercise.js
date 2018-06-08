@@ -30,25 +30,25 @@ console.log(Segundo('Windowpane', 'd'));
 
 // NOT DONE ---- yo no se
 
-var miArray = [13,54,17,22,54,87,56,42,37,44,12]
 
-function Tercero(miArray) {
+function fortyTwo(arr) {
+var miArray = [13,54,17,22,54,87,56,42,37,44,12];
     for (i = 0; i < miArray.length; i++) {
-        if (miArray[i] === 42) {
+        if (miArray[i] == 42) {
             return('the number 42 was found at position ' + miArray[i]);
         } else {
             return('the number 42 was NOT found');
         }
     }
 }
-console.log(Tercero(miArray));
+console.log(fortyTwo(miArray));
 
 
 // Write a function that accepts 10 numbers in an array and then 
 // prints out the smallest number out of the ten without using Math.min()
 
 // NOT DONE
-    var thisArray = [5, 17, 23, 22, 32, 75, 93, 27, 46, 61];
+    var thisArray = [5, 17, 23, 22, 32, 42, 93, 27, 46, 61];
     var j = thisArray[0]
 
     function findSmallest(thisArray) {
