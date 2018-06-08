@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="forms2.css">
+</head>
+<body>
+    <form name="demoForm">
+        <label>Name: <input type="text" name="name"></label>
+        <label>Email: <input type="email" name="email"></label>
+        <label>Password: <input type="password" name="password"></label>
+        <!-- adding a label helps for blind people. For screen reader  -->
+        <!-- you should also add Alt-tags.  Accessibility is a huge niche thing! -->
+        <!-- CHECKBOX -->
+        <label for="">Veteran: <input name="veteran"type="checkbox"></label>
+        <!-- RADIO BUTTONS -->
+        <label for="">Male<input value="male"name="gender"type="radio"></label>
+        <label for="">Female<input value="female"name="gender"type="radio"></label>
+        <label for="">Non-Binary<input value="non-binary"name="gender"type="radio"></label>
+        <!-- SLIDER -->
+        <!-- if they have the same name, they'll be of the same set and mutually exclusive -->
+        <label for="">Awesomeness <input name="awesomeness"type="range"value="500"min="0"></label>
+        <!-- on w3 you can look at the range, syling and such -->
+        <label for="">My Life: <textarea name="myLife" id="" cols="30" rows="10"></textarea></label>
+        <!-- lookup on w3 how to prevent resizing, size can be defines -->
+        <!-- DROPDOWN BOX -->
+        <select value="work"name="occupation" id="">
+            <option value="welder">Welder</option>
+            <option value="musician">Musician</option>
+            <option value="philosopher">Philosopher</option>
+        </select>
+
+
+        <button name="submit" type="submit">Submit</button>
+    </form>
+    <script src="forms2.js"></script>
+</body>
+</html>

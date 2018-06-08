@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Travel Form</title>
+    <link rel="stylesheet" href="travelform.css">
+</head>
+<body>
+    <h1>Traveler Information</h1>
+    <form name="travelform">
+        <div>
+            <label>First name: <input type="text" name="firstname"></label>            
+        </div>
+        <div>
+            <label>Last name: <input type="text" name="lastname"></label>
+        </div><br>
+        <div>
+            <label>Age: <input type="number" name="age"></label>
+        </div><br>
+        <div>
+            <label>Male <input value="male"type="radio" name="gender"></label>
+            <label>Female <input value="female"type="radio" name="gender"></label>
+        </div><br>
+        <div id="destination">
+            <p>Destination:</p>
+            <select name="destination" id="destination">
+                <option value="choose" selected="selected"></option>
+                <option value="phoenix">Phoenix</option>
+                <option value="denver">Denver</option>
+                <option value="dallas">Dallas</option>
+            </select>
+        </div>
+        <div>
+            <p>Dietary Restrictions:</p>
+            <label class="diet"><i>Vegetarian </i><input value="vegetarian" name="vegetarian" type="checkbox"></label>
+            <label class="diet"><i>Kosher </i> <input value="kosher" name="kosher" type="checkbox"></label>
+            <label class="diet"><i>Gluten free </i><input value="glutenFree" name="glutenfree" type="checkbox"></label>
+            <label class="diet"><i>Lactose free </i><input value="lactoseFree" name="lactosefree" type="checkbox"></label>
+            <br>
+            <button type="submit" name="submit">Submit</button>
+        </div>
+    </form>
+    
+
+    <script src="travelform.js"></script>
+</body>
+</html>

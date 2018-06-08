@@ -1,0 +1,28 @@
+
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(74, 56, 101);
+}
+body {
+    background-image: url(picplane.jpg);   
+    background-repeat:  no-repeat;
+    background-size: cover;
+
+}
+h1 {
+    text-align: center;
+}
+div {
+    text-align: right;
+    margin-right: 40%;
+}
+#destination p {
+    display: inline-block;
+}
+
+.diet {
+    display: block;
+}
+button {
+    margin-top: 3px;
+}
