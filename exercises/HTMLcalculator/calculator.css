@@ -11,12 +11,32 @@ input {
 button {
     width: 150px;
     margin: 12px;
-    background-color: lightgreen;
+    
     box-shadow: 5px;
+}
+#subtractbutton {
+    background: linear-gradient(to right, rgb(110, 204, 255), rgb(83, 87, 116));
+}
+#addbutton {
+    background: linear-gradient(to right, rgb(255, 214, 66), rgb(253, 0, 16));
+}
+#multiplybutton {
+    background: linear-gradient(to right, rgb(249, 216, 164), rgb(208, 149, 125));
 }
 h4 {
     display: inline-block;
 }
 h2 {
     display: inline-block;
+}
+#subtractbutton {
+    position: relative;
+    left: 7px;
+}
+#subtwo {
+    position: relative;
+    left: 7px;
+}
+span {
+    font-size: 22px;
 }

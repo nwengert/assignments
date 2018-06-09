@@ -13,27 +13,27 @@
     <h1>HTML Simple Calculator</h1>
 <!-- I wasn't able to get any use out of naming the inputs.  It only worked with getItemByID -->
     <div id="add"></div>
-    <form action="add">
+    <form action="add" id="addform">
         <input type="number" name="addone" placeholder="number" id="addone">
-        <h4>+</h4>
+        <h4 id="plussign">+</h4>
         <input type="number" name="addtwo" placeholder="number" id="addtwo">
-        <button id="addbutton">Submit for addition</button>
+        <button class="submitbutton" id="addbutton">Submit for addition</button>
     </form>
 
     <div id="subtract"></div>
-    <form action="subtract">
+    <form action="subtract" id="subtractform">
         <input type="number" name="subone" placeholder="number" id="subone">
         <h4>-</h4>
         <input type="number" name="subtwo" placeholder="number" id="subtwo">
-        <button id="subtractbutton">Submit for subtraction</button>
+        <button class="submitbutton" id="subtractbutton">Submit for subtraction</button>
     </form>
 
     <div id="multiply"></div>
-    <form action="multiply">
+    <form action="multiply" id="multiplyform">
         <input type="number" name="multOne" placeholder="number" id="multOne">
         <h4>*</h4>
         <input type="number" name="multTwo" placeholder="number" id="multTwo">
-    <button id="multiplybutton">Submit for multiplication</button>
+    <button class="submitbutton" id="multiplybutton">Submit for multiplication</button>
     </form>
 
     <script src="calculator.js"></script>
