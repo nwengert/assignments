@@ -1,0 +1,58 @@
+/* RESPONSIVE DESIGN AND MEDIA QUERIES go at the very end! */
+
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 0px;
+}
+a {
+    display: block;
+    text-align: center;
+    font-size: 12px;
+    width: 100%;
+    border: 1px solid maroon;
+}
+
+/* Play Flexbox zombies! */
+.parent{
+    display: flex;
+    /* If flex-direction: column; then the boxes get squished, because of the container */
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    height: 200px;
+}
+
+.child{
+    /* flex: 1; tells it to take up one equal fraction of the parent's width */
+    flex: 1;
+    width: 100px;
+    height: 100px;
+    background-color: lightseagreen;
+    border: solid 1px white;
+}
+
+
+/* if you want one child to be the odd man out: give it a unique id */
+#badegg{
+
+}
+     
+
+
+/* Any stylings in this will OVERRIDE above stylings, once the condition is met */
+
+@media (min-width: 500px) {
+    nav{
+        width: 80%;
+        margin: auto;
+    }
+}
+
+@media (min-width: 768px) {
+    a{
+        font-size: 12px;
+        width: 50%;
+        display: inline-block;
+    }
+}
