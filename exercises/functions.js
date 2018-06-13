@@ -23,9 +23,6 @@ var largestNum = function (x,y,z) {
 }
 console.log('The largest of the three is: ' + largestNum(34,11,22));
 
-
-
-
 // Write a function that accepts one number as a parameter, 
 // and returns whether that number is even or odd. 
 // (Return the string "even" or "odd");
@@ -35,10 +32,6 @@ var parImpar = function(j) {
     return j % 2 ? 'odd' : 'even';
 }
 console.log('The number is ' + parImpar(445));
-
-
-
-
 
 // Write a function that accepts a string as a parameter. 
 // If the length of the string is less than or equal 
@@ -57,38 +50,58 @@ var stringLength = function (hilo) {
 }
 console.log(stringLength('First I was '));
 
+
+
+//  THESE ARE EXTRA CREDIT ////////////////////////////////////////////////////////
+
 // Write a function that accepts a number ‘n’ as a parameter. 
 // Then print the first ‘n’ Fibonacci numbers and return their sum.
     // IS THIS A FACTORIAL QUESTION?
 
-// var fibo = function (n) {
-//     y = n;
-//     for (i = n - 1; i > 0; i--) {
-//         var y = y + i;
-//         console.log()
-//     }
-// }
-// fibo(6);
-
+//DONE
+var fibo = function(n) {
+    var myArray = [];
+    var y = 0;
+    for(i = n; i > 0; i--) {
+        y = y + i
+        myArray.push(i);
+    } console.log(myArray + ' \n' + y);
+}
+fibo(18);
 
 // Write a function to solve the quadratic equation.
 //  (It should accept three numbers as parameters, 
 //     and then return an array with the resulting x values.)
-// NOT DONE
 
-// var quadraticEq = function(a, b, c) {
-//   var equis = (-b +- );
-
-// }
+// DONE
+var quadEq = function(a, b, c) {
+  var result1 = (-1 * b + Math.sqrt(Math.pow(b, 2) - (4 * a * c))) / (2 * a);
+  var result2 = (-1 * b - Math.sqrt(Math.pow(b, 2) - (4 * a * c))) / (2 * a);
+  return ('\n\tx = '+ result1 + '\n\tx = ' + result2 + '\n');
+}
+console.log(quadEq(1, 3, -4));
 
 // Write a function that accepts a string as a parameter. 
 // Return the most frequently occuring letter in that string.
 
-// NOT DONE
-  //these are kindof hard. 
+// // NOT DONE
+//DO THIS WITH AN OBJECT!!!
+
 var mostFreqLetter = function(str) {
-    return str.split('').sort();
-    //loop through the array until the letter changes
-    //   count how many loops until the letter changes
+    var freqTracker = {
+        
+    }
 }
-console.log(mostFreqLetter('nathan'));
+
+
+
+// var mostFreqLetter = function(str) {
+//     var myArray = str.split('').sort();
+//     //insert a $ into the array before a character change
+//     for (i = 1; i < myArray.length; i++) {
+//         if (myArray[i] !== myArray[i-1]) {
+//             myArray.splice(i, 0, '$');
+//         } return myArray;
+//     }
+// }
+// console.log(mostFreqLetter('Sitting by the window'));

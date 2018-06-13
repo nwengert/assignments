@@ -1,0 +1,48 @@
+* {
+    font-family: SuperMarioGalaxy;
+    color: gdb(217, 57, 48);
+    margin: 0px;
+
+}
+.titlebar {
+    font-size: 22px;
+    background-color: rgb(250, 219, 75);
+    color: rgb(217, 57, 48);
+    width: 90%;
+}
+.imagebar {
+    background-color: rgb(217, 57, 48);
+    text-align: center;
+    width: 90%;
+}
+#luigijumping{
+    max-height: 85%;
+    margin: 10px;
+}
+.textbar {
+    color: rgb(217, 57, 48);
+    text-align: center;
+    width: 90%;
+}
+
+
+.footbar{
+    display: flex;
+    background-color: rgb(250, 219, 75);
+    width: 90%;
+}
+#mushroom{
+    display: inline-flex;
+    max-height: 50px;
+    width: auto;
+    align-items: flex-end;
+}
+
+
+.regularText{
+    font-family: 'Arial-Black';
+}
+
+h2{
+    margin: 5px;
+}
