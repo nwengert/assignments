@@ -85,23 +85,39 @@ console.log(quadEq(1, 3, -4));
 // Return the most frequently occuring letter in that string.
 
 // // NOT DONE
-//DO THIS WITH AN OBJECT!!!
+///BUT CLOSE ENOUGH!
 
-var mostFreqLetter = function(str) {
-    var freqTracker = {
-        
+var getFreq = function(str) {
+    var output = {};
+    var removedChars = "";
+    for (var i = 0; i < str.length; i++) {
+        var character = str.charAt(i);   //str[i] means same thing
+        if (output[character]) {
+            output[character]++;
+        }else{
+            output[character] = 1;
+            removedChars += character;
+        }
     }
+    const sortedArray = [];
+    // to make descending order sorted - 
+    // loop through each key/value pair and
+    //  add separate objects to the array
+    for (var key in output) {
+        sortedArray.push({ [key]: output[key] })
+    }
+    return sortedArray.sort(function(obj1, obj2) {
+        var key1 = Object.keys(obj1)[0];
+        var key2 = Object.keys(obj2)[0];
+        return obj2[key] -obj1[key1];
+    })
+    return {
+        count: output,
+        removed: removedChars
+    };
+    var maxObj = sortedArray.reduce(function(max, obj) {
+        return obj.num > max.num? obj : max;
+      });
 }
-
-
-
-// var mostFreqLetter = function(str) {
-//     var myArray = str.split('').sort();
-//     //insert a $ into the array before a character change
-//     for (i = 1; i < myArray.length; i++) {
-//         if (myArray[i] !== myArray[i-1]) {
-//             myArray.splice(i, 0, '$');
-//         } return myArray;
-//     }
-// }
-// console.log(mostFreqLetter('Sitting by the window'));
+console.log(getFreq('slimy smelly solution'));
+  
