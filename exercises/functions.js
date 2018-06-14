@@ -85,6 +85,7 @@ console.log(quadEq(1, 3, -4));
 // Return the most frequently occuring letter in that string.
 
 // // NOT DONE
+<<<<<<< HEAD
 ///BUT CLOSE ENOUGH!
 
 var getFreq = function(str) {
@@ -121,3 +122,25 @@ var getFreq = function(str) {
 }
 console.log(getFreq('slimy smelly solution'));
   
+=======
+//DO THIS WITH AN OBJECT!!!
+
+var mostFreqLetter = function(str) {
+    var freqTracker = {
+        
+    }
+}
+
+
+
+// var mostFreqLetter = function(str) {
+//     var myArray = str.split('').sort();
+//     //insert a $ into the array before a character change
+//     for (i = 1; i < myArray.length; i++) {
+//         if (myArray[i] !== myArray[i-1]) {
+//             myArray.splice(i, 0, '$');
+//         } return myArray;
+//     }
+// }
+// console.log(mostFreqLetter('Sitting by the window'));
+>>>>>>> f898b3eaf61f4ba28be721d25c99de8e7077cf2b
