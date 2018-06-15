@@ -1,0 +1,43 @@
+{
+    "appetizers":{
+        "cheeseAndCrackers": {
+            "name": "Goodyeah",
+            "price": 2.75,
+            "ingredients": ["goudaCheese", "crackers", "olives"]
+        },
+        "fruitCocktail": {
+            "name": "pineapple",
+            "price": 1.25,
+            "ingredients": ["pineapple", "apple", "peach", "pear"]
+        },
+        "meat": {
+            "name": "spanishJamon",
+            "price": 3.75,
+            "ingredients": ["jamonSerrano", "artisanBread", "butter", "tomato", "garlic"]
+        }  
+    },  
+    "coldSandwiches":{
+        "blt":{
+            "name": "blt",
+            "price": 4.20,
+            "ingredients": ["bacon", "lettuce", "tomato", "bread"]
+        },
+        "pbj":{
+            "name": "peanutButterJellyTime",
+            "price": 2.33,
+            "ingredients": ["peanuts", "butter", "jelly", "bread"]
+        },
+        "tuna":{
+            "name": "tunayeeeeahhhhh",
+            "price": 4.20,
+            "ingredients": ["tuna", "pickles", "pepper", "celery", "bread"]
+        }
+    },
+    "hotSandwiches":{
+        "grilledCheese":{
+            "name": "grilledCheese",
+            "price": 2.22,
+            "ingredients": ["bread", "cheese", "butter"]
+    }
+    }
+}

@@ -1,6 +1,32 @@
 var rs = require("readline-sync");
-var name = rs.question('Welcome! What is your name?');
 
+console.log('\n\n\n\nA radioactive comet has caused many woodland creatures to become severely mutated.'+
+            '\nEven some humans have become ghastly deformed and dangerous,'+
+            '\nbut all you want is to get over the river and through the woods, to visit your grandma.')
+var name = rs.question('\n\n\tGood luck! \n\n\tWhat is your name?    ');
+console.log('\n\n\n\n'+ name + ', you are only able to carry one of the following items...')
+
+var startingItems = ['apples so that Grammy can make some delicous pie!', 
+                    'your lucky machete', 
+                    'a walking stick'];
+var startingSelection = rs.keyInSelect(startingItems, name+ " Please choose.  ");
+
+if (startingSelection === 0) {
+    console.log('\n\nYou\'re taking apples! You will get to make the trip back on a full belly!')
+    // add apples to person.items
+}
+if (startingSelection === 1) {
+    console.log('\n\nYYou chose to borrow Chancho\'s lucky machete.');
+    // add to items
+}
+if (startingSelection === 2) {
+    console.log('\n\nYYou chose a walking stick.  Not a bad choice!');
+    // add to person.items
+}
+if (startingSelection === -1) {
+    console.log('\n\nYSo you don\'t want anything to do with any of this ay?'+
+                '\nWell, Grammy needs visiting, so get along your way!  \n\n\tWithout \n\n\t\tany \n\n\t\t\titems...')
+}
 var player = {
     name: name,
     hp: 100,
@@ -29,7 +55,7 @@ function genRandomEnemy() {
 var win = false;
 
 while(true){
-    var isWalking = rs.question('Press W to begin walking');
+    var isWalking = rs.question('Press W to begin walking    ');
     //see whether there is an enemy
         // if false continue looping
 

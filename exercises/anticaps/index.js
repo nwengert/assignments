@@ -15,4 +15,4 @@
     } 
     return myArray.join("");
   }
-console.log(antiCaps('My Name is Nathan Wengert'));
+// console.log(antiCaps('My Name is Nathan Wengert'));
