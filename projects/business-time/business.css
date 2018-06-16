@@ -1,7 +1,52 @@
 
 
-
+body {
+    font-family: 'Kaushan Script', cursive;
+    /* font-family: Herculanum, HannotateTC-W5, HanziPenSC-W3; */
+    text-align: center;
+    text-transform: uppercase;
+}
+.topDiv{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+div.topTitle {
+    margin-bottom: 60px;
+}
 .headerlogo {
-    width: 100%
+    text-align: center;
+    align-items: center;
+    width: 100%;
     height: auto;
+    /* background: radial-gradient(rgb(229, 192, 162), white); */
+}
+img#firehawklogo{
+    max-width: 85%;
+    height: auto;
+}
+h1{
+text-shadow: 2px 2px 2px #aaa;
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.navDiv{
+    margin: 7px 60px 60px 7px;
+    max-width: 10%
+}
+
+
+.picDiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.woodPics{
+    height: 100%;
+    width: 100%;
+    background-color: brown;
+    margin: 5px;
 }
