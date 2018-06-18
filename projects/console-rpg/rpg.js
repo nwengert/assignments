@@ -24,7 +24,7 @@ if (startingSelection === 2) {
     // add to person.items
 }
 if (startingSelection === -1) {
-    console.log('\n\nYSo you don\'t want anything to do with any of this ay?'+
+    console.log('\n\nSo you don\'t want anything to do with any of this ay?'+
                 '\nWell, Grammy needs visiting, so get along your way!  \n\n\tWithout \n\n\t\tany \n\n\t\t\titems...')
 }
 var player = {

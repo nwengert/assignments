@@ -1,5 +1,4 @@
 
-
 body {
     font-family: 'Kaushan Script', cursive;
     /* font-family: Herculanum, HannotateTC-W5, HanziPenSC-W3; */
@@ -41,21 +40,3 @@ li{
     margin: 7px 60px 60px 7px;
     max-width: 10%
 }
-.row{
-    display: flex;
-    flex-wrap: wrap;
-    padding: 0 4px;
-    justify-content: flex-start;
-}
-.column {
-    flex: 50%;
-    max-width: 50%px;
-    padding: 0 8px;
-}
-.column img {
-    width: 40%;
-    max-height: 373.19px;
-    vertical-align: middle;
-    margin: 5px 5px 5px 5px;
-}
-
