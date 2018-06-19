@@ -9,12 +9,16 @@ var newNumbers = numberArr.sort(function(num1, num2){
 })
 console.log(newNumbers);
 
+
+
 // 2) Sort an array from largest number to smallest
 console.log('\n\t sort num arr from Largest to smallest')
 var newNumbers2 = numberArr.sort(function(num1, num2){
     return num2 - num1;
 })
 console.log(newNumbers2);
+
+
 
 // 3) Sort an array from shortest string to longest
 
@@ -25,6 +29,8 @@ var S2LStrArr = words.sort(function(a, b){
 })
 console.log(S2LStrArr);
 
+
+
 // 4) Sort an array alphabetically
 console.log('\n\tArray sorted alphabeticamente');
 var alphabetize = words.sort(function(a, b){
@@ -33,6 +39,8 @@ var alphabetize = words.sort(function(a, b){
     return 0;
 })
 console.log(alphabetize);
+
+
 
 // 5) Sort the objects in the array by age
 console.log('\n\tObects in array sorted by age')
