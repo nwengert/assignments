@@ -55,6 +55,7 @@ function genAttackPower(){
 function genDamage(){
     return Math.floor(Math.random() * 11) + 5;             // a little damage, because they're unhealthy mutated forest dwellers
 }
+
 ////
 ///   enemy
 //
@@ -113,19 +114,23 @@ while (!thereIsEnemy) {
         var newEnemy = GenRandomEnemy();
         //describe the enemy
         console.log('\nYou are able to see that it is a '+ newEnemy.enemyName + ' coming after you. ' +
-                    '\n\t(hp = '+ newEnemy.hp + ', attack = '+ newEnemy.attack + ', current damage = '+ newEnemy.damage +'\)');
+                    '\n\t(hp = '+ newEnemy.hp + ', attack = '+ newEnemy.attack+ ')');
         //decide to fight or run
         var fightSelection = rs.keyInYN('\n'+ name + ", do you wish to fight?  ");
         if(fightSelection) {
                 console.log('.'+'\n  .'+'\n    .'+'\n      .'+
                             '\n'+ name + ' is a fighter, not afraid of this puny '+ newEnemy.enemyName+ '.')
                 //Start fight sequence. 
+                newEnemy.attack = genAttackPower();
+                if(player.attack !== 100) {                 //no new player.attack if powered to 100 by apples
+                    player.attack = genAttackPower();
+                }
             while(newEnemy.hp > 0 && player.hp > 0){                           // keep fighting as long as both are alive
                 console.log("\n\nThe " + newEnemy.enemyName + " strikes.");
                 player.hp -=  newEnemy.attack;
                 if(player.hp < 0) {
-                    console.log('You gave it all you could.  \nComet radiation enhanced woodland creatures just arent your thing.'+
-                                '\n\t\t YOU DIED.\n\n\t\tRIP ' + name + '\n\n\n');
+                    console.log('   And that was the end of you. \nYou gave it all you could.  \nComet radiation enhanced woodland creatures just arent your thing.'+
+                                '\n\n\t\t YOU DIED.\n\n\t\tRIP ' + name + '\n\n');
                     break;
                 }
                 console.log('\t' + name + ' hp: ' + player.hp);
@@ -135,13 +140,14 @@ while (!thereIsEnemy) {
                     console.log(name + ' with a '+ startingItems[startingSelection] + ' is unstoppable!'+
                                 '\n\n\tSo far at least...');
                     player.enemiesKilled++;
-                    break;
+                    // break;
                 }
                 console.log('\t' + newEnemy.enemyName + ' hp: ' + newEnemy.hp);
                 var isFighting = rs.question('Press \'f\' to resume the fight    ', { limit: "f", limitMessage: "Wrong key!"});
                 // if the item selected was APPLES
                 if(startingSelection === 0 && player.hp < 35) {
-                    console.log('\n\nYou are having a difficult time!  Current hp is ' + player.hp +
+                    console.log('.'+'\n  .'+'\n    .'+'\n      .'+
+                                '\n\nYou are having a difficult time!  Current hp is ' + player.hp +
                                 '\nBUT...  There might be something you can do!'+
                                 '\nPerhaps one of those apples could help your dire situation.')
                     var appleChoice = ['Throw one of your apples at the ' + newEnemy.enemyName, 
@@ -149,24 +155,25 @@ while (!thereIsEnemy) {
                                         'Do nothing with the apples, Granny would kill you faster than the '+ newEnemy.enemyName];
                     var appleSelection = rs.keyInSelect(appleChoice, name + ', decide what to do with your apples.')
                     if(appleSelection === 0){
-                        console.log('\n\nYou grab one of your shiny apples, wind up and hurl it towards the '+ newEnemy.enemyName +
+                        console.log('.'+'\n  .'+'\n    .'+'\n      .'+
+                                    '\n\nYou grab one of your shiny apples, wind up and hurl it towards the '+ newEnemy.enemyName +
                                     ',\nwhich snatches it right out of the air and gulps it down without chewing!' +
                                     '\nYou stand mesmerized as the creature suddenly grows is size and strength,'+
                                     '\n\tuproots a nearby tree,\n\t\tand after raising it high in the air'+
                                     '\n\n\t\t\tsmashes you into the ground.'+
-                                    '\n\nYOU DIED.    RIP '+name);
+                                    '\n\nYOU DIED.    RIP '+name+'\n\n');
                         break;
                     }
                     if(appleSelection === 1){
                         console.log('.'+'\n  .'+'\n    .'+'\n      .'+
-                                    'Your last attack left the '+ newEnemy.enemyName + ' dazed enough for you to now sneak away for a moment'+
+                                    '\nYour last attack left the '+ newEnemy.enemyName + ' dazed enough for you to now sneak away for a moment'+
                                     '\nYou reach into your bag and pull out one of Grammy\'s apples, hoping for anything to give you back an advantage.'+
                                     '\nYou chow down ravenously, and while some juice dribbles down your chin you feel your body regain strength.'+
-                                    '\n\n\tNo, wait...'+
-                                    '\n\nYou\'re not just regaining strength, but it is exceeding anything you\'ve ever felt before!'+
+                                    '\n\tNo, wait...'+
+                                    '\nYou\'re not just regaining strength, but it is exceeding anything you\'ve ever felt before!'+
                                     '\n\nYou step boldy out to face the '+ newEnemy.enemyName +' once again, with a wry smile.'+
                                     '\nThe '+ newEnemy.enemyName +' is astonished when you catch it\'s next attack midstrike.'+
-                                    '\nEven more so when you strip it\'s weapon from it\'s hand and slam it down it\'s throat');
+                                    '\nEven more so when you rip off it\'s are and slam it down it\'s throat!');
                         player.hp = 100;
                         player.attack = 100;
                         player.enemiesKilled++;
@@ -175,42 +182,43 @@ while (!thereIsEnemy) {
                                 '\n\t\t\tenemies killed: '+ player.enemiesKilled +
                                 '\n\nYou now throw your shoulders back and begin strutting your way to Grammy\'s');
                         thereIsEnemy = true;  //there are more still out there!
-
-
-            //HELP NEEDED "HERE"
-                        break;  //This needs to go back into the previous loop
-
                     }
                     if(appleSelection === 2) {
                         console.log('\n\nYou aren\'t doing a damn thing with a single apple, \nafter all, Grammy gets disappointed easily.'+
                                     '\nYou throw the bag of apples back over your shoulder and return to face the '+ newEnemy.enemyName);
                     } 
                 }   
-                newEnemy.attack = genAttackPower();
-                if(player.attack !== 100) {
-                    player.attack = genAttackPower();
-                }
+
             } //End of fight sequence
         }else{
 
 // NEEDS HELP ----right now it's accepting any keystroke
 
-            console.log('.'+'\n  .'+'\n    .'+'\n      .'+'\n        .'+'\n          .'+
-            '\n\nYou decided to run.  But take a blow before getting away.  ');
-            //subtract that from the player's hp
-            player.hp = player.hp - newEnemy.attack;
-                //make random possibility that player can get away unscathed
+            function tryToEscape(){
+                var num = Math.floor(Math.random()*10);
+                if(num < 5){
+                    console.log('.'+'\n  .'+'\n    .'+'\n      .'+'\n        .'+'\n          .'+
+                                '\nYou got away!'+
+                                '\nlet\'s hope that this luck doesn\'t run out!'+
+                                '\nYou get going again, keeping an eye out for anything lurking nearby.')
+                }else{
+                    console.log('.'+'\n  .'+'\n    .'+'\n      .'+'\n        .'+'\n          .'+
+                                '\nThe enemy got in a blow before you got away');
+                    player.hp = player.hp - newEnemy.attack;
+                }
+            }
+            tryToEscape();
             // make sure the player is not dead
             if(player.hp < 0) {
                 console.log('\n\t\t YOU DIED.\n\n\t\tRIP ' + name + '\n\n\n');
                 break;
                 }
             // console.log player stats. 
-            console.log('\n\n\t'+ name + '\'s current hp: ' + player.hp +
-                        '\n\t\titems: '+ player.items +
+            console.log('\n\t'+ name + '\'s current hp: ' + player.hp +
+                        // '\n\t\titems: '+ player.items +
                         '\n\t\tenemies killed: '+ player.enemiesKilled);
 
-            console.log('\n\n Now pick yourself up and get going, Grammy is waiting.')
+            console.log('\n Now pick up and get going, Grammy is waiting!')
             thereIsEnemy = false;
             }
         }

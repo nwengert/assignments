@@ -1,0 +1,31 @@
+
+* {
+font-family: GujaratiSangamMN, fantasy;
+}
+.display{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+
+}
+h1{
+    display: inline-block
+}
+
+.clicksCounted{
+    height: 150px;
+    width: 150px;
+    margin-top: 150px;
+    background-color: dimgrey;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+span {
+    font-size: 200%;
+    color: lemonchiffon;
+    margin: 5px;
+}

@@ -11,13 +11,17 @@ function total(arr) {
         return accumulator + element;
     })
 }
-
 console.log(total([1,2,3])); // 6 
 
 
 
+// 2) Turn an array of numbers into a long string of all those numbers.
+console.log('\tArray to string of numbers')
+function stringConcat(arr) {
+    arr.join('+');
+}
 
-
+console.log(stringConcat([1,2,3])); // "123" 
 
 
 // 3) Turn an array of voter objects into a count of how many people voted

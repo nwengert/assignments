@@ -102,13 +102,24 @@ var rs = require("readline-sync");
 //                     'Do nothing with the apples, Granny would kill you faster than the '+ newEnemy];
 
 // console.log(appleChoice[2]);
-function genAttackPower(){
-    return Math.floor(Math.random() * 11) + 20;          // it ill always be 20, with potential to be 30
-}
-var attack = 70;
+// function genAttackPower(){
+//     return Math.floor(Math.random() * 11) + 20;          // it ill always be 20, with potential to be 30
+// }
+// var attack = 70;
 
-if(attack !== 100) {
-    attack = genAttackPower();
-}
+// if(attack !== 100) {
+//     attack = genAttackPower();
+// }
 
-console.log(attack);
+// console.log(attack);
+
+
+function getAway(){
+    var num = Math.floor(Math.random()*10);
+    if(num < 5){
+        console.log("You got away!")
+    }else{
+        console.log("The enemy got in another blow before you got away");
+    }
+}
+getAway();

@@ -2,7 +2,113 @@
     box-sizing: border-box; 
     font-size: 0px;
 }
+@media screen and (max-width: 768px){
+    .container {
+        height: 70%;
+        width: 100%;
+        display: grid;
+        grid-gap: 5px;
+        grid-template-columns: repeat(4, 1fr);
+        grid-template-rows: repeat(9, 50px);
+        grid-template-areas: 
+            "a a a a"
+            "b b b b"
+            "c c c c"
+            "d d d d"
+            "e e e e"
+            "f f f f"
+            "g g g g"
+            "h h h h"
+            "i i i i"
+    }
+    #child1 {
+        background-color:#F5C6D6;
+        grid-area: a;
 
-div{
-    
+    }
+    #child2 {
+        background-color: #EE2E84;
+        grid-area: b;
+    }
+    #child3 {
+        background-color: #EE2E84;
+        grid-area: c;
+    }
+    #child4 {
+        background-color: #EE2E84;
+        grid-area: d;
+    }
+    #child5 {
+        background-color: #EE2E84;
+        grid-area: e;
+    }
+    #child6 {
+        background-color: #85CFD8;
+        grid-area: f;
+    }
+    #child7 {
+        background-color: #85CFD8;;
+        grid-area: g;
+    }
+    #child8 {
+        background-color: #8DC63F;
+        grid-area: h;
+    }
+    #child9 {
+        background-color: #E76E34;
+        grid-area: i;
+    }
+}
+
+@media screen and (min-width: 768px){
+    .container {
+        height: 70%;
+        width: 100%;
+        display: grid;
+        grid-gap: 5px;
+        grid-template-columns: repeat(8, 1fr);
+        grid-template-rows: repeat(9, 50px);
+        grid-template-areas: 
+            ". . a a a a . ."
+            ". . b c d e . ."
+            ". . f f g g . ."
+            ". . h h h i . ."
+    }
+    #child1 {
+        background-color:#F5C6D6;
+        grid-area: a;
+
+    }
+    #child2 {
+        background-color: #EE2E84;
+        grid-area: b;
+    }
+    #child3 {
+        background-color: #EE2E84;
+        grid-area: c;
+    }
+    #child4 {
+        background-color: #EE2E84;
+        grid-area: d;
+    }
+    #child5 {
+        background-color: #EE2E84;
+        grid-area: e;
+    }
+    #child6 {
+        background-color: #85CFD8;
+        grid-area: f;
+    }
+    #child7 {
+        background-color: #85CFD8;;
+        grid-area: g;
+    }
+    #child8 {
+        background-color: #8DC63F;
+        grid-area: h;
+    }
+    #child9 {
+        background-color: #E76E34;
+        grid-area: i;
+    }
 }

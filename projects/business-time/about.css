@@ -40,3 +40,15 @@ li{
     margin: 7px 60px 60px 7px;
     max-width: 10%
 }
+.content{
+    display: flex;
+    flex-direction: row;
+}
+.contentText{
+    text-align: left;
+}
+#sawingImage {
+    max-height: 500px;
+    width: auto;
+    margin: 7px;
+}
