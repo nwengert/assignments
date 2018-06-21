@@ -1,0 +1,89 @@
+
+
+body {
+    font-family: 'Kaushan Script', cursive;
+    /* font-family: Herculanum, HannotateTC-W5, HanziPenSC-W3; */
+    text-align: center;
+    text-transform: uppercase;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.topDiv{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+div.topTitle {
+    margin-bottom: 60px;
+    width: 60%;
+    align-items: stretch;
+}
+.headerlogo {
+    text-align: center;
+    align-items: center;
+    width: 100%;
+    height: auto;
+    /* background: radial-gradient(rgb(229, 192, 162), white); */
+}
+img#firehawklogo{
+    max-width: 85%;
+    height: auto;
+}
+h1{
+text-shadow: 2px 2px 2px #aaa;
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    list-style-type: none;
+}
+li{
+    background-color: red;
+    width: 155px;
+}
+.navDiv{
+    margin: 7px 30px 30px 7px;
+    max-width: 10%
+}
+/* above this is original */
+.gridPic {
+    max-height: 500px;;
+    width: auto;
+}
+.container {
+    width: 60%;
+    display: grid;
+    text-align: center;
+    grid-gap: 10px;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(12, 1fr);
+}
+#child1 {
+    grid-column: 1 / 2;
+}
+#child2 {
+    grid-column: 2 / 3;
+}
+#child3 {
+    grid-column: 3 / 4;
+}
+#child3 {
+
+}
+#child4 {
+
+}
+#child5 {
+
+}
+#child6 {
+
+}
+#child7 {
+
+}
+#child8 {
+
+}

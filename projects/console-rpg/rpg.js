@@ -99,7 +99,7 @@ var isWalking = rs.question('\nPress \'w\' to take your first steps into the woo
 
 
 while (!thereIsEnemy) {
-    if((Math.floor(Math.random()* 100)) < 75) {
+    if((Math.floor(Math.random()* 100)) < 75) {  //there is no enemy
         thereIsEnemy = false;
         // make 'keep walking' phrases selected at random, so that the same one doesn't repeat continuously. 
         console.log('\n  Turns out there is nothing out there, for now...');
@@ -114,10 +114,10 @@ while (!thereIsEnemy) {
         var newEnemy = GenRandomEnemy();
         //describe the enemy
         console.log('\nYou are able to see that it is a '+ newEnemy.enemyName + ' coming after you. ' +
-                    '\n\t(hp = '+ newEnemy.hp + ', attack = '+ newEnemy.attack+ ')');
+                    '\n\t(hp = '+ newEnemy.hp + ', current attack power = '+ newEnemy.attack+ ')');
         //decide to fight or run
         var fightSelection = rs.keyInYN('\n'+ name + ", do you wish to fight?  ");
-        if(fightSelection) {
+        if(fightSelection) {                // player chose to fight
                 console.log('.'+'\n  .'+'\n    .'+'\n      .'+
                             '\n'+ name + ' is a fighter, not afraid of this puny '+ newEnemy.enemyName+ '.')
                 //Start fight sequence. 
@@ -137,7 +137,8 @@ while (!thereIsEnemy) {
                 console.log("You strike back with everything you can muster.")
                 newEnemy.hp -= player.attack;
                 if(newEnemy.hp < 0){
-                    console.log(name + ' with a '+ startingItems[startingSelection] + ' is unstoppable!'+
+                    console.log('And that was the blow that brings down the '+ newEnemy.enemyName + '!'+
+                                '\n' + name + ' with a '+ startingItems[startingSelection] + ' is unstoppable!'+
                                 '\n\n\tSo far at least...');
                     player.enemiesKilled++;
                     // break;
@@ -145,7 +146,7 @@ while (!thereIsEnemy) {
                 console.log('\t' + newEnemy.enemyName + ' hp: ' + newEnemy.hp);
                 var isFighting = rs.question('Press \'f\' to resume the fight    ', { limit: "f", limitMessage: "Wrong key!"});
                 // if the item selected was APPLES
-                if(startingSelection === 0 && player.hp < 35) {
+                if(startingSelection === 0 && player.hp < 35) {  // if player is close to dying, but has a bag of apples!
                     console.log('.'+'\n  .'+'\n    .'+'\n      .'+
                                 '\n\nYou are having a difficult time!  Current hp is ' + player.hp +
                                 '\nBUT...  There might be something you can do!'+
@@ -181,27 +182,22 @@ while (!thereIsEnemy) {
                                 '\n\t\t\tattack: '+ player.attack +
                                 '\n\t\t\tenemies killed: '+ player.enemiesKilled +
                                 '\n\nYou now throw your shoulders back and begin strutting your way to Grammy\'s');
-                        thereIsEnemy = true;  //there are more still out there!
                     }
                     if(appleSelection === 2) {
                         console.log('\n\nYou aren\'t doing a damn thing with a single apple, \nafter all, Grammy gets disappointed easily.'+
                                     '\nYou throw the bag of apples back over your shoulder and return to face the '+ newEnemy.enemyName);
-                    } 
-                }   
+                        } 
+                    }   
 
-            } //End of fight sequence
-        }else{
-
-// NEEDS HELP ----right now it's accepting any keystroke
-
-            function tryToEscape(){
+                } //End of fight sequence
+         }else{                             // player has 50% change of getting away unscathed
+            function tryToEscape(){         //50% chance that player gets away
                 var num = Math.floor(Math.random()*10);
                 if(num < 5){
                     console.log('.'+'\n  .'+'\n    .'+'\n      .'+'\n        .'+'\n          .'+
                                 '\nYou got away!'+
-                                '\nlet\'s hope that this luck doesn\'t run out!'+
-                                '\nYou get going again, keeping an eye out for anything lurking nearby.')
-                }else{
+                                '\nlet\'s hope that this luck doesn\'t run out!')
+                }else{                      //player gets hit
                     console.log('.'+'\n  .'+'\n    .'+'\n      .'+'\n        .'+'\n          .'+
                                 '\nThe enemy got in a blow before you got away');
                     player.hp = player.hp - newEnemy.attack;
@@ -209,7 +205,7 @@ while (!thereIsEnemy) {
             }
             tryToEscape();
             // make sure the player is not dead
-            if(player.hp < 0) {
+            if(player.hp < 0) {             //player dies
                 console.log('\n\t\t YOU DIED.\n\n\t\tRIP ' + name + '\n\n\n');
                 break;
                 }
@@ -221,8 +217,9 @@ while (!thereIsEnemy) {
             console.log('\n Now pick up and get going, Grammy is waiting!')
             thereIsEnemy = false;
             }
-        }
-    }
+
+     }
+}
 
 
                         //         var enemy = genRandomEnemy();
@@ -266,4 +263,3 @@ while (!thereIsEnemy) {
                         //     console.log("You won!");
                         // }else{
                         //     console.log("You suck!!");
-                        // }
