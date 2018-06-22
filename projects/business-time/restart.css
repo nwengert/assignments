@@ -1,0 +1,231 @@
+body {
+    font-family: 'Kaushan Script', cursive;
+    text-align: center;
+    text-transform: uppercase;
+}
+span {
+    margin-top: 12px;
+}
+li{
+    margin: 0 0 25px 0;
+}
+img#firehawklogo{
+    max-width: 96%;
+    height: auto;
+}
+ul {
+    position: fixed;
+    list-style-type: none;
+    letter-spacing: 5px;
+    text-align: left;
+}
+/* smallest */
+
+@media screen and (min-width: 320px){
+    #dchild2 {
+        font-size: 30px;
+    }
+    .carveImage {
+        max-width: 98%;
+        margin: 5px;
+    }
+    ul {
+        font-size: 9px;
+        letter-spacing: 3px;
+    }
+    .container4 {
+        font-size: 15px;
+        height: 100%;
+        width: 100%;
+        display: grid;
+        grid-gap: 10px;
+        grid-template-columns: repeat(12, 1fr);
+        grid-template-rows: 55px 55px 55px 55px 55px;
+        grid-template-areas: 
+            "h h h h h h h h h h h h"
+            "h h h h h h h h h h h h"
+            "a a a a a a a a a a a a"
+            "c c c b b b b b b b b b"
+            "c c c b b b b b b b b b"
+            "c c c b b b b b b b b b"
+            "c c c b b b b b b b b b"
+            "c c c b b b b b b b b b"
+            "c c c b b b b b b b b b"
+            "c c c b b b b b b b b b"
+            "c c c b b b b b b b b b"
+            "c c c b b b b b b b b b"
+            "c c c b b b b b b b b b"
+            "c c c b b b b b b b b b"
+            "c c c b b b b b b b b b"
+            "c c c b b b b b b b b b"
+            "c c c b b b b b b b b b"
+            "c c c b b b b b b b b b"
+            "c c c b b b b b b b b b"
+            "c c c b b b b b b b b b"
+            "f f f f f f f f f f f f"
+    }
+    #dchild1{
+        background-color: rgb(142, 142, 142);
+        color: white;
+        grid-area: h;
+        border-radius: 5px;
+    }
+    #dchild2{
+        background-color: rgb(60, 60, 60);
+        color: white;  
+        word-wrap: break-word;  
+        grid-area: a;
+        border-radius: 5px;
+    }
+    #dchild3{
+        background-color: rgb(60, 60, 60);
+        color: white;    
+        grid-area: c;
+        border-radius: 5px;
+    }
+    #dchild4{
+        background-color: rgb(197, 197, 197);
+        color: rgb(60, 60, 60);
+        grid-area: b;
+        border-radius: 5px;
+    }
+    #dchild5{
+        background-color: rgb(142, 142, 142);
+        color: white;    
+        grid-area: f;
+        border-radius: 5px;
+    }
+}
+
+/* middle */
+
+                @media screen and (min-width: 760px){
+                    .carveImage {
+                        max-width: 47%;
+                        margin: 5px;
+                    }
+                    li {
+                        font-size: 25px;
+                    }
+                    .container4 {
+                        font-size: 25px;
+                        height: 100%;
+                        width: 100%;
+                        display: grid;
+                        grid-gap: 10px;
+                        grid-template-columns: repeat(12, 1fr);
+                        grid-template-rows: 80px 80px 80px 80px 80px;
+                        grid-template-areas: 
+                            "h h h h h h h h h h h h"
+                            "h h h h h h h h h h h h"
+                            "h h h h h h h h h h h h"
+                            "a a a a a a a a a a a a"
+                            "c c c c b b b b b b b b"
+                            "c c c c b b b b b b b b"
+                            "c c c c b b b b b b b b"
+                            "c c c c b b b b b b b b"
+                            "c c c c b b b b b b b b"
+                            "c c c c b b b b b b b b"
+                            "c c c c b b b b b b b b"
+                            "c c c c b b b b b b b b"
+                            "c c c c b b b b b b b b"
+                            "c c c c b b b b b b b b"
+                            "c c c c b b b b b b b b"
+                            "c c c c b b b b b b b b"
+                            "c c c c b b b b b b b b"
+                            "c c c c b b b b b b b b"
+                            "c c c c b b b b b b b b"
+                            "c c c c b b b b b b b b"
+                            "f f f f f f f f f f f f"
+                    }
+                    #dchild1{
+                        background-color: rgb(142, 142, 142);
+                        color: white;
+                        grid-area: h;
+                        border-radius: 5px;
+                    }
+                    #dchild2{
+                        background-color: rgb(60, 60, 60);
+                        color: white;  
+                        word-wrap: break-word;  
+                        grid-area: a;
+                        border-radius: 5px;
+                    }
+                    #dchild3{
+                        background-color: rgb(60, 60, 60);
+                        color: white;    
+                        grid-area: c;
+                        border-radius: 5px;
+                    }
+                    #dchild4{
+                        background-color: rgb(197, 197, 197);
+                        color: rgb(60, 60, 60);
+                        grid-area: b;
+                        border-radius: 5px;
+                    }
+                    #dchild5{
+                        background-color: rgb(142, 142, 142);
+                        color: white;    
+                        grid-area: f;
+                        border-radius: 5px;
+                    }
+                }
+/* big */
+
+@media screen and (min-width: 1000px){
+    .container4 {
+        font-size: 32px;
+        height: 100%;
+        width: 100%;
+        display: grid;
+        grid-gap: 10px;
+        grid-template-columns: repeat(12, 1fr);
+        grid-template-rows: 100px 100px 100px 100px 100px;
+        grid-template-areas: 
+            "h h h h h h h h h h h h"
+            "h h h h h h h h h h h h"
+            "h h h h h h h h h h h h"
+            "a a a a a a a a a a a a"
+            "c c c b b b b b b b b b"
+            "c c c b b b b b b b b b"
+            "c c c b b b b b b b b b"
+            "c c c b b b b b b b b b"
+            "c c c b b b b b b b b b"
+            "c c c b b b b b b b b b"
+            "c c c b b b b b b b b b"
+            "c c c b b b b b b b b b"
+            "c c c b b b b b b b b b"
+            "f f f f f f f f f f f f"
+    }
+    #dchild1{
+        background-color: rgb(142, 142, 142);
+        color: white;
+        grid-area: h;
+        border-radius: 5px;
+    }
+    #dchild2{
+        background-color: rgb(60, 60, 60);
+        color: white;  
+        word-wrap: break-word;  
+        grid-area: a;
+        border-radius: 5px;
+    }
+    #dchild3{
+        background-color: rgb(60, 60, 60);
+        color: white;    
+        grid-area: c;
+        border-radius: 5px;
+    }
+    #dchild4{
+        background-color: rgb(197, 197, 197);
+        color: rgb(60, 60, 60);
+        grid-area: b;
+        border-radius: 5px;
+    }
+    #dchild5{
+        background-color: rgb(142, 142, 142);
+        color: white;    
+        grid-area: f;
+        border-radius: 5px;
+    }
+}

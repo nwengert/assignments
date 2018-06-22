@@ -21,8 +21,9 @@ var mySpan = document.createElement("span");
 mySpan.innerHTML = clickCounter;
 
 parent.appendChild
-console.log(clickCounter);
 
-// mySpan = document.createElement("span");
+// now make it remember
+
+localStorage.setItem("Nate", "Wengert");
 
 

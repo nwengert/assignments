@@ -2,10 +2,10 @@
 
 localStorage.setItem("foo", "bar");
 
-//you'ss see this in the browser's Application > Local Storage > selection under there
+//you'll see this in the browser's Application > Local Storage > selection under there
 //  only booleans, numbers, and strings.  
 
-localStorage.setItem("myAge", 32);
+localStorage.setItem("myAge", 66);
 localStorage.setItem("iLikeCake", 'true');
 
 //can't do objects

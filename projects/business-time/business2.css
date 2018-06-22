@@ -47,18 +47,22 @@ li{
     margin: 7px 30px 30px 7px;
     max-width: 10%
 }
+
+
+
+
+
+
+
 /* above this is original */
 .gridPic {
-    max-height: 500px;;
-    width: auto;
 }
 .container {
-    width: 60%;
     display: grid;
     text-align: center;
-    grid-gap: 10px;
+    grid-gap: 70px;
     grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: repeat(12, 1fr);
+    grid-template-rows: repeat(3, 1fr);
 }
 #child1 {
     grid-column: 1 / 2;
