@@ -133,6 +133,12 @@ while (!thereIsEnemy) {
                                 '\n\n\t\t YOU DIED.\n\n\t\tRIP ' + name + '\n\n');
                     break;
                 }
+                // Make it harder to lose so quickly
+                if(player.hp + 8 < newEnemy.hp){
+                    console.log(`${name}, when you feel that the ${newEnemy.name} is beginning to overpower you,`+
+                                `\nyou are able to dig deep and find it within yourself to become stronger.`)
+                    player.hp += player.hp + 20;
+                }
                 console.log('\t' + name + ' hp: ' + player.hp);
                 console.log("You strike back with everything you can muster.")
                 newEnemy.hp -= player.attack;
