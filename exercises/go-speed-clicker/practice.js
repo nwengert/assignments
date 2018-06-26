@@ -1,3 +1,5 @@
+//clicker.js is junk.  I made this just before I actually got it to work. 
+
 //make a click counter, that will console.log how often the button is clicked.
 
 var button = document.getElementById('myBtn');

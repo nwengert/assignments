@@ -103,15 +103,15 @@ console.log(flatten);
     // The resulting object containing this data should have 6 properties. 
     // See the example output at the bottom.
 
-console.log("\n\n\t6. vote results");
+console.log("\n\n\t6. vote results  --DONE");
 var voters = [  
     {name:'Bob' , age: 30, voted: true},
     {name:'Jake' , age: 32, voted: true},
     {name:'Kate' , age: 25, voted: false},
     {name:'Sam' , age: 20, voted: false},
     {name:'Phil' , age: 21, voted: true},
-    {name:'Ed' , age:55, voted:true},
-    {name:'Tami' , age: 54, voted:true},
+    {name:'Ed' , age:55, voted: true},
+    {name:'Tami' , age: 54, voted: true},
     {name: 'Mary', age: 31, voted: false},
     {name: 'Becky', age: 43, voted: false},
     {name: 'Joey', age: 41, voted: true},
@@ -119,25 +119,31 @@ var voters = [
     {name: 'Zack', age: 19, voted: false}
 ];
 
-function voterResults(voters) {
-    //get the count of people 18-25 (youth)
-    return voters.reduce(function(accumulator, voter){
-        if(voter.age )
-        return accumulator.youth += 
-    },{youth:})
-    
-    //get the count of people 18-25 who voted (youngVotes)
-    //get the count of people 26-35 who (mids)
-    //get the count of people 26-35 who voted (midvots)
-    //get the count of people 36-45 (olds)
-    //get the count of people 36-45 who voted (oldvotes)
-
-    }, { 
-        'youngVotes': 1,
-        'youth': 4,
-        'midVotes': 3,
-        'mids': 4,
-        'oldVotes': 3,
-        'olds': 4 
-      })
+const countVotes = voters => {
+    const initialValue = { 
+        'youngVotes': 0,
+        'youth': 0,
+        'midVotes': 0,
+        'mids': 0,
+        'oldVotes': 0,
+        'olds': 0 
+      };
+    return voters.reduce((accumulator, voter) => {
+        if(voter.age > 17 && voter.age < 26){
+            accumulator.youth++;
+            if(voter.voted) accumulator.youngVotes++;
+        }
+        if(voter.age > 25 && voter.age < 36){
+            accumulator.mids++;
+            if(voter.voted) accumulator.midVotes++;
+        }
+        if(voter.age > 35 && voter.age < 56){
+            accumulator.olds++;
+            if(voter.voted) accumulator.oldVotes++;
+        }
+        return accumulator;
+    }, initialValue)
 }
+
+console.log(countVotes(voters));
+
