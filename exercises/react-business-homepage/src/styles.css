@@ -5,6 +5,8 @@ img {
     width: 100%;
 }
 h1 {
+    height: 80px;
     width: 100%;
     background: white;
+    text-align: center;
 }

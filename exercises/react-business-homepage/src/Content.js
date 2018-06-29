@@ -7,11 +7,13 @@ function Content() {
                 <h3>Info section</h3>
             </div>
             <div>
-                List of products and services
-        </div>
+               We sell access to dozens of rooftops around the city! 
+               Plan a fancy date!  
+               Grow a garden! 
+            </div>
             <div>
-                images
-        </div>
+                
+            </div>
         </div>
     )
 }
