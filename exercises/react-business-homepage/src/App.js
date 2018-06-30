@@ -5,13 +5,19 @@
  import Footer from "./Footer.js";
 
  function App() {
-     return (
-         <div>
-             <Header />
-             <Content />
-             <Footer />
-         </div>
-     )
+
+    // handleClick () => {
+    //     console.log('hello');
+    // }
+    
+    return (
+        <div>
+            <Header />
+            <Content />
+            <Footer />
+            {/* <button onClick={handleClick}>Click Me</button> */}
+        </div>
+    )
  }
 
  export default App;

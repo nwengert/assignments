@@ -1,7 +1,6 @@
 import React from "react";
 
 import Friend from "./Friend";
-import Pet from "./Pet";
 
 function App() {
     //friends are here

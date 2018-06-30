@@ -6,7 +6,7 @@ function Pet (props) {
       //map through friends and create <Friend /> instances          
       return (
         <div>
-          <p>Pet Name: {props.pet.name}</p>
+          <h4>Pet Name: {props.pet.name}</h4>
           <p>Breed: {props.pet.breed}</p>
         </div>
       )

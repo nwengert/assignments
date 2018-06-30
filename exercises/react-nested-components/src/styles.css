@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+}
+.container{
+    height: 34vh;
+}
+.navbar-card{
+    background-color: pink;
+}
+.body-card{
+    background-color: lightblue;
+}
+.footer-card{
+    background-color: lightgreen;
+}
+
