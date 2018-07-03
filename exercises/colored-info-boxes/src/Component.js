@@ -1,20 +1,16 @@
 import React from 'react'
-// import Avatar from './Avatar'
-//this is telling the page how to display the elements of App
-function Comment(props) {
+
+function Component(props) {
+    // this is the parent component
     return (
-        <div>
-            <div>
-                <p>{props.user.title}</p>
-            </div>
-            <div>
-                <p>{props.user.subtitle}</p>
-            </div>
-            <div>
-                <p>{props.user.date}</p>
-            </div>
-        </div>
+    <div>
+      <Component 
+        BackgroundColor='darkgray'
+        Title='this is the Title'
+        Subtitle='this a Subtitle'
+        Information='and information'/>
+    </div>
     )
 }
 
-export default Comment
+export default Component

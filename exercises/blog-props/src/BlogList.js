@@ -3,11 +3,13 @@ import BlogPost from "./BlogPost";
 
 function BlogList(){
     return (
-        <BlogPost />
+        <div className='blogList'>
+            <BlogPost />
+        </div>
     )
 }
 
-
+ß
 
 
 

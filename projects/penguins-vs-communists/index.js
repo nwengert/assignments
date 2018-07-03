@@ -7,13 +7,9 @@ class Parties {
 //create the Penguin and Communist parties
 
 
-const flipCoin = function() {
-    if(Math.floor(Math.random() * 10) > 5) {
-        return `tails`;
-    } else {
-        return `heads`;
-    }
-}
+const flipCoin = function(min, max) {
+    return Math.floor(Math.random() * (max - min + 1)) + min;
+} 
 console.log(flipCoin());
 
 

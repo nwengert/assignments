@@ -20,3 +20,10 @@
 li {
     margin: 5px;
 }
+.headerDiv {
+    height: 280px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url('./ScreenShot.png');
+}
