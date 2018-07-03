@@ -1,14 +1,30 @@
 
 * {
 font-family: GujaratiSangamMN, fantasy;
+text-align: center;
 }
+
 .display{
     text-align: center;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
-
+}
+#clicksDisplay{
+    margin: 22px;
+}
+.reset{
+    text-align: center;
+}
+#myBtn {
+    font-size: 22px;
+    background: linear-gradient(rgb(207, 157, 207), white, rgb(207, 157, 207))
+}
+#resetBtn {
+    margin: 22px;
+    font-size: 22px;
+    background-color: lightgray;
 }
 h1{
     display: inline-block
@@ -26,6 +42,6 @@ h1{
 }
 span {
     font-size: 200%;
-    color: lemonchiffon;
+    color: rgb(207, 157, 207);
     margin: 5px;
 }

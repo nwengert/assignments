@@ -83,7 +83,6 @@ function GenRandomEnemy() {
 
 // DO THINGS IN SMALL CHUNKS, ONE STEP AT A TIME
 
-var thereIsEnemy = false;
 var fightOptions =["RUN FOR IT!", "STAND AND FIGHT!"];
 
 ///////
@@ -96,28 +95,25 @@ var fightOptions =["RUN FOR IT!", "STAND AND FIGHT!"];
 
 var isWalking = rs.question('\nPress \'w\' to take your first steps into the woods.' +
                             '  Be wary of what might be lurking out there!    ', { limit: "w", limitMessage: "Wrong key!"});
-
-
-while (!thereIsEnemy) {
-    if((Math.floor(Math.random()* 100)) < 75) {
-        thereIsEnemy = false;
+while (player.enemiesKilled <= 4) {
+    if((Math.floor(Math.random()* 100)) < 75) {         //there is no enemy
         // make 'keep walking' phrases selected at random, so that the same one doesn't repeat continuously. 
         console.log('\n  Turns out there is nothing out there, for now...');
 
         var isWalking = rs.question('Press \'w\' to resume walking    ', { limit: "w", limitMessage: "Wrong key!"});
-    
-    }else{
-        thereIsEnemy = true;
-        console.log('.'+'\n  .'+'\n    .'+'\n      .'+'\n        .'+'\n          .'+
+    }else{   
+        var isWalking = rs.question('Press \'w\' to resume walking    ', { limit: "w", limitMessage: "Wrong key!"});
+                                                   //the IS an enemy
+        console.log(`.\n  .\n    .\n      .\n        .\n          .`+
                     '\nThere is something, and it\'s coming for you!  \n\n\tGet ready to fight!');
         //generate enemy
         var newEnemy = GenRandomEnemy();
         //describe the enemy
-        console.log('\nYou are able to see that it is a '+ newEnemy.enemyName + ' coming after you. ' +
-                    '\n\t(hp = '+ newEnemy.hp + ', attack = '+ newEnemy.attack+ ')');
+        console.log(`\nYou see that it\'s a ${newEnemy.enemyName} coming after you` +
+                    `\n\t(hp = ${newEnemy.hp}, current attack power = ${newEnemy.attack})`);
         //decide to fight or run
         var fightSelection = rs.keyInYN('\n'+ name + ", do you wish to fight?  ");
-        if(fightSelection) {
+        if(fightSelection) {                // player chose to fight
                 console.log('.'+'\n  .'+'\n    .'+'\n      .'+
                             '\n'+ name + ' is a fighter, not afraid of this puny '+ newEnemy.enemyName+ '.')
                 //Start fight sequence. 
@@ -126,26 +122,68 @@ while (!thereIsEnemy) {
                     player.attack = genAttackPower();
                 }
             while(newEnemy.hp > 0 && player.hp > 0){                           // keep fighting as long as both are alive
-                console.log("\n\nThe " + newEnemy.enemyName + " strikes.");
+                console.log(`\n\nThe ${newEnemy.enemyName} strikes.`);
                 player.hp -=  newEnemy.attack;
-                if(player.hp < 0) {
+                if(player.hp < 0) {     //check if that blow killed player
                     console.log('   And that was the end of you. \nYou gave it all you could.  \nComet radiation enhanced woodland creatures just arent your thing.'+
                                 '\n\n\t\t YOU DIED.\n\n\t\tRIP ' + name + '\n\n');
                     break;
                 }
+
+
+
+                // Make it harder to lose so quickly
+                if(player.hp === 15 || player.hp === 16 || player.hp === 17 || player.hp === 18 || player.hp === 19) {
+                    console.log(`${name}, when you feel that the ${newEnemy.enemyName} is beginning to overpower you,`+
+                                `\nyou are able to dig deep and find it within yourself to become stronger.`)
+                    player.hp += player.hp + 20;
+                }
+                if(player.hp === 20 || player.hp === 24 || player.hp === 28 || player.hp === 32 || player.hp === 36) {
+                    console.log(`You see that nearby are some strength enhancing mushrooms.\nIt only takes a moment to take a few bites,`+
+                                `but you immediately feel the difference!`)
+                    player.hp += player.hp + 20;
+                }
+                if(player.hp === 21 || player.hp === 25 || player.hp === 29 || player.hp === 33 || player.hp === 37) {
+                    console.log(`This battle is tough!  Or is it because you're dehydrated?`+
+                                `You take a moment to chug from your canteen, and feel immediately refreshed.`)
+                    player.hp += player.hp + 20;
+                }
+                if(player.hp === 22 || player.hp === 26 || player.hp === 30 || player.hp === 34 || player.hp === 38) {
+                    console.log(`Battling this ${newEnemy.enemyName} is proving difficult`+
+                                `\nBut you find that wiping the sweat from your eyes makes you feel a bit more powerful.`)
+                    player.hp += player.hp + 20;
+                }
+                if(player.hp === 23 || player.hp === 27 || player.hp === 31 || player.hp === 35 || player.hp === 39) {
+                    console.log(`You're having a hard time with this ${newEnemy.enemyName}.`+
+                                `\nThen you remember an old trick from your days as a hippie.`+
+                                `You remove your shoes and absorb some of that earth power.  Now get back to the fight!`)
+                    player.hp += player.hp + 20;
+                }
+
+
+
+
                 console.log('\t' + name + ' hp: ' + player.hp);
                 console.log("You strike back with everything you can muster.")
                 newEnemy.hp -= player.attack;
-                if(newEnemy.hp < 0){
-                    console.log(name + ' with a '+ startingItems[startingSelection] + ' is unstoppable!'+
-                                '\n\n\tSo far at least...');
+                if(newEnemy.hp < 0){  //make sure the enemy isn't already dead (negative hp)
+                    newEnemy.hp = 0;
+                }
+                if(newEnemy.hp <= 0){   //check if that blow killed enemy
+                    console.log(`Got him!`)
                     player.enemiesKilled++;
-                    // break;
                 }
                 console.log('\t' + newEnemy.enemyName + ' hp: ' + newEnemy.hp);
                 var isFighting = rs.question('Press \'f\' to resume the fight    ', { limit: "f", limitMessage: "Wrong key!"});
+                if(newEnemy.hp < 0){
+                    console.log(`And that was the blow that brings down the ${newEnemy.enemyName}!
+                                '\n${name} with a ${startingItems[startingSelection]} is unstoppable!
+                                '\n\n\tSo far at least...`);
+                    player.enemiesKilled++;
+                    // break;
+                }
                 // if the item selected was APPLES
-                if(startingSelection === 0 && player.hp < 35) {
+                if(startingSelection === 0 && player.hp < 35) {  // if player is close to dying, but has a bag of apples!
                     console.log('.'+'\n  .'+'\n    .'+'\n      .'+
                                 '\n\nYou are having a difficult time!  Current hp is ' + player.hp +
                                 '\nBUT...  There might be something you can do!'+
@@ -181,7 +219,6 @@ while (!thereIsEnemy) {
                                 '\n\t\t\tattack: '+ player.attack +
                                 '\n\t\t\tenemies killed: '+ player.enemiesKilled +
                                 '\n\nYou now throw your shoulders back and begin strutting your way to Grammy\'s');
-                        thereIsEnemy = true;  //there are more still out there!
                     }
                     if(appleSelection === 2) {
                         console.log('\n\nYou aren\'t doing a damn thing with a single apple, \nafter all, Grammy gets disappointed easily.'+
@@ -189,19 +226,15 @@ while (!thereIsEnemy) {
                     } 
                 }   
 
-            } //End of fight sequence
-        }else{
-
-// NEEDS HELP ----right now it's accepting any keystroke
-
-            function tryToEscape(){
+                } //End of fight sequence
+         }else{                             // player has 50% change of getting away unscathed
+            function tryToEscape(){         //50% chance that player gets away
                 var num = Math.floor(Math.random()*10);
                 if(num < 5){
                     console.log('.'+'\n  .'+'\n    .'+'\n      .'+'\n        .'+'\n          .'+
                                 '\nYou got away!'+
-                                '\nlet\'s hope that this luck doesn\'t run out!'+
-                                '\nYou get going again, keeping an eye out for anything lurking nearby.')
-                }else{
+                                '\nlet\'s hope that this luck doesn\'t run out!')
+                }else{                      //player gets hit
                     console.log('.'+'\n  .'+'\n    .'+'\n      .'+'\n        .'+'\n          .'+
                                 '\nThe enemy got in a blow before you got away');
                     player.hp = player.hp - newEnemy.attack;
@@ -209,7 +242,7 @@ while (!thereIsEnemy) {
             }
             tryToEscape();
             // make sure the player is not dead
-            if(player.hp < 0) {
+            if(player.hp < 0) {             //player dies
                 console.log('\n\t\t YOU DIED.\n\n\t\tRIP ' + name + '\n\n\n');
                 break;
                 }
@@ -221,9 +254,14 @@ while (!thereIsEnemy) {
             console.log('\n Now pick up and get going, Grammy is waiting!')
             thereIsEnemy = false;
             }
-        }
-    }
 
+     }
+}
+if(player.hp === 0){
+    console.log(`\n\nPlese play again`);
+} else {
+    console.log(`It has been quite a journey for you.\nLeaving the forest, you proudly walk up to your Grammy's.`);
+}
 
                         //         var enemy = genRandomEnemy();
                         //         console.log("A wild "+ enemy.name + " has appeared!");
@@ -266,4 +304,3 @@ while (!thereIsEnemy) {
                         //     console.log("You won!");
                         // }else{
                         //     console.log("You suck!!");
-                        // }

@@ -1,0 +1,271 @@
+body {
+    font-family: 'Kaushan Script', cursive;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: rgb(232, 191, 141);
+}
+img{
+    border-radius: 7px;
+}
+span {
+    letter-spacing: 9px;
+}
+li{
+    margin: 0 0 25px 0;
+}
+li:hover {
+    background: radial-gradient(rgb(232, 191, 141), rgb(60, 60, 60),  rgb(60, 60, 60));
+}
+a {
+    color: rgb(188, 130, 83);
+    text-decoration: none;
+}
+a:visited{
+    color: rgb(152, 69, 54);
+}
+img#firehawklogo{
+    max-width: 96%;
+    max-height: 100%;
+}
+span{
+    color: rgb(230, 206, 178);
+}
+#dchild2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+    
+}
+ul {
+    position: fixed;
+    list-style-type: none;
+    letter-spacing: 5px;
+    text-align: left;
+    color: rgb(230, 206, 178);
+}
+
+
+
+
+
+
+/* smallest */
+
+@media screen and (min-width: 320px){
+    #dchild2 {
+        font-size: 30px;
+    }
+    .carveImage {
+        max-width: 98%;
+        margin: 5px;
+    }
+    ul {
+        font-size: 17px;
+        letter-spacing: 3px;
+        padding-left: 9px;
+    }
+    .container4 {
+        font-size: 15px;
+        height: 100%;
+        width: 100%;
+        display: grid;
+        grid-gap: 10px;
+        grid-template-columns: repeat(12, 1fr);
+        grid-template-rows: 55px 55px 55px 55px 55px;
+        grid-template-areas: 
+            "h h h h h h h h h h h h"
+            "h h h h h h h h h h h h"
+            "a a a a a a a a a a a a"
+            "c c c b b b b b b b b b"
+            "c c c b b b b b b b b b"
+            "c c c b b b b b b b b b"
+            "c c c b b b b b b b b b"
+            "c c c b b b b b b b b b"
+            "c c c b b b b b b b b b"
+            "c c c b b b b b b b b b"
+            "c c c b b b b b b b b b"
+            "c c c b b b b b b b b b"
+            "c c c b b b b b b b b b"
+            "c c c b b b b b b b b b"
+            "c c c b b b b b b b b b"
+            "c c c b b b b b b b b b"
+            "c c c b b b b b b b b b"
+            "c c c b b b b b b b b b"
+            "c c c b b b b b b b b b"
+            "c c c b b b b b b b b b"
+            "f f f f f f f f f f f f"
+    }
+    #dchild1{
+        background-color: rgb(142, 142, 142);
+        color: white;
+        grid-area: h;
+        border-radius: 5px;
+        border-bottom-left-radius: 50px;
+        border-bottom-right-radius: 50px;
+    
+    }
+    #dchild2{
+        background-color: rgb(60, 60, 60);
+        color: white;  
+        word-wrap: break-word;  
+        grid-area: a;
+        font-size: 25px;
+    }
+    #dchild3{
+        background-color: rgb(60, 60, 60);
+        color: white;    
+        grid-area: c;
+        border-radius: 5px;
+    }
+    #dchild4{
+        background-color: rgb(232, 191, 141);
+        color: rgb(60, 60, 60);
+        grid-area: b;
+        border-radius: 5px;
+    }
+    #dchild5{
+        background-color: rgb(142, 142, 142);
+        color: white;    
+        grid-area: f;
+        border-radius: 5px;
+    }
+}
+
+/* middle */
+
+                @media screen and (min-width: 760px){
+                    .carveImage {
+                        max-width: 47%;
+                        margin: 5px;
+                    }
+                    li {
+                        font-size: 33px;
+                    }
+                    .container4 {
+                        font-size: 25px;
+                        height: 100%;
+                        width: 100%;
+                        display: grid;
+                        grid-gap: 10px;
+                        grid-template-columns: repeat(12, 1fr);
+                        grid-template-rows: 80px 80px 80px 80px 80px;
+                        grid-template-areas: 
+                            "h h h h h h h h h h h h"
+                            "h h h h h h h h h h h h"
+                            "h h h h h h h h h h h h"
+                            "a a a a a a a a a a a a"
+                            "c c c c b b b b b b b b"
+                            "c c c c b b b b b b b b"
+                            "c c c c b b b b b b b b"
+                            "c c c c b b b b b b b b"
+                            "c c c c b b b b b b b b"
+                            "c c c c b b b b b b b b"
+                            "c c c c b b b b b b b b"
+                            "c c c c b b b b b b b b"
+                            "c c c c b b b b b b b b"
+                            "c c c c b b b b b b b b"
+                            "c c c c b b b b b b b b"
+                            "c c c c b b b b b b b b"
+                            "c c c c b b b b b b b b"
+                            "c c c c b b b b b b b b"
+                            "c c c c b b b b b b b b"
+                            "c c c c b b b b b b b b"
+                            "f f f f f f f f f f f f"
+                    }
+                    #dchild1{
+                        background-color: rgb(142, 142, 142);
+                        color: white;
+                        grid-area: h;
+                        border-radius: 5px;
+                        border-bottom-left-radius: 50px;
+                        border-bottom-right-radius: 50px;
+                    }
+                    #dchild2{
+                        background-color: rgb(60, 60, 60);
+                        color: white;  
+                        word-wrap: break-word;  
+                        grid-area: a;
+                        font-size: 57px;
+
+                    }
+                    #dchild3{
+                        background-color: rgb(60, 60, 60);
+                        color: white;    
+                        grid-area: c;
+                        border-radius: 5px;
+                    }
+                    #dchild4{
+                        background-color: rgb(232, 191, 141);
+                        color: rgb(60, 60, 60);
+                        grid-area: b;
+                        border-radius: 5px;
+                    }
+                    #dchild5{
+                        background-color: rgb(142, 142, 142);
+                        color: white;    
+                        grid-area: f;
+                        border-radius: 5px;
+                    }
+                }
+/* big */
+
+@media screen and (min-width: 1000px){
+    .container4 {
+        font-size: 32px;
+        height: 100%;
+        width: 100%;
+        display: grid;
+        grid-gap: 10px;
+        grid-template-columns: repeat(12, 1fr);
+        grid-template-rows: 100px 100px 100px 100px 100px;
+        grid-template-areas: 
+            "h h h h h h h h h h h h"
+            "h h h h h h h h h h h h"
+            "h h h h h h h h h h h h"
+            "a a a a a a a a a a a a"
+            "c c c b b b b b b b b b"
+            "c c c b b b b b b b b b"
+            "c c c b b b b b b b b b"
+            "c c c b b b b b b b b b"
+            "c c c b b b b b b b b b"
+            "c c c b b b b b b b b b"
+            "c c c b b b b b b b b b"
+            "c c c b b b b b b b b b"
+            "c c c b b b b b b b b b"
+            "f f f f f f f f f f f f"
+    }
+    #dchild1{
+        background-color: rgb(142, 142, 142);
+        color: white;
+        grid-area: h;
+        border-radius: 5px;
+        border-bottom-left-radius: 50px;
+        border-bottom-right-radius: 50px;
+    }
+    #dchild2{
+        background-color: rgb(60, 60, 60);
+        color: white;  
+        word-wrap: break-word;  
+        grid-area: a;
+        font-size: 77px;
+    }
+    #dchild3{
+        background-color: rgb(60, 60, 60);
+        color: white;    
+        grid-area: c;
+        border-radius: 5px;
+    }
+    #dchild4{
+        background-color: rgb(232, 191, 141);
+        color: rgb(60, 60, 60);
+        grid-area: b;
+        border-radius: 5px;
+    }
+    #dchild5{
+        background-color: rgb(142, 142, 142);
+        color: white;    
+        grid-area: f;
+        border-radius: 5px;
+    }
+}

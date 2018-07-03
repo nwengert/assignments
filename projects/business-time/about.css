@@ -26,8 +26,8 @@ img#firehawklogo{
     max-width: 85%;
     height: auto;
 }
-h1{
-text-shadow: 2px 2px 2px #aaa;
+#woodworkingLetter{
+    width: 70%;
 }
 ul{
     display: flex;
@@ -51,4 +51,68 @@ li{
     max-height: 500px;
     width: auto;
     margin: 7px;
+}
+
+
+
+
+
+
+/* smallest */
+
+@media screen and (max-width: 600px){
+    body {
+        font-family: 'Kaushan Script', cursive;
+        /* font-family: Herculanum, HannotateTC-W5, HanziPenSC-W3; */
+        text-align: center;
+        text-transform: uppercase;
+    }
+    .topDiv{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    div.topTitle {
+        margin-bottom: 60px;
+        width: 60%;
+        align-items: stretch;
+    }
+    .headerlogo {
+        text-align: center;
+        align-items: center;
+        width: 100%;
+        height: auto;
+        /* background: radial-gradient(rgb(229, 192, 162), white); */
+    }
+    img#firehawklogo{
+        max-width: 100%;
+        height: auto;
+    }
+    #woodworkingLetter{
+        width: 70%;
+    }
+    ul{
+        display: flex;
+        list-style-type: none;
+    }
+    li{
+    
+    }
+    .navDiv{
+        margin: 7px 60px 60px 7px;
+        max-width: 10%
+    }
+    .content{
+        display: flex;
+        flex-direction: column;
+    }
+    .contentText{
+        text-align: left;
+    }
+    #sawingImage {
+        max-height: 500px;
+        width: auto;
+        margin: 7px;
+    }
+    
 }
