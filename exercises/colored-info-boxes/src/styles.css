@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+    margin: 0;
+    padding: 0;
+    display: inline;
+}
+.cardDiv{
+    display: flex;
+    flex-direction: row;
+}
+.bigDiv{
+    display: flex;
+    flex-direction: row;
+}
