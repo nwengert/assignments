@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background: linear-gradient(to right, lightgreen, orange);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.footer{
+    background: linear-gradient(to right, orange, lightgreen);
+    text-align: center;
+    border-style: solid;    
+}
+.pageDiv {
+    text-align: center;
+    letter-spacing: 4px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 42px;
+    height: 8em;
+}
+#home{
+    background: linear-gradient(to right, rgb(228, 186, 41), lightgreen, rgb(228, 186, 41))
+}
+#about{
+    background: linear-gradient(to right, lightgreen, orange, lightgreen);
+}
+#services{
+    background: linear-gradient(to right, orange, lightgreen, orange);
+}
+#contact{
+    background: linear-gradient(to right, orange, lightgreen);
+}
+#container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+#scooter {
+    max-height: 200px;
+    width: auto;
+}
+.hiteePics {
+    max-height: 80px;
+    width: auto;
+}

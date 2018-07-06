@@ -1,13 +1,14 @@
 import React, { Component } from 'react';
 import axios from 'axios';
 import Hitees from './Hitees';
+import Header from './Header';
 
 class App extends Component {
     constructor() {
         super()
         this.state={
             gettinHit: [],
-
+            name: []    //this is what I missed, the first time it makes a request there has to be something there, even if that something is nothing.  
         }
     }
 
@@ -20,9 +21,8 @@ class App extends Component {
     render(){
         return(
             <div>
-                {/* it's not TODO for this exercise */}
+                <Header />
                 <Hitees info={this.state.name}/>  
-                <p>{console.log(this.state.name)}</p>
             </div>
         )
     }
