@@ -3,7 +3,7 @@ import Cards from './Cards.js'
 
 function App () {
     return(
-        <div>
+        <div className='bigDiv'>
             <Cards />
         </div>
     )

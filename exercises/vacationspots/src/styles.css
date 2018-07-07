@@ -1,3 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.bigDiv {
+    display: flex;
+    flex-direction: row;
+}
 .spotDiv {
-    background-color: gray
+    display: inline-block;
+    text-align: center;
+    width: 150px;
+    height: 70px;
+    margin: 7px;
+}
+h4 {
+    margin: 4px;
+}
+h6 {
+    margin: 4px;
 }
