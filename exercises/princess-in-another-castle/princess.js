@@ -1,61 +1,80 @@
 class Player {
-      // define static properties with a constructor
-      constructor(){
-          this.name = "";
-          this.totalCoins = 0;
-          this.status = [`Powered Up`, `Big`, `Small`, `Dead`];
-          this.hasStar = false;
-        //set the other static properties
-
-      }
-      setName(namePicked){
-        this.name = namePicked;
-      }
-      gotHit(){
-          if(this.status === `Powered Up`){
-              this.status === `Big`;
-          }else if(this.status === `Big`){
-              this.status === `Small`;
-          }else if(this.status === `Small`){
-              this.status === `Dead`;
-          }
+    
+    constructor(playerName) {
+        this.playerName = playerName;
+        this.namePicked = "";
+        this.totalCoins = 0;
+        this.status = "Small";
+        this.star = false;
+        this.gameActive = true;
+    }
+    setName(namePicked) {
+        this.namePicked = namePicked;
+    }
+    gotHit() {
+        switch (this.status) {
+            case "Powered Up":
+                this.status = "Big";
+                this.star = false;
+                break;
+            case "Big":
+                this.status = "Small";
+                break;
+            case "Small":
+                this.status = "Dead";
+                this.gameActive = false;
         }
-        gotPoweredUp(){
-            if(this.status === `Small`){
-                this.status === `Big`;
-            }else if(this.status === `Big`){
-                this.status === `Powered Up`;
-            }
-        // }
-        // gameActive(true){
-        //     if(this.status === `Dead`){
-        //         return false;
-        //     }
-        // }
-
-const maximum = 2;
-const minimum = 0;
-const randomRange = Math.floor(Math.random() * (maximum - minimum + 1)) + minimum;
-
-if (randomRange() === 0) {
-    return gotHit();
-} else if (randomRange() === 1) {
-        return gotPowerup ();
-} else if (randomRange()=== 2) {
-    return addCoin();
+    }
+    gotPowerup() {
+        switch (this.status) {
+            case "Small":
+                this.status = "Big";
+                break;
+            case "Big":
+                this.status = "Powered Up";
+                this.star = true;
+        }
+    }
+    addCoin() {
+        this.totalCoins++;
+        if (this.totalCoins === 15) {
+            this.gameActive = false;
+        }
+    }
+    print() {
+        for (let key in this) {
+            console.log(`${key}: ${this[key]}`);
+        }
+    }
 }
 
-        
+
+let player1 = new Player("Nate");
+player1.setName("Luigi");
 
 
+function rand(max, min) {
+    return Math.floor(Math.random() * (max - min + 1)) + min;
+}
 
 
+while (player1.gameActive) {
+    switch (rand(2, 0)) {
+        case 0:
+            player1.gotHit();
+            break;
+        case 1:
+            player1.gotPowerup();
+            break;
+        case 2:
+            player1.addCoin();
+    }
+    player1.print();
+}
 
-    //     addCoin(){
-    //         this.totalCoins++;
-    //     }
-    //     print(){
-    //         console.log(`Name: ${this.name} \nStatus: ${this.status}
-    //         \nTotal Coins: ${this.totalCoins}\nHas Star: ${this.hasStar}`)
-    //     }
-    //   }
+
+if (player1.status === "Dead") {
+    console.log("YOU LOST!!");
+} else {
+    console.log("YOU WIN & GET RICH!!!!");
+}

@@ -14,33 +14,22 @@ export default class Form extends Component {
         this.handleChange = this.handleChange.bind(this)
         this.handleSelect = this.handleSelect.bind(this)
     }
-
     handleChange (e) {
         const value = e.target.type === 'checkbox' ? e.target.checked : e.target.value;
-        // if(e.target.type === 'checkbox') {
-        //     const value = e.target.checked
-        // }else {
-        //     const value = e.target.value
-        // }
         this.setState({[e.target.name]: value})
     }
-
     handleSelect (e) {
         this.setState({select: e.target.value})
-
-    // printName = ({this.state.fName} {this.state.lName})
-
     }
-
     render() {
         return (
             <form>
-               <input type="text" 
+               <input type='text'
                       name='fName'
                       placeholder='First Name' 
                       value={this.state.fName} 
                       onChange={this.handleChange}  /> 
-                <input type="text"
+                <input type='text'
                       name='lName'
                       placeholder='Last Name' 
                       value={this.state.lName} 
@@ -56,9 +45,7 @@ export default class Form extends Component {
                     <option value="Ardvaark">Ardvaark</option>
                     <option value="Giraffe">Giraffe</option>
                 </select>
-
                 <h1>{this.state.fName} {this.state.lName}</h1>
-
             </form>
         )
     }
