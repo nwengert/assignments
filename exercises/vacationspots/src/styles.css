@@ -5,6 +5,9 @@
 .bigDiv {
     display: flex;
     flex-direction: row;
+    margin: 20px;
+    border: solid 2px;
+    border-radius: 6px;
 }
 .spotDiv {
     display: inline-block;
@@ -12,6 +15,7 @@
     width: 150px;
     height: 70px;
     margin: 7px;
+    border-radius: 10px;
 }
 h4 {
     margin: 4px;
