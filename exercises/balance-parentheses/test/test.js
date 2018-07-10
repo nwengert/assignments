@@ -4,7 +4,7 @@ let chai = require('chai');
 //npm i -g mocha
 //npm install chai
 
-//this is my best test so far.  July 3
+// July 3
 
 let assert = chai.assert;
 
