@@ -44,7 +44,6 @@ class Form extends Component{
                 <input value={phone} onChange={this.handleChange} name="phone" type="text" placeholder="Enter Phone"/>
                 <input value={email} onChange={this.handleChange} name="email" type="e-mail" placeholder="Enter Email"/>
                 <button>Submit</button>
-                {/* <ContactList {this.state}/> */}
             </form>
         )
     }
