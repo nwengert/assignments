@@ -1,12 +1,18 @@
-import React from 'react'
+import React, { Component } from 'react'
+import { withRouter } from 'react-router-dom';
 
-function About() {
-    return (
+class About extends Component {
+    render() {
+        // console.log(this.props)
+        const { history } = this.props
+        return (
         <div className='content'>
             <h2>Enter a year to return a list</h2>
-            <button id='chooseButton'>Choose year</button>
+            <button id='chooseButton'
+                    onClick={()=> history.push('/inputYear')}
+                    >Choose year</button>
         </div>
-    )
+        )
+    }
 }
-
-export default About
+ export default withRouter(About);

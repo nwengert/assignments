@@ -1,10 +1,15 @@
-import React from 'react'
+import React from 'react';
+import { connect } from 'react-redux';
+import getMovies from './redux';
 
-function MovieList() {
+//all that this needs to be is a function that renders the props that it gets from YearInput
+
+function MovieList(props) {
     return (
         <div className='content'>
-            Here is a list of movies
+            <h2>Highest revenue movies from the year you entered;</h2>
+            <p>{props.data}</p>
         </div>
     )
 }
-export default MovieList
+export default connect(prevState => prevState, { getMovies })(MovieList);
