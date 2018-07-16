@@ -10,7 +10,8 @@ const reducer = (prevState = initialState, action) => {
     switch (action.type) {
         case "GET_MOVIES":
             return {
-                movies: action.movies
+                movies: action.movies, 
+                year: action.year
             }
             default:
                 return prevState
@@ -26,7 +27,8 @@ const reducer = (prevState = initialState, action) => {
             .then(response => {
                 dispatch({
                     type: "GET_MOVIES",
-                    movies: response.data.value
+                    movies: response.data,
+                    year: year
                 })
                 console.log(response.data,'this is the first one')
             })

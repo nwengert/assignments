@@ -9,7 +9,7 @@ console.log(doubledNumbers);
 // 2) Take an array of numbers and make them strings
 console.log('\n\tMake array of numbers into strings');
 var numbahs = [2, 5, 100];
-var stringItUp = numbahs.map(function(x){
+var stringItUp = numbahs.map((x)=>{
     return x.toString();
 })
 console.log(stringItUp);

@@ -4,7 +4,7 @@ import React from 'react'
 function Header() {
     return (
         <div className='headerDiv'>
-            <h1>Top movies of any given year</h1>
+            <h1>Top Movies of Every Year</h1>
             <Navbar />
         </div>
     )

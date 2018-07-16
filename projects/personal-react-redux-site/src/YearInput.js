@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import { getMovies } from './redux';
 import {connect} from 'react-redux'
+import HanSolo from './images/imgHanSolo.png'
 
 
 //make this a class -- with state
@@ -31,15 +32,17 @@ class YearInput extends Component {
     render() {
         return (
             <div className='content'>
-                <form onSubmit={this.handleSubmit}>
+                <form onSubmit={this.handleSubmit} id='inputYearForm'>
                     <h1>List of movies</h1>
                     <input onChange={this.handleChange}
                             name='inputYear'
                             value={this.state.inputYear}
                             type="number"
-                            placeholder='Enter year'/>
-                    <button id='inputSubmit'>Submit</button>
+                            placeholder='Enter year'
+                            id='inputYear'/>
+                    <button className='button'>Submit</button>
                 </form>
+                <img id="HanSolo" src={HanSolo} alt=""/>
 
             </div>
         )
