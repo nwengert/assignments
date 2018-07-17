@@ -1,138 +1,102 @@
-@media screen and (min-width: 480px) {
-    * {
-        margin: 0;
-        padding: 0;
-        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-        color: rgb(8, 28, 36);
-    }
-    .headerDiv {
-        text-align: center;
-    }
-    h1 {
-        margin: 15px;
-        text-shadow: 0.5px 0.5px RGB(1, 210, 119);
-        font-size: 48px;
-        text-align: center;
-    }
-    a {
-        text-decoration: none;
-        font-size: 28px;
-    }
-    .navbar {
-        background: linear-gradient(to right, RGB(1, 210, 119), RGB(8, 28, 36), RGB(8, 28, 36), RGB(1, 210, 119));
-        display: flex;
-        flex-direction: row;
-        justify-content: space-around;
-        align-items: center;
-        margin: 25px;
-        height: 44px;
-        border-radius: 4px;
-        position: sticky;
-        top: 0;
-        box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
-    }
-    h2 {
-        margin-bottom: 20px;
-        text-align: center;
-    }
-    .navLink {
-        text-shadow: 0.3px 0.3px RGB(1, 210, 119);
-    }
-    #inputYear{
-        color: RGB(1, 210, 119);
-    }
-    input#inputYear {
-        color: RGB(1, 210, 119);
-        margin-top: 50px;
-        font-size: 33px;
-        width: 200px;
-        text-align: center;
-    }
-    #inputSubmit {
-        margin: 15px;
-        font-size: 22px;
-    }
-    #inputYearForm {
-        margin-bottom: 155px;
-        display: flex;
-        flex-direction: column;
-        justify-content: space-around;
-        align-items: center;
-    }
-    .content {
-        height: auto;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-    }
-    .movieOverview {
-        font-size: 12px;
-        width: 300px;
-        height: 152px;
-    }
-    .movieDiv {
-        display: inline-block;
-        width: 300px;
-        height: 560px;
-        margin: 5px;
-    }
-    img {
-        margin-top: 5px;
-    }
-    
-    
-
-    .button {
-        margin: 60px;
-        position: relative;
-        background-color: RGB(1, 210, 119);
-        border: none;
-        font-size: 28px;
-        color: RGB(8, 28, 36);
-        padding: 20px;
-        width: 200px;
-        text-align: center;
-        text-decoration: none;
-        overflow: hidden;
-        cursor: pointer;
-        border-radius: 22px;
-        outline: none;
-    }
-    .button:hover{
-        box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
-    }
-    .button:active {
-        background-color: #3e8e41;
-        box-shadow: 0 5px #666;
-        transform: translateY(4px);
-    }
-    
-
-    .footer {
-        display: flex;
-        flex-direction: row;
-        justify-content: center;
-        justify-content: space-around;
-        align-items: flex-end;
-    }
-    #attributionLogo {
-        max-width: 120px;
-        height: auto;
-    }
-    
-    #Gollum{
-        position: relative;
-        bottom: 222px;
-        left: 61px;
-        width: 75px;
-    }
-    #HanSolo{
-        width: 245px;
-        position: relative;
-        bottom: 462px;
-        left: 275px;
-        transform: rotate(-10deg);
-    }
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(8, 28, 36);
+}
+.content {
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.button {
+    margin: 60px;
+    position: relative;
+    background: linear-gradient(to right, RGB(1, 210, 119), RGB(6, 161, 90));
+    background-color: RGB(1, 210, 119);
+    border: none;
+    font-size: 28px;
+    color: RGB(8, 28, 36);
+    padding: 20px;
+    width: 200px;
+    text-align: center;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+    border-radius: 22px;
+    outline: none;
+}
+.button:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.button:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+.footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: flex-end;
+}
+#attributionLogo {
+    max-width: 120px;
+    height: auto;
+    margin: 8px;
 }
 
 
+
+#Gollum{
+    position: relative;
+    bottom: 222px;
+    left: 61px;
+    width: 75px;
+}
+.randomImages{
+    z-index: -1;
+    overflow: hidden;
+    position: relative;
+}
+#HanSolo{
+    width: 283px;
+    bottom: 495px;
+    left: 156px;
+    transform: rotate(-10deg);
+}
+#ATAT{
+    width: 342px;
+    bottom: 480px;
+    left: -152px;
+}
+#BobaFett{
+    width: 353px;
+    bottom: 471px;
+    left: 121px;
+}
+#Hogwarts{
+    bottom: 462px;
+}
+#IronMan{
+    width: 355px;
+    bottom: 440px;
+    left: -205px;
+    transform: rotate(25deg);
+}
+#Ted{
+    bottom: 467px;
+    left: 197px;
+}
+#Scout{
+    bottom: 534px;
+    left: 90px;
+    width: 320px;
+}
+#Watney{
+    bottom: 470px;
+    left: 176px;
+    width: 355px;
+}

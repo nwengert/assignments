@@ -1,4 +1,4 @@
-@media screen and (max-width: 480px) {
+@media screen and (min-width: 480px) {
     * {
         margin: 0;
         padding: 0;
@@ -11,12 +11,12 @@
     h1 {
         margin: 15px;
         text-shadow: 0.5px 0.5px RGB(1, 210, 119);
-        font-size: 34px;
+        font-size: 48px;
         text-align: center;
     }
     a {
         text-decoration: none;
-        font-size: 25px;
+        font-size: 28px;
     }
     .navbar {
         background: linear-gradient(to right, RGB(1, 210, 119), RGB(8, 28, 36), RGB(8, 28, 36), RGB(1, 210, 119));
@@ -25,7 +25,7 @@
         justify-content: space-around;
         align-items: center;
         margin: 25px;
-        height: 52px;
+        height: 44px;
         border-radius: 4px;
         position: sticky;
         top: 0;
@@ -34,7 +34,6 @@
     h2 {
         margin-bottom: 20px;
         text-align: center;
-        font-size: 32px;
     }
     .navLink {
         text-shadow: 0.3px 0.3px RGB(1, 210, 119);
@@ -54,7 +53,6 @@
         font-size: 33px;
         width: 200px;
         text-align: center;
-        border: solid 2px;
     }
     #inputSubmit {
         margin: 15px;
@@ -67,28 +65,24 @@
         justify-content: space-around;
         align-items: center;
     }
-    .content {
-        height: auto;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-    }
-    .movieList{
-        display: flex;
-        flex-direction: column;
-        align-items: center;
+    div.movieList{
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+        grid-auto-rows: auto;
+        grid-gap: 5px;
     }
     .movieOverview {
         font-size: 12px;
         width: 300px;
+        height: 152px;
     }
     .movieDiv {
         display: inline-block;
-        width: 300px;
-        height: auto;
         margin: 5px;
     }
     img {
         margin-top: 5px;
     }
 }
+
+

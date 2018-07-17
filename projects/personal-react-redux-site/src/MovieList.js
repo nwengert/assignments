@@ -9,8 +9,8 @@ function MovieList(props) {
     // console.log(props ? props : null, "testing")
     return (
         <div className='content'>
-            <div className='movieList'>
                 <h2>{props.year ? `Highest revenue movies from ${props.year}` : `Click Input Year to select year`}</h2>
+            <div className='movieList'>
                     {props.movies && props.movies.results.map((movie)=>{
                         return( 
                             <div className='movieDiv' key={movie.id}>
