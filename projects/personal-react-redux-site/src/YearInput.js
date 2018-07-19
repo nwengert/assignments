@@ -2,15 +2,7 @@ import React, { Component } from 'react'
 import { getMovies } from './redux';
 import { connect } from 'react-redux';
 
-import HanSolo from './images/imgHanSolo.png';
-import ATAT from './images/imgATAT.png';
-import BobaFett from './images/imgBobaFett.png';
-import Hogwarts from './images/imgHogwarts.png';
-import IronMan from './images/imgIronMan.png';
-import Ted from './images/imgTed.png';
-import Scout from './images/imgUpScout.png';
-import Watney from './images/imgWatney.png';
-
+import images from "./img.json";
 
 //make this a class -- with state
 //like hitlist
@@ -20,7 +12,8 @@ class YearInput extends Component {
     constructor() {
         super()
         this.state = {
-            inputYear: ''
+            inputYear: '',
+            img: this.imageSwitch()
             //add other things later
         }
         this.handleChange = this.handleChange.bind(this);
@@ -36,25 +29,20 @@ class YearInput extends Component {
         this.props.getMovies(this.state.inputYear)
         this.props.history.push('./movieList')
     }
-    imageSwitch() {
+    imageSwitch(props) {
         //select a file object from array at random
         // return it
-        const imgFiles = [
-            { filename: HanSolo, id: "HanSolo" },
-            { filename: ATAT, id: 'ATAT'}, 
-            { filename: BobaFett, id: 'BobaFett'},
-            { filename: Hogwarts, id: 'Hogwarts'}, 
-            { filename: IronMan, id: 'IronMan'}, 
-            { filename: Ted, id: 'Ted'}, 
-            { filename: Scout, id: 'Scout'},
-            { filename: Watney, id: 'Watney'}
-        ];
-        return imgFiles[(Math.floor(Math.random() * imgFiles.length))] 
+        const imgFiles = images.map(file => {
+            const jsFile = {...file};
+            jsFile.filename = require(`./images/${file.filename}`);
+            return jsFile;
+        })
+        return imgFiles[Math.floor(Math.random() * imgFiles.length)];
     }
 
 
     render() {
-        const img = this.imageSwitch();
+        
         return (
             <div className='content'>
                 <form onSubmit={this.handleSubmit} id='inputYearForm'>
@@ -67,7 +55,7 @@ class YearInput extends Component {
                         id='inputYear' />
                     <button className='button'>Submit</button>
                 </form>
-                <img className='randomImages' id={img.id} src={img.filename} alt="" />
+                <img className='randomImages' id={this.state.img.id} src={this.state.img.filename} alt="" />
             </div>
         )
     }

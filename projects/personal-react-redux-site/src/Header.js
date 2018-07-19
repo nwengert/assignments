@@ -5,7 +5,6 @@ function Header() {
     return (
         <div className='headerDiv'>
             <h1>Top Movies of Every Year</h1>
-            <Navbar />
         </div>
     )
 }

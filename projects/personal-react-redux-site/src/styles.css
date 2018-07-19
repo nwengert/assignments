@@ -4,6 +4,11 @@
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: rgb(8, 28, 36);
 }
+.navbar{
+    position: sticky;
+    top: 0;
+}
+
 .content {
     height: auto;
     display: flex;
@@ -56,16 +61,13 @@
     left: 61px;
     width: 75px;
 }
+
+
+
 .randomImages{
     z-index: -1;
     overflow: hidden;
     position: relative;
-}
-#HanSolo{
-    width: 283px;
-    bottom: 495px;
-    left: 156px;
-    transform: rotate(-10deg);
 }
 #ATAT{
     width: 342px;
@@ -77,26 +79,81 @@
     bottom: 471px;
     left: 121px;
 }
+#BreakfastClub{
+    width: 400px;
+    position: relative;
+    bottom: 551px;
+    left: 2px;
+}
+#Doc{
+    position: relative;
+    bottom: 500px;
+    left: 192px;
+}
+#Dumb {
+    width: 393px;
+    position: relative;
+    bottom: 453px;
+}
+#Dumbledore{
+    width: 300px;
+    position: relative;
+    bottom: 460px;
+    left: -80px;
+}
+#Forrest{
+    position: relative;
+    bottom: 787px;
+}
+#HanSolo{
+    width: 283px;
+    bottom: 495px;
+    left: 156px;
+    transform: rotate(-10deg);
+}
 #Hogwarts{
     bottom: 462px;
 }
-#IronMan{
-    width: 355px;
-    bottom: 440px;
-    left: -205px;
-    transform: rotate(25deg);
+#Hunt{
+    width: 550px;
+    position: relative;
+    bottom: 473px;
+    left: 69px;
 }
-#Ted{
-    bottom: 467px;
-    left: 197px;
+#IronMan{
+    width: 249px;
+    bottom: 486px;
+    left: -97px;
+    transform: rotate(25deg);
 }
 #Scout{
     bottom: 534px;
     left: 90px;
     width: 320px;
 }
+#Sparrow{
+    width: 240px;
+    position: relative;
+    bottom: 473px;
+    left: -103px;
+}
+#Ted{
+    bottom: 467px;
+    left: 197px;
+}
+#Tombstone{
+    width: 380px;
+    position: relative;
+    bottom: 474px;
+}
 #Watney{
     bottom: 470px;
     left: 176px;
     width: 355px;
+}
+#Wayne{
+    width: 301px;
+    position: relative;
+    bottom: 532px;
+    left: -158px;
 }
