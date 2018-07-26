@@ -1,24 +1,38 @@
-import React from 'react';
+import React, { Component } from 'react'
+
+export default class Form extends Component {
+    constructor(props) {
+        super(props);
+        this.state = {value: ""};
+
+        this.handleChange = this.handleChange.bind(this);
+        this.handleSubmit = this.handleSubmit.bind(this);
+    }
+    handleChange(e) {
+        this.setState({value: event.target.value});
+    }
+    handleSubmit(e){
+        event.preventDefault();
+    }
 
 
-//monday  23 july - I'm at the point where I got the array logged to console, but can't get that to render onto the page.  Do I create a redux folder and pull that stuff into redux and then down into the this Content file?  
-
-function Content (props) {
-    return(
+    render() {
+        return (
         <div>
-            <form action="">
-                <input placeholder="First Name" type="text"/>
-                <input placeholder="Last Name" type="text"/>
-                <input placeholder="Living?" type="boolean"/>
-                <input placeholder="Bounty Amount" type="number"/>
-                <input placeholder="Type" type="text"/>
+            <form onSubmit={this.handleSubmit}>
+                <input placeholder="First Name" type="text" 
+                    value={this.state.value} onChange={this.handleChange}/>
+                <input placeholder="Last Name" type="text"
+                    value={this.state.value} onChange={this.handleChange}/>
+                <input placeholder="Living?" type="boolean"
+                    value={this.state.value} onChange={this.handleChange}/>
+                <input placeholder="Bounty Amount" type="number"
+                    value={this.state.value} onChange={this.handleChange}/>
+                <input placeholder="Type" type="text"
+                    value={this.state.value} onChange={this.handleChange}/>
                 <button>Add</button>
             </form>
-            <div>
-
-            </div>
         </div>
-    )
+        )
+    }
 }
-
-export default Content

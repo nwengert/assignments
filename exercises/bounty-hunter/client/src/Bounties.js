@@ -9,19 +9,20 @@ class Bounties extends Component {
         this.props.getBounties();
     }
     
-    //write a handleClick function
+    //write a handleClick function to the buttons to delete
     //bind and all that shtuff
     
 
     render() {
         const { bounties } = this.props;
         return (
-            <div>
+            <div id="bountiesDiv">
                 {bounties.map(bounty => (
-                    <div key={bounty._id}>
-                        <h1>{bounty.firstName} {bounty.lastName}</h1>
+                    <div key={bounty._id} className="bountyCard">
+                        <h2><button>X</button>  {bounty.firstName} {bounty.lastName}</h2>
                         <h3>Status: {bounty.living ? "Alive" : "Dead"}</h3>
-                        <button>X</button>
+                        <h3>Bounty amount: {bounty.bountyAmount}</h3>
+                        <h3>Type: {bounty.type}</h3>
                     </div>
                 ))}
             </div>
@@ -29,4 +30,4 @@ class Bounties extends Component {
     }
 }
 
-    export default connect(state => state, { getBounties })(Bounties)
+export default connect(state => state, { getBounties })(Bounties)

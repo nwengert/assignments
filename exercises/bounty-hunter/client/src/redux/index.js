@@ -36,6 +36,7 @@ export const getBounties = () => {
             })
     }
 }
+//add bounty action creator
 
 const store = createStore(reducer, applyMiddleware(thunk));
 

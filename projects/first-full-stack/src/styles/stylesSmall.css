@@ -1,0 +1,92 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0px;
+}
+#welcomeDiv{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: linear-gradient(to bottom,  rgb(239, 243, 247), white, white);
+}
+h1{
+    color: rgb(40, 80, 125);
+}
+#welcomeImg{
+    width: 100%;
+}
+#byBodBudsDiv{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 22px;
+}
+#bodyBuddiesImg{
+    width: 88%;
+}
+
+#genderDiv{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background: linear-gradient(to top, rgb(231, 236, 241), white);
+}
+
+
+.genderPics{
+    height: 88px;
+    margin-top: 5px;
+    margin-bottom: 3px;
+}
+#intentDiv{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background: linear-gradient(to right, rgb(239, 97, 151),  rgb(157, 123, 197));
+}
+#mealTypeDiv{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background: linear-gradient( to left, rgb(40, 80, 125), rgb(89, 169, 252));
+}
+.intent{
+    margin: 5px;
+    border: solid rgb(40, 80, 125) 1px;;
+    height: 80px;
+    width: 80px;
+    border-radius: 40px;
+    color: rgb(40, 80, 125);
+    background: radial-gradient(rgb(239, 243, 247), rgb(239, 243, 247), rgb(188, 197, 206));
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#buttonDiv{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+#goButton{
+    background: linear-gradient(to right, lightgray, rgb(167, 166, 166));
+    font-size: 32px;
+    width: 22%;
+    margin: 12px;
+    border-radius: 5px;
+    align-self: center;
+    color: rgb(40, 80, 125);
+}
+
+#footerDiv{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background: linear-gradient(to top, rgb(239, 97, 151), rgb(240, 150, 185))
+}
+.iconLink{
+    height: 40px;
+    margin: 3px;
+}
+

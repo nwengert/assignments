@@ -19,7 +19,7 @@ function App() {
             <div className='footer'>
                 <p>Copyright 2018 Wengert Enterprises, LLC.</p>
             </div>
-
+            
         </div>
     )
 }
