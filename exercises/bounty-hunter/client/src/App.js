@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
 import axios from 'axios';
-import Content from './Content.js';
-import Bounties from './Bounties';
+import Form from './Form.js';
+import Bounties from './Bounties.js';
 
-class App extends Component {
+export default class App extends Component {
     componentDidMount(){
         axios.get('/bounties').then(response => console.log(response.data))
     }
@@ -11,11 +11,9 @@ class App extends Component {
         return(
             <div id="AppDiv">
                 <h1>The Original Bounty Hunter</h1>
-                <Content />
+                <Form />
                 <Bounties />
             </div>
         )
     }
 }
-
-export default App

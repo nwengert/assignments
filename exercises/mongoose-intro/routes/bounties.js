@@ -40,5 +40,6 @@ bountiesRouter.route("/:id")
             if(err) return res.status(500).send(err);
             return res.status(200).send(updateBounty);
         })
+    })
 
 module.exports = bountiesRouter;

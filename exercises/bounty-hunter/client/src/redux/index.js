@@ -11,7 +11,7 @@ const initialState = {
 
 const reducer = (state = initialState, action) => {
     switch (action.type) {
-        case "GET_BOUNTIES":
+        case "GET_BOUNTIES":     //there will eventually bew another case of POST_BOUNTIES
             return {
                 ...state,
                 loading: false,
@@ -37,6 +37,19 @@ export const getBounties = () => {
     }
 }
 //add bounty action creator
+export const postBounties = (newBounty) => {
+    return dispatch => {
+        axios.post("/bounties", newBounty)
+            .then(res => {
+                console.log(res.data);  //when this is seen, then it's time to dispatch to somet
+            })
+
+            .catch(error => {
+                console.log(error);
+            });
+
+    }
+}
 
 const store = createStore(reducer, applyMiddleware(thunk));
 

@@ -7,12 +7,16 @@
 h1 {
     height: 180px;
     text-align: center;
-    color: black;
-    text-shadow: rgb(255, 252, 219) 1px 1px;
+    font-size: 45px;
+    color: rgb(37, 21, 15);
+    text-shadow: rgb(255, 252, 219) 3px 2px 4px;;
     background-image: url("mandalore.png");
     background-repeat: no-repeat;
     background-size: 100%;
     background-position: top left;
+}
+h2{
+    color: rgb(255, 252, 219);
 }
 h3{
     text-align: center;
