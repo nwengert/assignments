@@ -12,6 +12,7 @@ bountiesRouter.route("/")
     .post((req, res) => {
         const newBounty = new Bounty(req.body);
         newBounty.save((err, savedBounty) => {
+            console.log(savedBounty)
             if(err) return res.status(500).send(err);
             return res.status(201).send(savedBounty);
         })
@@ -24,8 +25,13 @@ bountiesRouter.route("/:id")
         })
     })
     .delete((req, res) => {
-        Bounty.findByIdAndRemove(req.params.id, (err) => {
-            res.status(204).send();
+        Bounty.findByIdAndRemove(req.params.id, (err, removedBounty) => {
+            if (err) return res.status(500).send(err);
+            const response = {
+                message: "Bounty successfully deleted",
+                id: removedBounty._id
+            }
+            return res.status(204).send(removedBounty);
         })
     })
     .put((req, res) => {

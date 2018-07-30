@@ -32,8 +32,11 @@ h1{
     align-items: center;
     background: linear-gradient(to top, rgb(231, 236, 241), white);
 }
-
-
+.genderRadio{
+    height: 88px;
+    width: 88px;
+    opacity: 0.2;
+}
 .genderPics{
     height: 88px;
     margin-top: 5px;

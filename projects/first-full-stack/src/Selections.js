@@ -7,6 +7,8 @@ export default class Selections extends Component {
         return (
             <div id="selectionsDiv">
                 <div id="genderDiv">
+                    <input type="radio" name="rad1" className="genderRadio"/>
+                    <input type="radio" name="rad1" className="genderRadio"/>
                     <img className="genderPics" src={Female} alt="Female logo"/>
                     <img className="genderPics" src={Male} alt="Male logo"/>
                 </div>

@@ -1,34 +1,28 @@
 import React, { Component } from 'react'
-import { postBounties } from './redux/index.js'
-import connect from 'react-redux';
-// import bountyModel from '../models/bounty.js'
-const axios = require('axios');
+import { connect } from 'react-redux';
+import { postBounty } from './redux/index.js'
 
-export default class Form extends Component {
+class Form extends Component {
     constructor(props) {
         super(props);
         this.state = {
             firstName: "",
             lastName: "",
-            living: "",
-            bountyAmount: "",
+            living: true,
+            bountyAmount: undefined,
             type: ""
         };
         this.handleChange = this.handleChange.bind(this);
         this.handleSubmit = this.handleSubmit.bind(this);
     }
-
     handleChange(e) {
         this.setState({ [e.target.name]: e.target.value });
     }
-
     handleSubmit(e) {
         e.preventDefault();
         //call getBounties redux/index.js and pass this.state into it
-        
-
+        this.props.postBounty(this.state)
     }
-
     render() {
         return (
             <form onSubmit={this.handleSubmit}>
@@ -64,11 +58,7 @@ export default class Form extends Component {
     }
 }
 //connect to redux/index.js
-
-// it should look something like this : 
-
-                // export default connect(prevState => prevState, { getJoke })(Joke);
-
+export default connect(state => state, { postBounty })(Form);
                 //then call getBounties in the handleSubmit
                 //pass this.state into it.  
                 //then make that go up into the new state or soething>?
