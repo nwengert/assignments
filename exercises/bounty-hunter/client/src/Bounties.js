@@ -10,27 +10,12 @@ import { getBounties, deleteBounty } from "./redux";
 class Bounties extends Component {
     componentDidMount() {
         this.props.getBounties();
-
         this.handleClick = this.handleClick.bind(this);
     }
-    
-    //write a handleClick function to the buttons to delete
-    //bind and all that shtuff
     handleClick(id){
         console.log(this.props)
         this.props.deleteBounty(id)
-
-        // axios
-        //   .delete("/bounties")
-        //   .then(function (response){
-        //         console.log(response.data);
-        //     })
-        //   .catch(function(err){
-        //         console.log(err);
-        //     })
     }
-    
-
     render() {
         const { bounties } = this.props;
         // console.log( {bounties})

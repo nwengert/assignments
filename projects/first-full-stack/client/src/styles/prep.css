@@ -1,0 +1,51 @@
+
+
+#prepSelectionsDiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background: linear-gradient(to top, rgb(231, 236, 241), white);
+}
+/* this came from http://jsfiddle.net/nuwa0me0/ */
+.prep_radio_item{
+    display: none !important;
+    width: 90px;
+    }
+.prep_radio_item:checked + label {
+    opacity: 1;
+    color: white;
+    text-shadow: rgb(40, 80, 125) 2px 2px;
+    }
+.prep_label_item {
+    font-size: 44px;
+    margin-bottom: 5px;
+    opacity: 0.4;
+    width: 355px;
+    height: 90px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+label {
+    cursor: pointer;   
+}
+#prep1{
+    background: linear-gradient(to right, rgb(239, 97, 151),  rgb(157, 123, 197));
+}
+#prep2{
+    background: linear-gradient(to right, rgb(239, 97, 151),  rgb(157, 123, 197));
+}
+#prep3{
+    background: linear-gradient(to right, rgb(239, 97, 151),  rgb(157, 123, 197));
+}
+#prepBackBtn{
+    margin: 5px;
+    font-size: 28px;
+    height: 50px;
+    width: 88px;
+    border-radius: 44px;
+    color: white;
+    background: linear-gradient(to right, gray,  rgb(80, 80, 80));
+}

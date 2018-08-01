@@ -26,7 +26,7 @@ bountiesRouter.route("/:id")
     })
     .delete((req, res) => {
         Bounty.findByIdAndRemove(req.params.id, (err, removedBounty) => {
-            if (err) return res.status(500).send(err);
+            if(err) return res.status(500).send(err);
             const response = {
                 message: "Bounty successfully deleted",
                 id: removedBounty._id

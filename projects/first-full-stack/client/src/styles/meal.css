@@ -1,0 +1,9 @@
+.mealButtons{
+    margin: 5px;
+    font-size: 28px;
+    height: 50px;
+    width: 122px;
+    border-radius: 44px;
+    color: white;
+    background: linear-gradient(to right, gray,  rgb(80, 80, 80));
+}
