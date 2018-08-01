@@ -7,3 +7,7 @@
     color: white;
     background: linear-gradient(to right, gray,  rgb(80, 80, 80));
 }
+#mealTitleDiv{
+    text-align: center;
+    font-size: 28px;
+}

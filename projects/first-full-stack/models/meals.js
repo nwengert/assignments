@@ -12,9 +12,11 @@ const mealSchema = new Schema({
     },
     type: {
         type: String,
+        required: false,
     },
     prep: {
         type: String,
+        required: false,
     },
     protein: {
         type: String,

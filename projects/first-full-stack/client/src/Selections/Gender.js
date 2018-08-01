@@ -20,12 +20,12 @@ export default class Gender extends Component {
                     htmlFor="femaleBtn">
                     <img src={Female} alt="female" className="genderPics" />
                 </label>
-
-                <input checked={this.props.gender === "male"}
+                                        {/* this space after male is not a typo, well - it WAS a typo that now exists in all the database objects */}
+                <input checked={this.props.gender === "male "}
                     onChange={this.props.handleChange}
                     type="radio"
                     name="gender"
-                    value="male" 
+                    value="male " 
                     className="radio_item"
                     id="maleBtn"/>
                 <label

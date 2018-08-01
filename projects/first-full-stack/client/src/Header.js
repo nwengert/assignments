@@ -14,7 +14,7 @@ function Header() {
                 <h1>Macros Meal Creator </h1>
                 <div id="byBodBudsDiv">by <img src={BodBuds} id="bodyBuddiesImg" alt="bodyBuddies"/></div>
                 <hr/>
-                <HeaderNav />
+                {/* <HeaderNav /> */}
             </div>
         </div>
     )

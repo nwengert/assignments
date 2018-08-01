@@ -14,12 +14,12 @@ export default class Intent extends Component {
                     id="intent_radio1"/>
                     <label className="intent_label_item" id="intent1" 
                     htmlFor="intent_radio1">Maintain</label>
-                <input checked={this.props.intent === "fatloss"}
+                <input checked={this.props.intent === "fat loss"}
                     onChange={this.props.handleChange}
                     type="radio" 
                     className="intent_radio_item" 
                     name="intent" 
-                    value="fatloss" 
+                    value="fat loss" 
                     id="intent_radio2"/>
                     <label className="intent_label_item" id="intent2" 
                     htmlFor="intent_radio2">Fat loss</label>

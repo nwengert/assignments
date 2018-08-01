@@ -15,4 +15,4 @@ mongoose.connect('mongodb://localhost:27017/bounties',{useNewUrlParser: true})
     .catch(err => console.error(err));
 // app.use(logger);                 I DONT KNOW WHAT THESE ARE FOR
 // app.use(authenticate);
-app.listen(PORT, ()=> console.log(`Tu servidor ya corre por puerta ${PORT}`))
+app.listen(PORT, ()=> console.log(`Your server is currently running briskly on ${PORT}`))
