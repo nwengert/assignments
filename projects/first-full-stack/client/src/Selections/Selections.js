@@ -20,11 +20,9 @@ export default class Selections extends Component {
             [name] : value
         })
     }
-    //write submit function here
-
     render() {
         console.log(this.state)
-        // pass both state and handle change function down into their respectie components ioa props
+        // pass both state and handle change function down into their respective components via props
         const {gender, intent, type} = this.state;
         return (
             <div id="selectionsDiv">

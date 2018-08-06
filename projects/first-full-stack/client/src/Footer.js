@@ -5,6 +5,7 @@ import pinterest from "./images/pinterest.png";
 import podcast from "./images/podcast.png"
 import snapchat from "./images/snapchat.png";
 import youtube from "./images/youtube.png";
+import veggies from "./images/veggiesLeft2.png";
 
 
 
@@ -30,7 +31,6 @@ function Footer() {
                 <a href="http://www.bodybuddies.libsyn.com/" alt="podcast link" 
                         target="_blank" rel="noopener noreferrer">
                     <img src={podcast} alt="podcast"  className="socialImg"/></a>
-
             </div>
         </div>
     )

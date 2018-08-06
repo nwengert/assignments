@@ -3,7 +3,7 @@
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
-    background: linear-gradient( to left, rgb(40, 80, 125), rgb(89, 169, 252));
+    background: linear-gradient( to left, rgb(173, 189, 165), rgb(146, 163, 138));
 }
 /* this came from http://jsfiddle.net/nuwa0me0/ */
 .type_radio_item{
@@ -30,3 +30,8 @@
     color: white;
     background: radial-gradient(rgb(34, 104, 177), rgb(31, 58, 90));
     }
+.type_label_item:hover {
+    box-shadow: 0px 5px 50px black;
+    position: relative;
+    transform: scale(1.1);
+}

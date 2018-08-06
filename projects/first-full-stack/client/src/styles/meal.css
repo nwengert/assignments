@@ -7,7 +7,21 @@
     color: white;
     background: linear-gradient(to right, gray,  rgb(80, 80, 80));
 }
-#mealTitleDiv{
-    text-align: center;
-    font-size: 28px;
+
+
+
+#natePlugDiv{
+    height: 4px;
+}
+#natePlug{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    position: relative;
+    top: 64px;
+}
+#fireHawk{
+    height: auto;
+    width: 234px;
 }

@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 // import { connect } from 'react-redux'
-import Female from "../images/womanPinkCircle.png";
-import Male from "../images/maleBlueCircle.png";
+import Female from "../images/femaleHair.png";
+import Male from "../images/maleHair.png";
 
 export default class Gender extends Component {
     render() {
@@ -18,7 +18,7 @@ export default class Gender extends Component {
                 <label 
                     className="label_item" 
                     htmlFor="femaleBtn">
-                    <img src={Female} alt="female" className="genderPics" />
+                    <img src={Female} alt="female" className="genderPics" id="femalePic"/>
                 </label>
                                         {/* this space after male is not a typo, well - it WAS a typo that now exists in all the database objects */}
                 <input checked={this.props.gender === "male "}
@@ -31,7 +31,7 @@ export default class Gender extends Component {
                 <label
                     className="label_item" 
                     htmlFor="maleBtn">
-                    <img src={Male} alt="male" className="genderPics" />
+                    <img src={Male} alt="male" className="genderPics" id="malePic" />
                 </label>
 
             </div>

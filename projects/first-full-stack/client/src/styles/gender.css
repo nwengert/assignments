@@ -1,10 +1,4 @@
-#genderDiv{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    align-items: center;
-    background: linear-gradient(to top, rgb(231, 236, 241), white);
-}
+
 /* this came from http://jsfiddle.net/nuwa0me0/ */
 .radio_item{
     display: none !important;
@@ -22,10 +16,4 @@
 }
 label {
     cursor: pointer;   
-}
-.genderPics{
-    height: 88px;
-    width: 88px;
-    margin-top: 5px;
-    margin-bottom: 3px;
 }

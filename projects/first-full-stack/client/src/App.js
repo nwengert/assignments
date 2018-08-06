@@ -1,5 +1,4 @@
 import React from 'react';
-import './styles/stylesSmall.css'
 import Header from './Header';
 import Selections from './Selections/Selections';
 import Prep from './Selections/Prep'

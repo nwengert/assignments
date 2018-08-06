@@ -4,7 +4,7 @@
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
-    background: linear-gradient(to right, rgb(239, 97, 151),  rgb(157, 123, 197));
+    background: linear-gradient(to right, rgb(40, 80, 125),  rgb(54, 95, 141));
 
 }
 /* this came from http://jsfiddle.net/nuwa0me0/ */
@@ -30,5 +30,10 @@
     align-items: center;
     cursor: pointer;
     color: white;
-    background: radial-gradient(rgb(190, 100, 165), rgb(31, 58, 90));
+    background: radial-gradient(rgb(108, 129, 97), lightgray);
     }
+.intent_label_item:hover {
+    box-shadow: 0px 5px 50px white;
+    position: relative;
+    transform: scale(1.1);
+}
