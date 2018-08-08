@@ -59,7 +59,7 @@ export default class Meal extends Component {
         }
         let proteinMacros = "";
         if(meal){    //it has to wait until the response comes back from the get request
-            if(selections.gender === "female"){
+            if(selections.gender === "female" || selections.gender === "female "){
                 if(meal.protein === "Chicken breast" && selections.intent === "fat loss"){
                     proteinMacros = "19 g protein, 0 g carb, 1.5 g fat, 120 calories";
                 }else if(meal.protein === "Salmon" && selections.intent === "fat loss"){
@@ -119,7 +119,7 @@ export default class Meal extends Component {
         }
         let veggieMacros = "";
         if(meal){
-            if(selections.gender === "female"){
+            if(selections.gender === "female" || selections.gender === "female "){
                 if(meal.veggie === "Spinach" && selections.intent === "fat loss"){
                     veggieMacros = "2 g protein, 2 g carb, 0 g fat, 14 calories";
                 }else if(meal.veggie === "Broccoli" && selections.intent === "fat loss"){
@@ -179,7 +179,7 @@ export default class Meal extends Component {
         }
         let carbMacros = "";
         if(meal){
-            if(selections.gender === "female"){
+            if(selections.gender === "female" || selections.gender === "female "){
                 if(meal.carb === "Sweet potatoe" && selections.intent === "fat loss"){
                     carbMacros = "1.5 g protein, 29 g carb, 0 g fat, 120 calories";
                 }else if(meal.carb === "Brown rice" && selections.intent === "fat loss"){
