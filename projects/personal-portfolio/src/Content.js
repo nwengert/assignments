@@ -1,13 +1,14 @@
 import React from 'react';
+import nateCartoon from './images/nwengert (1).png'
 
 const Content = () => {
     return(
         <div className='contentDiv'>
+            <img id="nateCartoon" src={nateCartoon} alt=""/>
             <div className='openerDiv'>
                 <p>Nate Wengert</p>
                 <p>Optimizer, designer, and 'first world problem' solver</p>
             </div>
-
             <h4>
             Use a nice font that is subtle and classy. Something like Roboto from Google Fonts
     Take the edge off the stark white background by changing the color to something subtle and neutral, like a very very light gray (See the "whitesmoke" CSS color for an example)
