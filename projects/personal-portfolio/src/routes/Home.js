@@ -28,6 +28,7 @@ const Home = () => {
                     </div>
                 </div>
                 <Navbar />
+                <p>This site is currently under construction</p>
             </div>
         </div>
 
@@ -36,3 +37,4 @@ const Home = () => {
 }
 
 export default Home
+

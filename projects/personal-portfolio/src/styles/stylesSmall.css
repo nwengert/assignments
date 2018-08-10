@@ -51,6 +51,8 @@
     display: flex;
     justify-content: center;
     background: linear-gradient(to bottom, gray, lightgray);
+    border-bottom-left-radius: 22px;
+    border-bottom-right-radius: 22px;
 }
 #cartoonDiv{
     position: relative;
@@ -76,7 +78,10 @@
     display: flex;
     flex-direction: row;
     justify-content: center;
-
+    border-top-left-radius: 22px;
+    border-top-right-radius: 22px;
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 9px;
 }
 #synopsisDiv2{
     background: linear-gradient(to top, gray, lightgray);

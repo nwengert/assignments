@@ -13,7 +13,6 @@ export default class Selections extends Component {
         }
         this.handleChange=this.handleChange.bind(this);
     }
-    // write handle change here
     handleChange(e){
         const { name, value } = e.target;
         this.setState({
