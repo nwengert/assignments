@@ -1,0 +1,27 @@
+.navbar{
+    width: 88%;
+    height: 66px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.navBtn{
+    margin-top: 4px;
+    background: linear-gradient(to right, gray, rgb(99, 99, 99));
+    height: 60px;
+    width: 60px;
+    border-radius: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-decoration: none;
+    font-size: 13px;
+}
+.navBtn:hover{
+    background: linear-gradient(to bottom, gray, rgb(54, 54, 86));
+    border-radius: 25px;
+    font-size: 15px;
+    transform: translateY(-3px)
+}

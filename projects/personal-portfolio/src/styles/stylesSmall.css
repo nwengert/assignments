@@ -1,0 +1,125 @@
+* {
+    background: whitesmoke;
+    color: rgb(32, 32, 32);
+    font-family: Arial, Helvetica, sans-serif
+}
+#contentDiv{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+#titleDiv1{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+#titleDiv2{
+    border: darkgray solid 3px;
+    height: 44px;
+    width: 319px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.nameText{
+    width: 122px;
+    font-size: 15px;
+    font-weight: bold;
+    margin: 8px;
+    font-family: Arial, Helvetica, sans-serif
+    
+}
+#fName{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+#lName{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+#topImgDiv{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background: linear-gradient(to bottom, gray, lightgray);
+}
+#cartoonDiv{
+    position: relative;
+    top: 44px;
+    border: 10px gray solid;
+    width: 222px;
+    height: 222px;
+    border-radius: 122px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+#nateCartoon{
+    width: 158px;
+    height: auto;
+    border-radius: 86px 86px 30px 30px;
+}
+
+
+#synopsisDiv1{
+    width: 100%;
+    background: linear-gradient(to top, gray, lightgray);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+#synopsisDiv2{
+    background: linear-gradient(to top, gray, lightgray);
+}
+#leftSpacingDiv{
+    background: linear-gradient(to top, gray, lightgray);
+    width: 20%;
+}
+
+
+
+
+
+
+.gitHubLink {
+    height: 50px;
+    width: 50px;
+}
+
+.linksDiv{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+#socialDiv{
+    background: linear-gradient(to top, rgb(77, 146, 230), rgb(59, 114, 181))
+}
+.socialLinks{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.socialImg{
+    height: 44px;
+    width: 44px;
+    margin: 3px;
+    border-radius: 22px;
+    background: linear-gradient(to top, rgb(77, 146, 230), rgb(59, 114, 181))
+}
+.socialImg:hover {
+    box-shadow: 0px 2px 40px rgb(77, 146, 230);
+    position: relative;
+    -webkit-transform: rotate(360deg);
+    transform: scale(1.05);
+}
