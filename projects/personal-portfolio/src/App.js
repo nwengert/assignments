@@ -4,7 +4,6 @@ import Home from './routes/Home';
 import About from './routes/About';
 import Projects from './routes/Projects'
 import Contact from './routes/Contact'
-import Footer from './Footer';
 
 const App = () => {
     return(

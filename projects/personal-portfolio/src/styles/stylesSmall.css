@@ -56,19 +56,31 @@
 }
 #cartoonDiv{
     position: relative;
-    top: 44px;
+    top: 38px;
     border: 10px gray solid;
-    width: 222px;
-    height: 222px;
+    width: 206px;
+    height: 206px;
     border-radius: 122px;
     display: flex;
     justify-content: center;
     align-items: flex-start;
+    background: linear-gradient(to bottom, rgb(235, 235, 235), lightgray);
+    box-shadow: 0px 0px 2px 2px rgb(54, 54, 86);
 }
 #nateCartoon{
-    width: 158px;
+    position: relative;
+    bottom: 18px;
+    width: 146px;
     height: auto;
     border-radius: 86px 86px 30px 30px;
+    background-color: transparent!important;
+}
+#signature{
+    width: 122px;
+    height: auto;
+    position: relative;
+    bottom: 214px;
+    background-color: transparent!important;
 }
 
 
@@ -82,49 +94,16 @@
     border-top-right-radius: 22px;
     border-bottom-left-radius: 9px;
     border-bottom-right-radius: 9px;
+    box-shadow: 3px 3px 3px rgb(54, 54, 86);
 }
 #synopsisDiv2{
     background: linear-gradient(to top, gray, lightgray);
 }
-#leftSpacingDiv{
-    background: linear-gradient(to top, gray, lightgray);
-    width: 20%;
-}
 
 
 
 
 
 
-.gitHubLink {
-    height: 50px;
-    width: 50px;
-}
 
-.linksDiv{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-}
 
-#socialDiv{
-    background: linear-gradient(to top, rgb(77, 146, 230), rgb(59, 114, 181))
-}
-.socialLinks{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
-}
-.socialImg{
-    height: 44px;
-    width: 44px;
-    margin: 3px;
-    border-radius: 22px;
-    background: linear-gradient(to top, rgb(77, 146, 230), rgb(59, 114, 181))
-}
-.socialImg:hover {
-    box-shadow: 0px 2px 40px rgb(77, 146, 230);
-    position: relative;
-    -webkit-transform: rotate(360deg);
-    transform: scale(1.05);
-}

@@ -1,0 +1,31 @@
+
+/* #socialDiv{
+    background: linear-gradient(to top, rgb(77, 146, 230), rgb(59, 114, 181))
+} */
+#socialLinksDiv{
+    height: 124px;
+    position: relative;
+    top: 44px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    background: linear-gradient(to top, palegreen, rgb(112, 185, 112));
+    border-radius: 62px;
+    border: 3px solid rgb(67, 109, 67);
+}
+.socialA{
+    background: transparent;
+}
+.socialImg{
+    height: 66px;
+    width: auto;
+    border-radius: 33px;
+    background-color: transparent!important;
+}
+.socialImg:hover {
+    box-shadow: 0px 2px 40px black;
+    position: relative;
+    -webkit-transform: rotate(360deg);
+    transform: scale(1.05);
+}
