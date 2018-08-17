@@ -15,10 +15,10 @@ const Home = () => {
                 </div>
                 <div id='titleDiv2'>
                     <div className="nameText" id="fName">
-                        <p>NATHAN</p>
+                        <p className="names">NATHAN</p>
                     </div>
                     <div className="nameText" id="lName">
-                        <p>WENGERT</p>
+                        <p className="names">WENGERT</p>
                     </div>
                 </div>
                 <div id="synopsisDiv1">

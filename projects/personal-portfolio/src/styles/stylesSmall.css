@@ -18,7 +18,7 @@
     align-items: center;
 }
 #titleDiv2{
-    border: darkgray solid 3px;
+    border: rgb(95, 115, 118) solid 3px;
     height: 44px;
     width: 319px;
     display: flex;
@@ -26,12 +26,16 @@
     justify-content: space-between;
 }
 .nameText{
+    color: rgb(58, 51, 70);
     width: 122px;
     font-size: 15px;
     font-weight: bold;
     margin: 8px;
     font-family: Arial, Helvetica, sans-serif
     
+}
+.names{
+    color: rgb(58, 51, 70);
 }
 #fName{
     display: flex;
@@ -50,14 +54,14 @@
     width: 100%;
     display: flex;
     justify-content: center;
-    background: linear-gradient(to bottom, gray, lightgray);
+    background: linear-gradient(to bottom, rgb(159, 183, 165), rgb(210, 217, 194));
     border-bottom-left-radius: 22px;
     border-bottom-right-radius: 22px;
 }
 #cartoonDiv{
     position: relative;
     top: 38px;
-    border: 10px gray solid;
+    border: 10px rgb(58, 51, 70) solid;
     width: 206px;
     height: 206px;
     border-radius: 122px;
@@ -76,10 +80,10 @@
     background-color: transparent!important;
 }
 #signature{
-    width: 122px;
+    width: 100px;
     height: auto;
     position: relative;
-    bottom: 214px;
+    bottom: 229px;
     background-color: transparent!important;
 }
 
@@ -87,7 +91,7 @@
 #synopsisDiv1{
     width: 100%;
     margin-bottom: 12px;
-    background: linear-gradient(to top, gray, lightgray);
+    background: linear-gradient(to top, rgb(58, 51, 70), rgb(110, 73, 104));
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -98,7 +102,8 @@
     box-shadow: 3px 3px 3px rgb(54, 54, 86);
 }
 #synopsisDiv2{
-    background: linear-gradient(to top, gray, lightgray);
+    color: rgb(210, 217, 194);
+    background: linear-gradient(to top, rgb(58, 51, 70), rgb(110, 73, 104));
 }
 
 
