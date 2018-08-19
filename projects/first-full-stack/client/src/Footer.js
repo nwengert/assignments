@@ -5,9 +5,6 @@ import pinterest from "./images/pinterest.png";
 import podcast from "./images/podcast.png"
 import snapchat from "./images/snapchat.png";
 import youtube from "./images/youtube.png";
-import veggies from "./images/veggiesLeft2.png";
-
-
 
 function Footer() {
     return (
