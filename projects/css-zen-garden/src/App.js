@@ -1,7 +1,7 @@
 import React from 'react';
 import Top from './Top';
 import Right from './Right';
-import Left from './Left';
+// import Left from './Left';
 import Footer from './Footer';
 import Body from './Body';
 
@@ -9,9 +9,11 @@ function App () {
     return(
         <div className='appDiv'>
             <Top />
-            <Body />
+            <div id="bodyDiv">
+                <Body />
+            </div>
             <Right />
-            <Left />
+            {/* <Left /> */}
             <Footer />
         </div>
     )
