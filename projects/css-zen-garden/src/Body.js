@@ -2,7 +2,7 @@ import React from 'react';
 
 function Body() {
     return (
-        <div className='leftDiv'>
+        <div className='bodyDiv'>
             <p>A demonstration of what can be accomplished through CSS-based design. Select any style sheet from the list to load it into this page.</p>
             <p>Download the example <a href=""> HTML FILE</a> and <a href="">CSS FILE</a></p>
             <div id='zen-preamble'>

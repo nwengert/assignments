@@ -1,22 +1,19 @@
 import React from 'react';
-import Top from './Top';
-import Right from './Right';
-// import Left from './Left';
-import Footer from './Footer';
 import Body from './Body';
+import Footer from './Footer';
+import midCent from './midCent';
+import Top from './Top';
+import viewThis from './viewThis';
 
 function App () {
     return(
         <div className='appDiv'>
             <Top />
-            <div id="bodyDiv">
-                <Body />
-            </div>
-            <Right />
-            {/* <Left /> */}
+            <Body />
             <Footer />
+            <midCent />
+            <viewThis />
         </div>
     )
 }
-
 export default App

@@ -2,6 +2,26 @@
     *{
         margin: 0;
     }
+    .appDiv{
+        height: 100%;
+        display: grid;
+        grid-gap: 3px;
+        grid-template-columns: repeat(12, 1fr);
+        grid-template-rows: 40px auto 40px;
+        grid-template-areas:
+            "h h h h h h h h h h h h"
+            "b b b b b b b b b b b b"
+
+    }
+    .topDiv{
+        grid-area: a;
+    }
+    .bodyDiv{
+        grid-area: b;
+    }
+
+
+
     /* TOP */
     .topDiv{
         border-top: solid 10px rgba(19, 67, 71, 0.9);
