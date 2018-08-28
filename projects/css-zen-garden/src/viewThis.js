@@ -1,7 +1,7 @@
 import React from 'react';
 
-function viewThis() {
-    return (
+function ViewThis() {
+    return(
         <div className='viewThisDiv'>
             <div>view this design's css</div>
             <div>css resources</div>
@@ -12,4 +12,4 @@ function viewThis() {
         </div>
     )
 }
-export default viewThis
+export default ViewThis;

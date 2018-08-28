@@ -3,94 +3,12 @@
     *{
         margin: 0;
     }
-    /* .appDiv{
-        height: 100%;
-        display: grid;
-        grid-gap: 3px;
-        grid-template-columns: repeat(12, 1fr);
-        grid-template-rows: 40px auto 40px;
-        grid-template-areas:
-            "h h h h h h h h h h h h"
-            "h h h h h h h h h h h h"
-            "b b b b b b b b b b b b"
+    
 
-    }
 
-    .bodyDiv{
-        grid-area: b;
-    } */
-    /* TOP */
-    .topDiv{
-        border-top: solid 10px rgba(19, 67, 71, 0.9);
-        height: 153px;
-        padding: 20px 0 70px 0;
-        background: #2d6360 50% 0 url("../images/huntington.jpg") no-repeat;
-        background-attachment: fixed, scroll;
-        background-image: url("../images/contours.png"), url("../images/noise.png"), url("../images/gridlines.png"), url("../images/huntington.jpg");
-        background-position: 0 0, 0 0, -5px -25px, 0 50%;
-        background-repeat: repeat, repeat, repeat, no-repeat;
-        background-size: auto, auto, auto, cover;
-        text-align: center;
-        display: flex;
-        flex-direction: column;
-        justify-content: flex-end;
-    }
-    .topInnerDiv{
-        height: 230px;
-        display: flex;
-        flex-direction: column;
-        justify-content: space-between;
-    }
-    h1::before{
-        display: inline-block;
-        position: relative;
-        top: 20px;
-        content: "";
-        width: 80px;
-        height: 80px;
-        margin: -20px 20px 0 0;
-        background: url("../images/enso.svg");
-        background-repeat: no-repeat;
-        background-size: 100%;
-        opacity: 0.6;
-    }
-    h1{
-        padding-top: 0;
-        padding-bottom: 5px;
-        border-bottom: none;
-        font-family: 'Julius Sans One', sans-serif;
-        font-size: 3.2em;
-        text-transform: uppercase;
-        font-weight: lighter;
-        color: white;
-    }
-    h2{
-        display: block;
-        padding-top: 5px;
-        padding-bottom: 30px;
-        border-top: none;
-        color: rgba(255,255,255,0.6);
-        font-size: 1.6em;
-        font-style: italic;
-    }
-    h3{
-        margin: 15px 0 0 auto;
-        color: #2e484c;
-        font-family: 'Julius Sans One', sans-serif;
-        font-size: 1.8em;
-        font-weight: lighter;
-        text-transform: uppercase;
-
-        width: 80%;
-        margin-left: auto;
-        margin-right: auto;
-    }
     #viewDesignsWrapper{
         height: 82px;
     }
-    /* #viewDesignsWrapper:hover{
-        opacity: 0.5;
-    } */
     #viewDesignsOuterDiv{
         height: 82px;
         z-index: 2;
@@ -116,6 +34,8 @@
     a#viewAllDesigns{
         height: 82px;
     }
+
+    
     #participationBackgroundDiv{
         background: url("../images/bamboo.png");
         background-attachment: fixed;
@@ -132,7 +52,7 @@
     }
 
     /* BOTTOM */
-    .bottomDiv{
+    .footerDiv{
         height: 100px;
         padding: 20px 0 70px 0;
         background: #2d6360 50% 0 url("../images/huntington.jpg") no-repeat;

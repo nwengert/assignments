@@ -1,6 +1,5 @@
-*{
-    margin: 0;
-}
-.bodyDiv{
-    background-color: red;
+p{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
 }
