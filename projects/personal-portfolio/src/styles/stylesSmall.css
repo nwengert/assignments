@@ -32,7 +32,6 @@
     font-weight: bold;
     margin: 8px;
     font-family: Arial, Helvetica, sans-serif
-    
 }
 .names{
     color: rgb(58, 51, 70);
@@ -49,7 +48,6 @@
     justify-content: center;
     align-items: flex-end;
 }
-
 #topImgDiv{
     width: 100%;
     display: flex;
@@ -105,6 +103,9 @@
     color: rgb(210, 217, 194);
     background: linear-gradient(to top, rgb(58, 51, 70), rgb(110, 73, 104));
 }
+
+
+
 
 
 

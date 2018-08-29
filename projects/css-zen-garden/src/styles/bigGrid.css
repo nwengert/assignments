@@ -45,6 +45,10 @@
     }
     .midCentDiv{
         grid-area: m;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        align-items: center;
     }
     .viewThisDiv{
         grid-area: v;
@@ -52,5 +56,9 @@
     }
     .footerDiv{
         grid-area: f;
+    }
+    
+    .midCentList{
+        margin: 5px;
     }
 }
