@@ -10,7 +10,6 @@ function About() {
                 <p>This is how I got started</p>
                 <p>When not working, you might see me doing this stuff...</p>
                 <p>Myer's Briggs personality of ENTJ, Wonderlic 28</p>
-                <p>--include my signature</p>
             </div>
             <div>
                 <ul>Stuff I'm good at

@@ -2,26 +2,154 @@
     margin: 0;
 }
 @media only screen and (max-width : 1130px) {
-    /* .appDiv{
-       display: grid;
-       grid-template-columns: 1, 1fr;
-       grid-template-rows: 153px auto auto auto auto;
+    #viewDesignsWrapper{
+        height: 82px;
+    }
+    #viewDesignsOuterDiv{
+        height: 82px;
+        z-index: 2;
+        background: transparent;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+
+    }
+    #viewDesignsLetter{
+        height: 82px;
+    }
+    #viewAllDesigns{
+        height: 82px;
+        background: white;
+        opacity: 0.2;
+    }
+    #viewAllDesigns:hover{
+        background: white;
+        opacity: 0.5;
+    }
+    a#viewAllDesigns{
+        height: 82px;
     }
     .topDiv{
-
+        line-height: 36px;
+        font-size: 22px;
     }
-    .bodyDiv{
-
+    #bodyFirstDiv{
+        line-height: 36px;
+        font-size: 22px;
     }
-    .footerDiv{
-
+    #zen-preamble{
+        line-height: 36px;
+        font-size: 22px;
     }
+    #zen-explanation{
+        line-height: 36px;
+        font-size: 22px;
+    }
+    #participationBenefitsDiv{
+        background: url("../images/bamboo.png");
+        background-attachment: fixed;
+        background-color: rgba(138,188,159,0.5);
+        line-height: 36px;
+        font-size: 22px; 
+    }
+    #zen-requirements{
+        line-height: 36px;
+        font-size: 22px;
+    }
+
+
     .midCentDiv{
-
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: repeat(4, 100px);
     }
-    .viewThisDiv{
 
-    } */
+    .midCentList{
+        margin: 15px;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    #needsUnderline{
+        border-bottom: 1px solid rgb(138,188,159);
+    }
+    .midCentListTitle{
+        display: block;
+        margin: 0;
+        margin-bottom: 5px;
+        font-size: 22px;
+        font-family: 'Julius Sans One', sans-serif;
+        color: #607476;
+        font-weight: lighter;
+        text-align: center;
+    }
+    .byauthorDiv{
+        margin-bottom: 12px;
+    }
+    .by{
+        display: inline;
+        color: rgba(138,188,159,0.5);
+        font-style: italic;
+        font-size: 22px;
+        margin-bottom: 5px;
+    }
+    .author{
+        display: inline;
+        color: #607476;
+        font-size: 22px;
+    }
+
+    .bodyDiv{
+        display: flex;
+        flex-direction: center;
+        align-items: centerl
+    }
+    p{
+        width: 80%;
+        margin: 5px auto 5px auto;
+    }
+    .bodyParagraphTitle{
+        padding-top: 12px;
+    }
+
+
+
+    .viewThisDiv{
+        position: relative;
+        bottom: 25px;
+    }
+    .viewThisInnerDiv{
+        position: relative;
+        top: 25px;
+        width: 100%;
+        margin-top: 22px;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: repeat(3, auto);
+    }
+    .viewThisList{
+        margin: 22px;
+        width: 100%;
+        font-size: 25px;
+        text-transform: uppercase;
+        font-family: 'Julius Sans One', sans-serif;
+        font-weight: lighter;
+        color: #607476;
+        border-bottom: 0.1px solid rgba(138,188,159);
+        text-align: center;
+    }
+    .viewThisList:hover{
+        color: rgba(92, 128, 107, 0.5);
+    }
+    .viewThisText{
+        width: 100%;
+        margin-bottom: 33px;
+    }
+    #translations{
+        border-bottom: none;
+    }
 
 
 

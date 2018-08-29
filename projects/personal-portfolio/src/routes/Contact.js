@@ -7,6 +7,7 @@ export default class Contact extends Component {
         return (
             <div className="componentDiv">
                 <Navbar />
+                <h2 id='number'>928.245.3373</h2>
                 <SocialLinks />
             </div>
         )

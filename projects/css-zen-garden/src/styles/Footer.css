@@ -1,6 +1,43 @@
 *{
     margin: 0;
 }
-.bottomDiv{
-    background-color: blue;
+
+/* BOTTOM */
+.footerText{
+    display: inline;
+}
+.footerDiv{
+    height: 122px;
+    padding: 20px 0 20px 0;
+    background: #2d6360 50% 0 url("../images/huntington.jpg") no-repeat;
+    background-attachment: fixed, scroll;
+    background-image: url("../images/contours.png"), url("../images/noise.png"), url("../images/gridlines.png"), url("../images/huntington.jpg");
+    background-position: 0 0, 0 0, -5px -25px, 0 50%;
+    background-repeat: repeat, repeat, repeat, no-repeat;
+    background-size: auto, auto, auto, cover;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: rgba(255,255,255,0.5);
+    font-size: 2.0em;
+    font-style: italic;
+    line-height: 44px;
+}
+#footerTextDiv{
+    width: 60%;
+}
+#bottomLinksDiv{
+    z-index: 1;
+    height: 88px;
+    background-image: url('../images/bottomLinks.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: rgb(33, 66, 70);
+}
+a.footerText{
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.7);
+    font-style: normal;
 }

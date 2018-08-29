@@ -12,36 +12,41 @@
         "p p p p p p p p p m m m"
         "e e e e e e e e e m m m"
         "r r r r r r r r r v v v"
-        "b b b b b b b b b v v v"
-        "q q q q q q q q q . . ."
+        "q q q q q q q q q x x x"
         "f f f f f f f f f f f f";
     }
     .topDiv{
         grid-area: t;
+        line-height: 36px;
+        font-size: 22px;
     }
     #bodyFirstDiv{
         grid-area: a;
+        line-height: 36px;
+        font-size: 22px;
     }
     #zen-preamble{
         grid-area: p;
+        line-height: 36px;
+        font-size: 22px;
     }
     #zen-explanation{
         grid-area: e;
+        line-height: 36px;
+        font-size: 22px;
     }
-    #zen-participation{
+    #participationBenefitsDiv{
         grid-area: r;
         background: url("../images/bamboo.png");
         background-attachment: fixed;
         background-color: rgba(138,188,159,0.5);
-    }
-    #zen-benefits{
-        grid-area: b;
-        background: url("../images/bamboo.png");
-        background-attachment: fixed;
-        background-color: rgba(138,188,159,0.5);
+        line-height: 36px;
+        font-size: 22px;
     }
     #zen-requirements{
         grid-area: q;
+        line-height: 36px;
+        font-size: 22px;
     }
     .midCentDiv{
         grid-area: m;
@@ -52,13 +57,77 @@
     }
     .viewThisDiv{
         grid-area: v;
-
     }
-    .footerDiv{
+    .bigFooterDiv{
         grid-area: f;
     }
-    
-    .midCentList{
-        margin: 5px;
+    #emptyDiv{
+        grid-area: x;
+        background-color: rgb(225, 234, 229);
     }
+
+
+    .midCentList{
+        margin: 15px;
+        width: 65%;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        border-bottom: 0.1px solid rgb(138,188,159);
+        z-index: 1;
+
+    }
+    .midCentListTitle{
+        display: block;
+        margin: 0;
+        margin-bottom: 5px;
+        font-size: 22px;
+        font-family: 'Julius Sans One', sans-serif;
+        color: #607476;
+        font-weight: lighter;
+    }
+    .byauthorDiv{
+        margin-bottom: 12px;
+    }
+    .by{
+        display: inline;
+        color: rgba(138,188,159,0.5);
+        font-style: italic;
+        font-size: 22px;
+    }
+    .author{
+        display: inline;
+        color: #607476;
+        font-size: 22px;
+    }
+
+
+
+
+    /* VIEW THIS */
+    .viewThisDiv{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .viewThisInnerDiv{
+        width: 75%;
+        margin-top: 22px;
+    }
+    .viewThisList{
+        margin: 22px;
+        font-size: 25px;
+        text-transform: uppercase;
+        font-family: 'Julius Sans One', sans-serif;
+        font-weight: lighter;
+        color: #607476;
+        border-bottom: 0.1px solid rgba(138,188,159);
+    }
+    .viewThisList:hover{
+        color: rgba(138,188,159,0.5);
+    }
+    .viewThisText{
+        margin-bottom: 33px;
+    }
+    
 }

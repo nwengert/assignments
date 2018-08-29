@@ -5,7 +5,7 @@
     padding: 5px 100px 5px 100px;
     display: grid;
     grid-gap: 22px;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
     grid-template-rows: repeat(2, 250px);
     justify-content: center;
 }
@@ -94,4 +94,12 @@
 }
 #MaxxGarcia:hover{
     color: lightblue;
+}
+#ShoDat{
+    background: transparent;
+    color: white;
+    text-decoration: none;
+}
+#ShoDat:hover{
+    color: lightgreen;
 }

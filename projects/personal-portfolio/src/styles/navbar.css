@@ -6,10 +6,14 @@
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    background: transparent;
 }
 .navBtn{
     margin-top: 4px;
-    background: linear-gradient(to right, whitesmoke,rgb(159, 183, 165),rgb(159, 183, 165), rgb(159, 183, 165), whitesmoke);
+    background: linear-gradient(to right, transparent,rgb(159, 183, 165),rgb(159, 183, 165), rgb(159, 183, 165), transparent);
     height: 44px;
     width: 93px;
     display: flex;

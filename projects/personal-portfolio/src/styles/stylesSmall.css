@@ -1,8 +1,15 @@
 * {
     background: whitesmoke;
     color: rgb(32, 32, 32);
-    font-family: Arial, Helvetica, sans-serif
+    font-family: AndaleMono, Arial, Helvetica, sans-serif
 }
+#number{
+    text-align: center;
+    padding-top: 44px;
+}
+/* a.navbtn{
+    font-size: 44px;
+} */
 #contentDiv{
     height: 100%;
     width: 100%;
