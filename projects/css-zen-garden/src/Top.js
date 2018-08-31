@@ -10,11 +10,11 @@ function Top(){
                 </div>
                 <div id="viewDesignsWrapper">
                     <div id="viewDesignsOuterDiv">
-                        <div id="prev">.</div>
-                        <div id="viewAllDesignsDiv">
+                        <div className='view' id="prev">.</div>
+                        <div className='view' id="viewAllDesignsDiv">
                             <a id="viewAllDesigns">VIEW ALL DESIGNS</a>
                         </div>
-                        <div id="next">></div>
+                        <div className='view' id="next">></div>
                     </div>
                 </div>
             </div>

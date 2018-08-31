@@ -2,34 +2,12 @@
     margin: 0;
 }
 @media only screen and (max-width : 1130px) {
-    #viewDesignsWrapper{
-        height: 82px;
-    }
-    #viewDesignsOuterDiv{
-        height: 82px;
-        z-index: 2;
-        background: transparent;
-        display: flex;
-        flex-direction: row;
-        align-items: center;
-        justify-content: center;
 
-    }
-    #viewDesignsLetter{
-        height: 82px;
-    }
-    #viewAllDesigns{
-        height: 82px;
-        background: white;
-        opacity: 0.2;
-    }
-    #viewAllDesigns:hover{
-        background: white;
-        opacity: 0.5;
-    }
-    a#viewAllDesigns{
-        height: 82px;
-    }
+
+
+
+
+
     .topDiv{
         line-height: 36px;
         font-size: 22px;

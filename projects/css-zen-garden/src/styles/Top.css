@@ -66,6 +66,41 @@ h3{
         background-size: 100%;
         opacity: 0.6;
     }
+
+
+
+    #viewDesignsOuterDiv{
+        position: relative;
+        top: 10px;
+        height: 82px;
+        width: 100%;
+        background: transparent;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+
+    }
+    .view{
+        height: 82px;
+        width: 100%;
+        background: white;
+        opacity: 0.5;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    #viewAllDesignsDiv{
+        width: 450%;
+    }
+    .view:hover{
+        opacity: 0.7;
+    }
+    #viewAllDesigns{
+        color: black;
+        z-index: 1;
+        opacity: 1;
+    }
 }
 
 
@@ -73,6 +108,14 @@ h3{
 
 @media only screen and (min-width : 1133px) {
     .topDiv{
+        height: 250px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    h1{
+        font-size: 77px;
+        margin-bottom: 12px;
     }
     #CZG_TheBeauty{
         width: 80%;
@@ -88,14 +131,49 @@ h3{
     h1::before{
         display: inline-block;
         position: relative;
-        top: 20px;
+        top: 60px;
         content: "";
-        width: 80px;
-        height: 80px;
+        width: 140px;
+        height: 140px;
         margin: -20px 20px 0 0;
         background: url("../images/enso.svg");
         background-repeat: no-repeat;
         background-size: 100%;
         opacity: 0.6;
+    }
+    #viewDesignsWrapper{
+        height: 500px;
+    }
+    #viewDesignsOuterDiv{
+        position: relative;
+        top: 10px;
+        height: 82px;
+        width: 100%;
+        background: transparent;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+
+    }
+    .view{
+        height: 82px;
+        width: 100%;
+        background: white;
+        opacity: 0.2;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    #viewAllDesignsDiv{
+        width: 450%;
+    }
+    .view:hover{
+        opacity: 0.7;
+    }
+    #viewAllDesigns{
+        color: black;
+        z-index: 1;
+        opacity: 1;
     }
 }
