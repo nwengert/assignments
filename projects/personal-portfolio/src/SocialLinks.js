@@ -2,7 +2,6 @@ import React from 'react';
 import facebook from "./images/facebook.png";
 import instagram from "./images/instagram.png";
 import linkedin from "./images/linkedin.png";
-import podcast from "./images/podcast.png"
 import email from "./images/email.png";
 import github from "./images/github.png";
 
