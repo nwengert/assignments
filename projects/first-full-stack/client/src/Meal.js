@@ -19,6 +19,7 @@ export default class Meal extends Component {
             .then(response => {
                 const meals = response.data;
                 this.setState({ meal: meals[Math.floor(Math.random() * meals.length)] })
+                //this is where, whith Sam, I pulled one random meal from all of the search results
             })
             .catch(function (err) {
                 console.log(err)
