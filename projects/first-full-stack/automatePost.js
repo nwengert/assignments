@@ -3073,7 +3073,7 @@ const JSONfile = [
         "fatAmt": "0.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3085,7 +3085,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3097,7 +3097,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3109,7 +3109,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3121,7 +3121,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3133,7 +3133,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3145,7 +3145,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3157,7 +3157,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3169,7 +3169,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3181,7 +3181,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3193,7 +3193,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3205,7 +3205,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3217,7 +3217,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3229,7 +3229,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3241,7 +3241,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3253,7 +3253,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3265,7 +3265,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3277,7 +3277,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3289,7 +3289,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3301,7 +3301,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3313,7 +3313,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3325,7 +3325,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3337,7 +3337,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3349,7 +3349,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3361,7 +3361,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3373,7 +3373,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3385,7 +3385,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3397,7 +3397,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3409,7 +3409,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3421,7 +3421,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3433,7 +3433,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3445,7 +3445,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3457,7 +3457,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3469,7 +3469,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3481,7 +3481,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3493,7 +3493,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3505,7 +3505,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3517,7 +3517,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3529,7 +3529,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3541,7 +3541,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3553,7 +3553,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3565,7 +3565,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3577,7 +3577,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3589,7 +3589,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3601,7 +3601,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3613,7 +3613,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3625,7 +3625,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3637,7 +3637,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3649,7 +3649,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3661,7 +3661,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3673,7 +3673,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3685,7 +3685,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3697,7 +3697,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3709,7 +3709,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3721,7 +3721,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3733,7 +3733,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3745,7 +3745,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3757,7 +3757,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3769,7 +3769,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3781,7 +3781,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3793,7 +3793,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3805,7 +3805,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3817,7 +3817,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3829,7 +3829,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -3841,7 +3841,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -3853,7 +3853,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -3865,7 +3865,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -3877,7 +3877,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -3889,7 +3889,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -3901,7 +3901,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -3913,7 +3913,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -3925,7 +3925,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -3937,7 +3937,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -3949,7 +3949,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -3961,7 +3961,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -3973,7 +3973,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -3985,7 +3985,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -3997,7 +3997,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -4009,7 +4009,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -4021,7 +4021,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -4033,7 +4033,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -4045,7 +4045,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -4057,7 +4057,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -4069,7 +4069,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -4081,7 +4081,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -4093,7 +4093,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -4105,7 +4105,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -4117,7 +4117,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -4129,7 +4129,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -4141,7 +4141,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -4153,7 +4153,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -4165,7 +4165,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -4177,7 +4177,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -4189,7 +4189,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -4201,7 +4201,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -4213,7 +4213,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -4225,7 +4225,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -4237,7 +4237,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -4249,7 +4249,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -4261,7 +4261,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -4273,7 +4273,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -4285,7 +4285,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -4297,7 +4297,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -4309,7 +4309,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -4321,7 +4321,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -4333,7 +4333,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -4345,7 +4345,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -4357,7 +4357,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -4369,7 +4369,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -4381,7 +4381,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -4393,7 +4393,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -4405,7 +4405,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -4417,7 +4417,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -4429,7 +4429,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -4441,7 +4441,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -4453,7 +4453,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -4465,7 +4465,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -4477,7 +4477,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -4489,7 +4489,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -4501,7 +4501,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -4513,7 +4513,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -4525,7 +4525,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -4537,7 +4537,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -4549,7 +4549,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -4561,7 +4561,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -4573,7 +4573,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -4585,7 +4585,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -4597,7 +4597,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -4609,7 +4609,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -4621,7 +4621,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -4633,7 +4633,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -4645,7 +4645,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -4657,7 +4657,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -4669,7 +4669,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -4681,7 +4681,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -4693,7 +4693,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -4705,7 +4705,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -4717,7 +4717,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -4729,7 +4729,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -4741,7 +4741,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -4753,7 +4753,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -4765,7 +4765,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -4777,7 +4777,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -4789,7 +4789,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -4801,7 +4801,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -4813,7 +4813,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -4825,7 +4825,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -4837,7 +4837,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -4849,7 +4849,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -4861,7 +4861,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -4873,7 +4873,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -4885,7 +4885,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -4897,7 +4897,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -4909,7 +4909,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -4921,7 +4921,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -4933,7 +4933,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -4945,7 +4945,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -4957,7 +4957,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -4969,7 +4969,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -4981,7 +4981,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -4993,7 +4993,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -5005,7 +5005,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -5017,7 +5017,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -5029,7 +5029,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -5041,7 +5041,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -5053,7 +5053,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -5065,7 +5065,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -5077,7 +5077,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -5089,7 +5089,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -5101,7 +5101,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -5113,7 +5113,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -5125,7 +5125,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -5137,7 +5137,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -5149,7 +5149,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -5161,7 +5161,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -5173,7 +5173,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -5185,7 +5185,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -5197,7 +5197,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -5209,7 +5209,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -5221,7 +5221,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -5233,7 +5233,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -5245,7 +5245,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -5257,7 +5257,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -5269,7 +5269,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -5281,7 +5281,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -5293,7 +5293,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -5305,7 +5305,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -5317,7 +5317,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -5329,7 +5329,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -5341,7 +5341,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -5353,7 +5353,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -5365,7 +5365,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -5377,7 +5377,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -5389,7 +5389,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -5401,7 +5401,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -5413,7 +5413,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -5425,7 +5425,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -5437,7 +5437,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -5449,7 +5449,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -5461,7 +5461,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -5473,7 +5473,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -5485,7 +5485,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -5497,7 +5497,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -5509,7 +5509,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -5521,7 +5521,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -5533,7 +5533,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -5545,7 +5545,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -5557,7 +5557,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -5569,7 +5569,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -5581,7 +5581,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -5593,7 +5593,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -5605,7 +5605,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -5617,7 +5617,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -5629,7 +5629,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -5641,7 +5641,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -5653,7 +5653,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -5665,7 +5665,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -5677,7 +5677,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -5689,7 +5689,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -5701,7 +5701,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -5713,7 +5713,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -5725,7 +5725,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -5737,7 +5737,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -5749,7 +5749,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -5761,7 +5761,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -5773,7 +5773,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -5785,7 +5785,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -5797,7 +5797,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -5809,7 +5809,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -5821,7 +5821,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -5833,7 +5833,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -5845,7 +5845,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -5857,7 +5857,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -5869,7 +5869,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -5881,7 +5881,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -5893,7 +5893,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -5905,7 +5905,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -5917,7 +5917,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -5929,7 +5929,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -5941,7 +5941,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -5953,7 +5953,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -5965,7 +5965,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -5977,7 +5977,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -5989,7 +5989,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -6001,7 +6001,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -6013,7 +6013,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -6025,7 +6025,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -6037,7 +6037,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -6049,7 +6049,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -6061,7 +6061,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -6073,7 +6073,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -6085,7 +6085,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -6097,7 +6097,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -6109,7 +6109,7 @@ const JSONfile = [
         "fatAmt": "4 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -6121,7 +6121,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -6133,7 +6133,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -6145,7 +6145,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6157,7 +6157,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6169,7 +6169,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6181,7 +6181,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6193,7 +6193,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6205,7 +6205,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6217,7 +6217,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6229,7 +6229,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6241,7 +6241,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6253,7 +6253,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6265,7 +6265,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6277,7 +6277,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6289,7 +6289,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6301,7 +6301,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6313,7 +6313,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6325,7 +6325,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6337,7 +6337,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6349,7 +6349,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6361,7 +6361,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6373,7 +6373,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6385,7 +6385,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6397,7 +6397,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6409,7 +6409,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6421,7 +6421,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6433,7 +6433,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6445,7 +6445,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6457,7 +6457,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6469,7 +6469,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6481,7 +6481,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6493,7 +6493,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6505,7 +6505,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6517,7 +6517,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6529,7 +6529,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6541,7 +6541,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6553,7 +6553,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6565,7 +6565,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6577,7 +6577,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6589,7 +6589,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6601,7 +6601,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6613,7 +6613,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6625,7 +6625,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6637,7 +6637,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6649,7 +6649,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6661,7 +6661,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6673,7 +6673,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6685,7 +6685,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6697,7 +6697,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6709,7 +6709,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6721,7 +6721,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6733,7 +6733,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6745,7 +6745,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6757,7 +6757,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6769,7 +6769,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6781,7 +6781,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6793,7 +6793,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6805,7 +6805,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6817,7 +6817,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6829,7 +6829,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6841,7 +6841,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6853,7 +6853,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6865,7 +6865,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6877,7 +6877,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6889,7 +6889,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6901,7 +6901,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -6913,7 +6913,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -6925,7 +6925,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -6937,7 +6937,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -6949,7 +6949,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -6961,7 +6961,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -6973,7 +6973,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -6985,7 +6985,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -6997,7 +6997,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7009,7 +7009,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7021,7 +7021,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7033,7 +7033,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7045,7 +7045,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7057,7 +7057,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7069,7 +7069,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7081,7 +7081,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7093,7 +7093,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7105,7 +7105,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7117,7 +7117,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7129,7 +7129,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7141,7 +7141,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7153,7 +7153,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7165,7 +7165,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7177,7 +7177,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7189,7 +7189,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7201,7 +7201,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7213,7 +7213,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7225,7 +7225,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7237,7 +7237,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7249,7 +7249,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7261,7 +7261,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7273,7 +7273,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7285,7 +7285,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7297,7 +7297,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7309,7 +7309,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7321,7 +7321,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7333,7 +7333,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7345,7 +7345,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7357,7 +7357,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7369,7 +7369,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7381,7 +7381,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7393,7 +7393,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7405,7 +7405,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7417,7 +7417,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7429,7 +7429,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7441,7 +7441,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7453,7 +7453,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7465,7 +7465,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7477,7 +7477,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7489,7 +7489,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7501,7 +7501,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7513,7 +7513,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7525,7 +7525,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7537,7 +7537,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7549,7 +7549,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7561,7 +7561,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7573,7 +7573,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7585,7 +7585,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7597,7 +7597,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7609,7 +7609,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7621,7 +7621,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7633,7 +7633,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7645,7 +7645,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7657,7 +7657,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7669,7 +7669,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Salmon",
         "proteinAmt": "5 oz.",
@@ -7681,7 +7681,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -7693,7 +7693,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -7705,7 +7705,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -7717,7 +7717,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -7729,7 +7729,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -7741,7 +7741,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -7753,7 +7753,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -7765,7 +7765,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -7777,7 +7777,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -7789,7 +7789,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -7801,7 +7801,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -7813,7 +7813,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -7825,7 +7825,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -7837,7 +7837,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -7849,7 +7849,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -7861,7 +7861,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -7873,7 +7873,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -7885,7 +7885,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -7897,7 +7897,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -7909,7 +7909,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -7921,7 +7921,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -7933,7 +7933,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -7945,7 +7945,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -7957,7 +7957,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -7969,7 +7969,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -7981,7 +7981,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -7993,7 +7993,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -8005,7 +8005,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -8017,7 +8017,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -8029,7 +8029,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -8041,7 +8041,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -8053,7 +8053,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -8065,7 +8065,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -8077,7 +8077,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -8089,7 +8089,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -8101,7 +8101,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -8113,7 +8113,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -8125,7 +8125,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -8137,7 +8137,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -8149,7 +8149,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -8161,7 +8161,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -8173,7 +8173,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -8185,7 +8185,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -8197,7 +8197,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -8209,7 +8209,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -8221,7 +8221,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -8233,7 +8233,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -8245,7 +8245,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -8257,7 +8257,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -8269,7 +8269,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -8281,7 +8281,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -8293,7 +8293,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -8305,7 +8305,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -8317,7 +8317,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -8329,7 +8329,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -8341,7 +8341,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -8353,7 +8353,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -8365,7 +8365,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -8377,7 +8377,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -8389,7 +8389,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -8401,7 +8401,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -8413,7 +8413,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -8425,7 +8425,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -8437,7 +8437,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Egg whites",
         "proteinAmt": "1 c.",
@@ -8449,7 +8449,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -8461,7 +8461,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -8473,7 +8473,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -8485,7 +8485,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -8497,7 +8497,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -8509,7 +8509,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -8521,7 +8521,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -8533,7 +8533,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -8545,7 +8545,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -8557,7 +8557,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -8569,7 +8569,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -8581,7 +8581,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -8593,7 +8593,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -8605,7 +8605,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -8617,7 +8617,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -8629,7 +8629,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -8641,7 +8641,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -8653,7 +8653,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -8665,7 +8665,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -8677,7 +8677,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -8689,7 +8689,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -8701,7 +8701,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -8713,7 +8713,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -8725,7 +8725,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -8737,7 +8737,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -8749,7 +8749,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -8761,7 +8761,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -8773,7 +8773,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -8785,7 +8785,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -8797,7 +8797,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -8809,7 +8809,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -8821,7 +8821,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -8833,7 +8833,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -8845,7 +8845,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -8857,7 +8857,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -8869,7 +8869,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -8881,7 +8881,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -8893,7 +8893,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -8905,7 +8905,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -8917,7 +8917,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -8929,7 +8929,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -8941,7 +8941,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -8953,7 +8953,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -8965,7 +8965,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -8977,7 +8977,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -8989,7 +8989,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -9001,7 +9001,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -9013,7 +9013,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -9025,7 +9025,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -9037,7 +9037,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -9049,7 +9049,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -9061,7 +9061,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -9073,7 +9073,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -9085,7 +9085,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -9097,7 +9097,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -9109,7 +9109,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -9121,7 +9121,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -9133,7 +9133,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -9145,7 +9145,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -9157,7 +9157,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -9169,7 +9169,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -9181,7 +9181,7 @@ const JSONfile = [
         "fatAmt": "6 oz."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -9193,7 +9193,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -9205,7 +9205,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "female ",
+        "gender": "female",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -9217,7 +9217,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9229,7 +9229,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9241,7 +9241,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9253,7 +9253,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9265,7 +9265,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9277,7 +9277,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9289,7 +9289,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9301,7 +9301,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9313,7 +9313,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9325,7 +9325,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9337,7 +9337,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9349,7 +9349,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9361,7 +9361,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9373,7 +9373,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9385,7 +9385,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9397,7 +9397,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9409,7 +9409,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9421,7 +9421,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9433,7 +9433,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9445,7 +9445,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9457,7 +9457,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9469,7 +9469,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9481,7 +9481,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9493,7 +9493,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9505,7 +9505,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9517,7 +9517,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9529,7 +9529,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9541,7 +9541,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9553,7 +9553,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9565,7 +9565,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9577,7 +9577,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9589,7 +9589,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9601,7 +9601,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9613,7 +9613,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9625,7 +9625,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9637,7 +9637,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9649,7 +9649,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9661,7 +9661,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9673,7 +9673,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9685,7 +9685,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9697,7 +9697,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9709,7 +9709,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9721,7 +9721,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9733,7 +9733,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9745,7 +9745,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9757,7 +9757,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9769,7 +9769,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9781,7 +9781,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9793,7 +9793,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9805,7 +9805,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9817,7 +9817,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9829,7 +9829,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9841,7 +9841,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9853,7 +9853,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9865,7 +9865,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9877,7 +9877,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9889,7 +9889,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9901,7 +9901,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9913,7 +9913,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9925,7 +9925,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9937,7 +9937,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9949,7 +9949,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9961,7 +9961,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9973,7 +9973,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Chicken breast",
         "proteinAmt": "4 oz.",
@@ -9985,7 +9985,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -9997,7 +9997,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10009,7 +10009,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10021,7 +10021,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10033,7 +10033,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10045,7 +10045,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10057,7 +10057,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10069,7 +10069,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10081,7 +10081,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10093,7 +10093,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10105,7 +10105,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10117,7 +10117,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10129,7 +10129,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10141,7 +10141,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10153,7 +10153,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10165,7 +10165,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10177,7 +10177,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10189,7 +10189,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10201,7 +10201,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10213,7 +10213,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10225,7 +10225,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10237,7 +10237,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10249,7 +10249,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10261,7 +10261,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10273,7 +10273,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10285,7 +10285,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10297,7 +10297,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10309,7 +10309,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10321,7 +10321,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10333,7 +10333,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10345,7 +10345,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10357,7 +10357,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10369,7 +10369,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10381,7 +10381,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10393,7 +10393,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10405,7 +10405,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10417,7 +10417,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10429,7 +10429,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10441,7 +10441,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10453,7 +10453,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10465,7 +10465,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10477,7 +10477,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10489,7 +10489,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10501,7 +10501,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10513,7 +10513,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10525,7 +10525,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10537,7 +10537,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10549,7 +10549,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10561,7 +10561,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10573,7 +10573,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10585,7 +10585,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10597,7 +10597,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10609,7 +10609,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10621,7 +10621,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10633,7 +10633,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10645,7 +10645,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10657,7 +10657,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10669,7 +10669,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10681,7 +10681,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10693,7 +10693,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10705,7 +10705,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10717,7 +10717,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10729,7 +10729,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10741,7 +10741,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -10753,7 +10753,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -10765,7 +10765,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -10777,7 +10777,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -10789,7 +10789,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -10801,7 +10801,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -10813,7 +10813,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -10825,7 +10825,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -10837,7 +10837,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -10849,7 +10849,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -10861,7 +10861,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -10873,7 +10873,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -10885,7 +10885,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -10897,7 +10897,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -10909,7 +10909,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -10921,7 +10921,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -10933,7 +10933,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -10945,7 +10945,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -10957,7 +10957,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -10969,7 +10969,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -10981,7 +10981,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -10993,7 +10993,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -11005,7 +11005,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -11017,7 +11017,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -11029,7 +11029,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -11041,7 +11041,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -11053,7 +11053,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -11065,7 +11065,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -11077,7 +11077,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -11089,7 +11089,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -11101,7 +11101,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -11113,7 +11113,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -11125,7 +11125,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -11137,7 +11137,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -11149,7 +11149,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -11161,7 +11161,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -11173,7 +11173,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -11185,7 +11185,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -11197,7 +11197,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -11209,7 +11209,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -11221,7 +11221,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -11233,7 +11233,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -11245,7 +11245,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -11257,7 +11257,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -11269,7 +11269,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -11281,7 +11281,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -11293,7 +11293,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -11305,7 +11305,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -11317,7 +11317,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -11329,7 +11329,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -11341,7 +11341,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -11353,7 +11353,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -11365,7 +11365,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -11377,7 +11377,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -11389,7 +11389,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -11401,7 +11401,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -11413,7 +11413,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -11425,7 +11425,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -11437,7 +11437,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -11449,7 +11449,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -11461,7 +11461,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -11473,7 +11473,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -11485,7 +11485,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -11497,7 +11497,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -11509,7 +11509,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Egg whites",
         "proteinAmt": "3/4 c.",
@@ -11521,7 +11521,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -11533,7 +11533,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -11545,7 +11545,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -11557,7 +11557,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -11569,7 +11569,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -11581,7 +11581,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -11593,7 +11593,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -11605,7 +11605,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -11617,7 +11617,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -11629,7 +11629,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -11641,7 +11641,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -11653,7 +11653,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -11665,7 +11665,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -11677,7 +11677,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -11689,7 +11689,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -11701,7 +11701,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -11713,7 +11713,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -11725,7 +11725,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -11737,7 +11737,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -11749,7 +11749,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -11761,7 +11761,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -11773,7 +11773,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -11785,7 +11785,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -11797,7 +11797,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -11809,7 +11809,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -11821,7 +11821,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -11833,7 +11833,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -11845,7 +11845,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -11857,7 +11857,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -11869,7 +11869,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -11881,7 +11881,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -11893,7 +11893,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -11905,7 +11905,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -11917,7 +11917,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -11929,7 +11929,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -11941,7 +11941,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -11953,7 +11953,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -11965,7 +11965,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -11977,7 +11977,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -11989,7 +11989,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -12001,7 +12001,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -12013,7 +12013,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -12025,7 +12025,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -12037,7 +12037,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -12049,7 +12049,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -12061,7 +12061,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -12073,7 +12073,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -12085,7 +12085,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -12097,7 +12097,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -12109,7 +12109,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -12121,7 +12121,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -12133,7 +12133,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -12145,7 +12145,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -12157,7 +12157,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -12169,7 +12169,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -12181,7 +12181,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -12193,7 +12193,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -12205,7 +12205,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -12217,7 +12217,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -12229,7 +12229,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -12241,7 +12241,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -12253,7 +12253,7 @@ const JSONfile = [
         "fatAmt": "3 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -12265,7 +12265,7 @@ const JSONfile = [
         "fatAmt": "15 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -12277,7 +12277,7 @@ const JSONfile = [
         "fatAmt": "1 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "fat loss",
         "protein": "Ground turkey",
         "proteinAmt": "4 oz.",
@@ -12289,7 +12289,7 @@ const JSONfile = [
         "fatAmt": "1 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12301,7 +12301,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12313,7 +12313,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12325,7 +12325,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12337,7 +12337,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12349,7 +12349,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12361,7 +12361,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12373,7 +12373,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12385,7 +12385,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12397,7 +12397,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12409,7 +12409,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12421,7 +12421,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12433,7 +12433,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12445,7 +12445,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12457,7 +12457,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12469,7 +12469,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12481,7 +12481,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12493,7 +12493,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12505,7 +12505,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12517,7 +12517,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12529,7 +12529,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12541,7 +12541,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12553,7 +12553,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12565,7 +12565,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12577,7 +12577,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12589,7 +12589,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12601,7 +12601,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12613,7 +12613,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12625,7 +12625,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12637,7 +12637,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12649,7 +12649,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12661,7 +12661,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12673,7 +12673,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12685,7 +12685,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12697,7 +12697,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12709,7 +12709,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12721,7 +12721,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12733,7 +12733,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12745,7 +12745,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12757,7 +12757,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12769,7 +12769,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12781,7 +12781,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12793,7 +12793,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12805,7 +12805,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12817,7 +12817,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12829,7 +12829,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12841,7 +12841,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12853,7 +12853,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12865,7 +12865,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12877,7 +12877,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12889,7 +12889,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12901,7 +12901,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12913,7 +12913,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12925,7 +12925,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12937,7 +12937,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12949,7 +12949,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12961,7 +12961,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12973,7 +12973,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12985,7 +12985,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -12997,7 +12997,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -13009,7 +13009,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -13021,7 +13021,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -13033,7 +13033,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -13045,7 +13045,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Chicken breast",
         "proteinAmt": "5 oz.",
@@ -13057,7 +13057,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13069,7 +13069,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13081,7 +13081,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13093,7 +13093,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13105,7 +13105,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13117,7 +13117,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13129,7 +13129,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13141,7 +13141,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13153,7 +13153,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13165,7 +13165,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13177,7 +13177,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13189,7 +13189,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13201,7 +13201,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13213,7 +13213,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13225,7 +13225,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13237,7 +13237,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13249,7 +13249,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13261,7 +13261,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13273,7 +13273,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13285,7 +13285,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13297,7 +13297,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13309,7 +13309,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13321,7 +13321,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13333,7 +13333,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13345,7 +13345,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13357,7 +13357,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13369,7 +13369,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13381,7 +13381,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13393,7 +13393,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13405,7 +13405,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13417,7 +13417,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13429,7 +13429,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13441,7 +13441,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13453,7 +13453,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13465,7 +13465,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13477,7 +13477,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13489,7 +13489,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13501,7 +13501,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13513,7 +13513,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13525,7 +13525,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13537,7 +13537,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13549,7 +13549,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13561,7 +13561,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13573,7 +13573,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13585,7 +13585,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13597,7 +13597,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13609,7 +13609,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13621,7 +13621,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13633,7 +13633,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13645,7 +13645,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13657,7 +13657,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13669,7 +13669,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13681,7 +13681,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13693,7 +13693,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13705,7 +13705,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13717,7 +13717,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13729,7 +13729,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13741,7 +13741,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13753,7 +13753,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13765,7 +13765,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13777,7 +13777,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13789,7 +13789,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13801,7 +13801,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13813,7 +13813,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Salmon",
         "proteinAmt": "4 oz.",
@@ -13825,7 +13825,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -13837,7 +13837,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -13849,7 +13849,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -13861,7 +13861,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -13873,7 +13873,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -13885,7 +13885,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -13897,7 +13897,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -13909,7 +13909,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -13921,7 +13921,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -13933,7 +13933,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -13945,7 +13945,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -13957,7 +13957,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -13969,7 +13969,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -13981,7 +13981,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -13993,7 +13993,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -14005,7 +14005,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -14017,7 +14017,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -14029,7 +14029,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -14041,7 +14041,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -14053,7 +14053,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -14065,7 +14065,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -14077,7 +14077,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -14089,7 +14089,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -14101,7 +14101,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -14113,7 +14113,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -14125,7 +14125,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -14137,7 +14137,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -14149,7 +14149,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -14161,7 +14161,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -14173,7 +14173,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -14185,7 +14185,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -14197,7 +14197,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -14209,7 +14209,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -14221,7 +14221,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -14233,7 +14233,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -14245,7 +14245,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -14257,7 +14257,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -14269,7 +14269,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -14281,7 +14281,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -14293,7 +14293,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -14305,7 +14305,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -14317,7 +14317,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -14329,7 +14329,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -14341,7 +14341,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -14353,7 +14353,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -14365,7 +14365,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -14377,7 +14377,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -14389,7 +14389,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -14401,7 +14401,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -14413,7 +14413,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -14425,7 +14425,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -14437,7 +14437,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -14449,7 +14449,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -14461,7 +14461,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -14473,7 +14473,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -14485,7 +14485,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -14497,7 +14497,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -14509,7 +14509,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -14521,7 +14521,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -14533,7 +14533,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -14545,7 +14545,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -14557,7 +14557,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -14569,7 +14569,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -14581,7 +14581,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Egg whites",
         "proteinAmt": "1.25 c.",
@@ -14593,7 +14593,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -14605,7 +14605,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -14617,7 +14617,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -14629,7 +14629,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -14641,7 +14641,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -14653,7 +14653,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -14665,7 +14665,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -14677,7 +14677,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -14689,7 +14689,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -14701,7 +14701,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -14713,7 +14713,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -14725,7 +14725,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -14737,7 +14737,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -14749,7 +14749,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -14761,7 +14761,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -14773,7 +14773,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -14785,7 +14785,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -14797,7 +14797,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -14809,7 +14809,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -14821,7 +14821,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -14833,7 +14833,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -14845,7 +14845,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -14857,7 +14857,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -14869,7 +14869,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -14881,7 +14881,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -14893,7 +14893,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -14905,7 +14905,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -14917,7 +14917,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -14929,7 +14929,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -14941,7 +14941,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -14953,7 +14953,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -14965,7 +14965,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -14977,7 +14977,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -14989,7 +14989,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -15001,7 +15001,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -15013,7 +15013,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -15025,7 +15025,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -15037,7 +15037,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -15049,7 +15049,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -15061,7 +15061,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -15073,7 +15073,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -15085,7 +15085,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -15097,7 +15097,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -15109,7 +15109,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -15121,7 +15121,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -15133,7 +15133,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -15145,7 +15145,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -15157,7 +15157,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -15169,7 +15169,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -15181,7 +15181,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -15193,7 +15193,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -15205,7 +15205,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -15217,7 +15217,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -15229,7 +15229,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -15241,7 +15241,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -15253,7 +15253,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -15265,7 +15265,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -15277,7 +15277,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -15289,7 +15289,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -15301,7 +15301,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -15313,7 +15313,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -15325,7 +15325,7 @@ const JSONfile = [
         "fatAmt": "5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -15337,7 +15337,7 @@ const JSONfile = [
         "fatAmt": "20 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -15349,7 +15349,7 @@ const JSONfile = [
         "fatAmt": "1.5 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "maintain",
         "protein": "Ground turkey",
         "proteinAmt": "5 oz.",
@@ -15361,7 +15361,7 @@ const JSONfile = [
         "fatAmt": "1.5 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -15373,7 +15373,7 @@ const JSONfile = [
         "fatAmt": "7 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -15385,7 +15385,7 @@ const JSONfile = [
         "fatAmt": "25 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Chicken breast",
         "proteinAmt": "6 oz.",
@@ -15397,2313 +15397,9 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Spinach",
-        "veggieAmt": "2 c.",
-        "carb": "Sweet potato",
-        "carbAmt": "8 oz.",
-        "fat": "Raw almonds",
-        "fatAmt": "2 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Spinach",
-        "veggieAmt": "2 c.",
-        "carb": "Brown rice",
-        "carbAmt": "1.5 c.",
-        "fat": "Avocado",
-        "fatAmt": "7 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Spinach",
-        "veggieAmt": "2 c.",
-        "carb": "Brown rice",
-        "carbAmt": "1.5 c.",
-        "fat": "Black olives",
-        "fatAmt": "25 large"
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Spinach",
-        "veggieAmt": "2 c.",
-        "carb": "Brown rice",
-        "carbAmt": "1.5 c.",
-        "fat": "Coconut oil",
-        "fatAmt": "2 Tbsp."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Spinach",
-        "veggieAmt": "2 c.",
-        "carb": "Brown rice",
-        "carbAmt": "1.5 c.",
-        "fat": "Raw almonds",
-        "fatAmt": "2 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Spinach",
-        "veggieAmt": "2 c.",
-        "carb": "Lentils",
-        "carbAmt": "1.5 c.",
-        "fat": "Avocado",
-        "fatAmt": "7 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Spinach",
-        "veggieAmt": "2 c.",
-        "carb": "Lentils",
-        "carbAmt": "1.5 c.",
-        "fat": "Black olives",
-        "fatAmt": "25 large"
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Spinach",
-        "veggieAmt": "2 c.",
-        "carb": "Lentils",
-        "carbAmt": "1.5 c.",
-        "fat": "Coconut oil",
-        "fatAmt": "2 Tbsp."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Spinach",
-        "veggieAmt": "2 c.",
-        "carb": "Lentils",
-        "carbAmt": "1.5 c.",
-        "fat": "Raw almonds",
-        "fatAmt": "2 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Spinach",
-        "veggieAmt": "2 c.",
-        "carb": "Black beans",
-        "carbAmt": "1.5 c.",
-        "fat": "Avocado",
-        "fatAmt": "7 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Spinach",
-        "veggieAmt": "2 c.",
-        "carb": "Black beans",
-        "carbAmt": "1.5 c.",
-        "fat": "Black olives",
-        "fatAmt": "25 large"
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Spinach",
-        "veggieAmt": "2 c.",
-        "carb": "Black beans",
-        "carbAmt": "1.5 c.",
-        "fat": "Coconut oil",
-        "fatAmt": "2 Tbsp."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Spinach",
-        "veggieAmt": "2 c.",
-        "carb": "Black beans",
-        "carbAmt": "1.5 c.",
-        "fat": "Raw almonds",
-        "fatAmt": "2 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Broccoli",
-        "veggieAmt": "2 c.",
-        "carb": "Sweet potato",
-        "carbAmt": "8 oz.",
-        "fat": "Avocado",
-        "fatAmt": "7 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Broccoli",
-        "veggieAmt": "2 c.",
-        "carb": "Sweet potato",
-        "carbAmt": "8 oz.",
-        "fat": "Black olives",
-        "fatAmt": "25 large"
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Broccoli",
-        "veggieAmt": "2 c.",
-        "carb": "Sweet potato",
-        "carbAmt": "8 oz.",
-        "fat": "Coconut oil",
-        "fatAmt": "2 Tbsp."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Broccoli",
-        "veggieAmt": "2 c.",
-        "carb": "Sweet potato",
-        "carbAmt": "8 oz.",
-        "fat": "Raw almonds",
-        "fatAmt": "2 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Broccoli",
-        "veggieAmt": "2 c.",
-        "carb": "Brown rice",
-        "carbAmt": "1.5 c.",
-        "fat": "Avocado",
-        "fatAmt": "7 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Broccoli",
-        "veggieAmt": "2 c.",
-        "carb": "Brown rice",
-        "carbAmt": "1.5 c.",
-        "fat": "Black olives",
-        "fatAmt": "25 large"
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Broccoli",
-        "veggieAmt": "2 c.",
-        "carb": "Brown rice",
-        "carbAmt": "1.5 c.",
-        "fat": "Coconut oil",
-        "fatAmt": "2 Tbsp."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Broccoli",
-        "veggieAmt": "2 c.",
-        "carb": "Brown rice",
-        "carbAmt": "1.5 c.",
-        "fat": "Raw almonds",
-        "fatAmt": "2 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Broccoli",
-        "veggieAmt": "2 c.",
-        "carb": "Lentils",
-        "carbAmt": "1.5 c.",
-        "fat": "Avocado",
-        "fatAmt": "7 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Broccoli",
-        "veggieAmt": "2 c.",
-        "carb": "Lentils",
-        "carbAmt": "1.5 c.",
-        "fat": "Black olives",
-        "fatAmt": "25 large"
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Broccoli",
-        "veggieAmt": "2 c.",
-        "carb": "Lentils",
-        "carbAmt": "1.5 c.",
-        "fat": "Coconut oil",
-        "fatAmt": "2 Tbsp."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Broccoli",
-        "veggieAmt": "2 c.",
-        "carb": "Lentils",
-        "carbAmt": "1.5 c.",
-        "fat": "Raw almonds",
-        "fatAmt": "2 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Broccoli",
-        "veggieAmt": "2 c.",
-        "carb": "Black beans",
-        "carbAmt": "1.5 c.",
-        "fat": "Avocado",
-        "fatAmt": "7 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Broccoli",
-        "veggieAmt": "2 c.",
-        "carb": "Black beans",
-        "carbAmt": "1.5 c.",
-        "fat": "Black olives",
-        "fatAmt": "25 large"
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Broccoli",
-        "veggieAmt": "2 c.",
-        "carb": "Black beans",
-        "carbAmt": "1.5 c.",
-        "fat": "Coconut oil",
-        "fatAmt": "2 Tbsp."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Broccoli",
-        "veggieAmt": "2 c.",
-        "carb": "Black beans",
-        "carbAmt": "1.5 c.",
-        "fat": "Raw almonds",
-        "fatAmt": "2 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Zucchini",
-        "veggieAmt": "2 c.",
-        "carb": "Sweet potato",
-        "carbAmt": "8 oz.",
-        "fat": "Avocado",
-        "fatAmt": "7 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Zucchini",
-        "veggieAmt": "2 c.",
-        "carb": "Sweet potato",
-        "carbAmt": "8 oz.",
-        "fat": "Black olives",
-        "fatAmt": "25 large"
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Zucchini",
-        "veggieAmt": "2 c.",
-        "carb": "Sweet potato",
-        "carbAmt": "8 oz.",
-        "fat": "Coconut oil",
-        "fatAmt": "2 Tbsp."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Zucchini",
-        "veggieAmt": "2 c.",
-        "carb": "Sweet potato",
-        "carbAmt": "8 oz.",
-        "fat": "Raw almonds",
-        "fatAmt": "2 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Zucchini",
-        "veggieAmt": "2 c.",
-        "carb": "Brown rice",
-        "carbAmt": "1.5 c.",
-        "fat": "Avocado",
-        "fatAmt": "7 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Zucchini",
-        "veggieAmt": "2 c.",
-        "carb": "Brown rice",
-        "carbAmt": "1.5 c.",
-        "fat": "Black olives",
-        "fatAmt": "25 large"
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Zucchini",
-        "veggieAmt": "2 c.",
-        "carb": "Brown rice",
-        "carbAmt": "1.5 c.",
-        "fat": "Coconut oil",
-        "fatAmt": "2 Tbsp."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Zucchini",
-        "veggieAmt": "2 c.",
-        "carb": "Brown rice",
-        "carbAmt": "1.5 c.",
-        "fat": "Raw almonds",
-        "fatAmt": "2 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Zucchini",
-        "veggieAmt": "2 c.",
-        "carb": "Lentils",
-        "carbAmt": "1.5 c.",
-        "fat": "Avocado",
-        "fatAmt": "7 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Zucchini",
-        "veggieAmt": "2 c.",
-        "carb": "Lentils",
-        "carbAmt": "1.5 c.",
-        "fat": "Black olives",
-        "fatAmt": "25 large"
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Zucchini",
-        "veggieAmt": "2 c.",
-        "carb": "Lentils",
-        "carbAmt": "1.5 c.",
-        "fat": "Coconut oil",
-        "fatAmt": "2 Tbsp."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Zucchini",
-        "veggieAmt": "2 c.",
-        "carb": "Lentils",
-        "carbAmt": "1.5 c.",
-        "fat": "Raw almonds",
-        "fatAmt": "2 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Zucchini",
-        "veggieAmt": "2 c.",
-        "carb": "Black beans",
-        "carbAmt": "1.5 c.",
-        "fat": "Avocado",
-        "fatAmt": "7 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Zucchini",
-        "veggieAmt": "2 c.",
-        "carb": "Black beans",
-        "carbAmt": "1.5 c.",
-        "fat": "Black olives",
-        "fatAmt": "25 large"
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Zucchini",
-        "veggieAmt": "2 c.",
-        "carb": "Black beans",
-        "carbAmt": "1.5 c.",
-        "fat": "Coconut oil",
-        "fatAmt": "2 Tbsp."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Zucchini",
-        "veggieAmt": "2 c.",
-        "carb": "Black beans",
-        "carbAmt": "1.5 c.",
-        "fat": "Raw almonds",
-        "fatAmt": "2 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Bell pepper",
-        "veggieAmt": "125 g",
-        "carb": "Sweet potato",
-        "carbAmt": "8 oz.",
-        "fat": "Avocado",
-        "fatAmt": "7 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Bell pepper",
-        "veggieAmt": "125 g",
-        "carb": "Sweet potato",
-        "carbAmt": "8 oz.",
-        "fat": "Black olives",
-        "fatAmt": "25 large"
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Bell pepper",
-        "veggieAmt": "125 g",
-        "carb": "Sweet potato",
-        "carbAmt": "8 oz.",
-        "fat": "Coconut oil",
-        "fatAmt": "2 Tbsp."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Bell pepper",
-        "veggieAmt": "125 g",
-        "carb": "Sweet potato",
-        "carbAmt": "8 oz.",
-        "fat": "Raw almonds",
-        "fatAmt": "2 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Bell pepper",
-        "veggieAmt": "125 g",
-        "carb": "Brown rice",
-        "carbAmt": "1.5 c.",
-        "fat": "Avocado",
-        "fatAmt": "7 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Bell pepper",
-        "veggieAmt": "125 g",
-        "carb": "Brown rice",
-        "carbAmt": "1.5 c.",
-        "fat": "Black olives",
-        "fatAmt": "25 large"
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Bell pepper",
-        "veggieAmt": "125 g",
-        "carb": "Brown rice",
-        "carbAmt": "1.5 c.",
-        "fat": "Coconut oil",
-        "fatAmt": "2 Tbsp."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Bell pepper",
-        "veggieAmt": "125 g",
-        "carb": "Brown rice",
-        "carbAmt": "1.5 c.",
-        "fat": "Raw almonds",
-        "fatAmt": "2 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Bell pepper",
-        "veggieAmt": "125 g",
-        "carb": "Lentils",
-        "carbAmt": "1.5 c.",
-        "fat": "Avocado",
-        "fatAmt": "7 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Bell pepper",
-        "veggieAmt": "125 g",
-        "carb": "Lentils",
-        "carbAmt": "1.5 c.",
-        "fat": "Black olives",
-        "fatAmt": "25 large"
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Bell pepper",
-        "veggieAmt": "125 g",
-        "carb": "Lentils",
-        "carbAmt": "1.5 c.",
-        "fat": "Coconut oil",
-        "fatAmt": "2 Tbsp."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Bell pepper",
-        "veggieAmt": "125 g",
-        "carb": "Lentils",
-        "carbAmt": "1.5 c.",
-        "fat": "Raw almonds",
-        "fatAmt": "2 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Bell pepper",
-        "veggieAmt": "125 g",
-        "carb": "Black beans",
-        "carbAmt": "1.5 c.",
-        "fat": "Avocado",
-        "fatAmt": "7 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Bell pepper",
-        "veggieAmt": "125 g",
-        "carb": "Black beans",
-        "carbAmt": "1.5 c.",
-        "fat": "Black olives",
-        "fatAmt": "25 large"
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Bell pepper",
-        "veggieAmt": "125 g",
-        "carb": "Black beans",
-        "carbAmt": "1.5 c.",
-        "fat": "Coconut oil",
-        "fatAmt": "2 Tbsp."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Chicken breast",
-        "proteinAmt": "6 oz.",
-        "veggie": "Bell pepper",
-        "veggieAmt": "125 g",
-        "carb": "Black beans",
-        "carbAmt": "1.5 c.",
-        "fat": "Raw almonds",
-        "fatAmt": "2 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Spinach",
-        "veggieAmt": "2 c.",
-        "carb": "Sweet potato",
-        "carbAmt": "8 oz.",
-        "fat": "Avocado",
-        "fatAmt": "7 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Spinach",
-        "veggieAmt": "2 c.",
-        "carb": "Sweet potato",
-        "carbAmt": "8 oz.",
-        "fat": "Black olives",
-        "fatAmt": "25 large"
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Spinach",
-        "veggieAmt": "2 c.",
-        "carb": "Sweet potato",
-        "carbAmt": "8 oz.",
-        "fat": "Coconut oil",
-        "fatAmt": "2 Tbsp."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Spinach",
-        "veggieAmt": "2 c.",
-        "carb": "Sweet potato",
-        "carbAmt": "8 oz.",
-        "fat": "Raw almonds",
-        "fatAmt": "2 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Spinach",
-        "veggieAmt": "2 c.",
-        "carb": "Brown rice",
-        "carbAmt": "1.5 c.",
-        "fat": "Avocado",
-        "fatAmt": "7 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Spinach",
-        "veggieAmt": "2 c.",
-        "carb": "Brown rice",
-        "carbAmt": "1.5 c.",
-        "fat": "Black olives",
-        "fatAmt": "25 large"
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Spinach",
-        "veggieAmt": "2 c.",
-        "carb": "Brown rice",
-        "carbAmt": "1.5 c.",
-        "fat": "Coconut oil",
-        "fatAmt": "2 Tbsp."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Spinach",
-        "veggieAmt": "2 c.",
-        "carb": "Brown rice",
-        "carbAmt": "1.5 c.",
-        "fat": "Raw almonds",
-        "fatAmt": "2 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Spinach",
-        "veggieAmt": "2 c.",
-        "carb": "Lentils",
-        "carbAmt": "1.5 c.",
-        "fat": "Avocado",
-        "fatAmt": "7 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Spinach",
-        "veggieAmt": "2 c.",
-        "carb": "Lentils",
-        "carbAmt": "1.5 c.",
-        "fat": "Black olives",
-        "fatAmt": "25 large"
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Spinach",
-        "veggieAmt": "2 c.",
-        "carb": "Lentils",
-        "carbAmt": "1.5 c.",
-        "fat": "Coconut oil",
-        "fatAmt": "2 Tbsp."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Spinach",
-        "veggieAmt": "2 c.",
-        "carb": "Lentils",
-        "carbAmt": "1.5 c.",
-        "fat": "Raw almonds",
-        "fatAmt": "2 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Spinach",
-        "veggieAmt": "2 c.",
-        "carb": "Black beans",
-        "carbAmt": "1.5 c.",
-        "fat": "Avocado",
-        "fatAmt": "7 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Spinach",
-        "veggieAmt": "2 c.",
-        "carb": "Black beans",
-        "carbAmt": "1.5 c.",
-        "fat": "Black olives",
-        "fatAmt": "25 large"
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Spinach",
-        "veggieAmt": "2 c.",
-        "carb": "Black beans",
-        "carbAmt": "1.5 c.",
-        "fat": "Coconut oil",
-        "fatAmt": "2 Tbsp."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Spinach",
-        "veggieAmt": "2 c.",
-        "carb": "Black beans",
-        "carbAmt": "1.5 c.",
-        "fat": "Raw almonds",
-        "fatAmt": "2 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Broccoli",
-        "veggieAmt": "2 c.",
-        "carb": "Sweet potato",
-        "carbAmt": "8 oz.",
-        "fat": "Avocado",
-        "fatAmt": "7 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Broccoli",
-        "veggieAmt": "2 c.",
-        "carb": "Sweet potato",
-        "carbAmt": "8 oz.",
-        "fat": "Black olives",
-        "fatAmt": "25 large"
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Broccoli",
-        "veggieAmt": "2 c.",
-        "carb": "Sweet potato",
-        "carbAmt": "8 oz.",
-        "fat": "Coconut oil",
-        "fatAmt": "2 Tbsp."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Broccoli",
-        "veggieAmt": "2 c.",
-        "carb": "Sweet potato",
-        "carbAmt": "8 oz.",
-        "fat": "Raw almonds",
-        "fatAmt": "2 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Broccoli",
-        "veggieAmt": "2 c.",
-        "carb": "Brown rice",
-        "carbAmt": "1.5 c.",
-        "fat": "Avocado",
-        "fatAmt": "7 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Broccoli",
-        "veggieAmt": "2 c.",
-        "carb": "Brown rice",
-        "carbAmt": "1.5 c.",
-        "fat": "Black olives",
-        "fatAmt": "25 large"
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Broccoli",
-        "veggieAmt": "2 c.",
-        "carb": "Brown rice",
-        "carbAmt": "1.5 c.",
-        "fat": "Coconut oil",
-        "fatAmt": "2 Tbsp."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Broccoli",
-        "veggieAmt": "2 c.",
-        "carb": "Brown rice",
-        "carbAmt": "1.5 c.",
-        "fat": "Raw almonds",
-        "fatAmt": "2 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Broccoli",
-        "veggieAmt": "2 c.",
-        "carb": "Lentils",
-        "carbAmt": "1.5 c.",
-        "fat": "Avocado",
-        "fatAmt": "7 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Broccoli",
-        "veggieAmt": "2 c.",
-        "carb": "Lentils",
-        "carbAmt": "1.5 c.",
-        "fat": "Black olives",
-        "fatAmt": "25 large"
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Broccoli",
-        "veggieAmt": "2 c.",
-        "carb": "Lentils",
-        "carbAmt": "1.5 c.",
-        "fat": "Coconut oil",
-        "fatAmt": "2 Tbsp."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Broccoli",
-        "veggieAmt": "2 c.",
-        "carb": "Lentils",
-        "carbAmt": "1.5 c.",
-        "fat": "Raw almonds",
-        "fatAmt": "2 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Broccoli",
-        "veggieAmt": "2 c.",
-        "carb": "Black beans",
-        "carbAmt": "1.5 c.",
-        "fat": "Avocado",
-        "fatAmt": "7 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Broccoli",
-        "veggieAmt": "2 c.",
-        "carb": "Black beans",
-        "carbAmt": "1.5 c.",
-        "fat": "Black olives",
-        "fatAmt": "25 large"
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Broccoli",
-        "veggieAmt": "2 c.",
-        "carb": "Black beans",
-        "carbAmt": "1.5 c.",
-        "fat": "Coconut oil",
-        "fatAmt": "2 Tbsp."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Broccoli",
-        "veggieAmt": "2 c.",
-        "carb": "Black beans",
-        "carbAmt": "1.5 c.",
-        "fat": "Raw almonds",
-        "fatAmt": "2 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Zucchini",
-        "veggieAmt": "2 c.",
-        "carb": "Sweet potato",
-        "carbAmt": "8 oz.",
-        "fat": "Avocado",
-        "fatAmt": "7 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Zucchini",
-        "veggieAmt": "2 c.",
-        "carb": "Sweet potato",
-        "carbAmt": "8 oz.",
-        "fat": "Black olives",
-        "fatAmt": "25 large"
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Zucchini",
-        "veggieAmt": "2 c.",
-        "carb": "Sweet potato",
-        "carbAmt": "8 oz.",
-        "fat": "Coconut oil",
-        "fatAmt": "2 Tbsp."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Zucchini",
-        "veggieAmt": "2 c.",
-        "carb": "Sweet potato",
-        "carbAmt": "8 oz.",
-        "fat": "Raw almonds",
-        "fatAmt": "2 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Zucchini",
-        "veggieAmt": "2 c.",
-        "carb": "Brown rice",
-        "carbAmt": "1.5 c.",
-        "fat": "Avocado",
-        "fatAmt": "7 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Zucchini",
-        "veggieAmt": "2 c.",
-        "carb": "Brown rice",
-        "carbAmt": "1.5 c.",
-        "fat": "Black olives",
-        "fatAmt": "25 large"
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Zucchini",
-        "veggieAmt": "2 c.",
-        "carb": "Brown rice",
-        "carbAmt": "1.5 c.",
-        "fat": "Coconut oil",
-        "fatAmt": "2 Tbsp."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Zucchini",
-        "veggieAmt": "2 c.",
-        "carb": "Brown rice",
-        "carbAmt": "1.5 c.",
-        "fat": "Raw almonds",
-        "fatAmt": "2 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Zucchini",
-        "veggieAmt": "2 c.",
-        "carb": "Lentils",
-        "carbAmt": "1.5 c.",
-        "fat": "Avocado",
-        "fatAmt": "7 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Zucchini",
-        "veggieAmt": "2 c.",
-        "carb": "Lentils",
-        "carbAmt": "1.5 c.",
-        "fat": "Black olives",
-        "fatAmt": "25 large"
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Zucchini",
-        "veggieAmt": "2 c.",
-        "carb": "Lentils",
-        "carbAmt": "1.5 c.",
-        "fat": "Coconut oil",
-        "fatAmt": "2 Tbsp."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Zucchini",
-        "veggieAmt": "2 c.",
-        "carb": "Lentils",
-        "carbAmt": "1.5 c.",
-        "fat": "Raw almonds",
-        "fatAmt": "2 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Zucchini",
-        "veggieAmt": "2 c.",
-        "carb": "Black beans",
-        "carbAmt": "1.5 c.",
-        "fat": "Avocado",
-        "fatAmt": "7 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Zucchini",
-        "veggieAmt": "2 c.",
-        "carb": "Black beans",
-        "carbAmt": "1.5 c.",
-        "fat": "Black olives",
-        "fatAmt": "25 large"
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Zucchini",
-        "veggieAmt": "2 c.",
-        "carb": "Black beans",
-        "carbAmt": "1.5 c.",
-        "fat": "Coconut oil",
-        "fatAmt": "2 Tbsp."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Zucchini",
-        "veggieAmt": "2 c.",
-        "carb": "Black beans",
-        "carbAmt": "1.5 c.",
-        "fat": "Raw almonds",
-        "fatAmt": "2 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Bell pepper",
-        "veggieAmt": "125 g",
-        "carb": "Sweet potato",
-        "carbAmt": "8 oz.",
-        "fat": "Avocado",
-        "fatAmt": "7 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Bell pepper",
-        "veggieAmt": "125 g",
-        "carb": "Sweet potato",
-        "carbAmt": "8 oz.",
-        "fat": "Black olives",
-        "fatAmt": "25 large"
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Bell pepper",
-        "veggieAmt": "125 g",
-        "carb": "Sweet potato",
-        "carbAmt": "8 oz.",
-        "fat": "Coconut oil",
-        "fatAmt": "2 Tbsp."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Bell pepper",
-        "veggieAmt": "125 g",
-        "carb": "Sweet potato",
-        "carbAmt": "8 oz.",
-        "fat": "Raw almonds",
-        "fatAmt": "2 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Bell pepper",
-        "veggieAmt": "125 g",
-        "carb": "Brown rice",
-        "carbAmt": "1.5 c.",
-        "fat": "Avocado",
-        "fatAmt": "7 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Bell pepper",
-        "veggieAmt": "125 g",
-        "carb": "Brown rice",
-        "carbAmt": "1.5 c.",
-        "fat": "Black olives",
-        "fatAmt": "25 large"
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Bell pepper",
-        "veggieAmt": "125 g",
-        "carb": "Brown rice",
-        "carbAmt": "1.5 c.",
-        "fat": "Coconut oil",
-        "fatAmt": "2 Tbsp."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Bell pepper",
-        "veggieAmt": "125 g",
-        "carb": "Brown rice",
-        "carbAmt": "1.5 c.",
-        "fat": "Raw almonds",
-        "fatAmt": "2 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Bell pepper",
-        "veggieAmt": "125 g",
-        "carb": "Lentils",
-        "carbAmt": "1.5 c.",
-        "fat": "Avocado",
-        "fatAmt": "7 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Bell pepper",
-        "veggieAmt": "125 g",
-        "carb": "Lentils",
-        "carbAmt": "1.5 c.",
-        "fat": "Black olives",
-        "fatAmt": "25 large"
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Bell pepper",
-        "veggieAmt": "125 g",
-        "carb": "Lentils",
-        "carbAmt": "1.5 c.",
-        "fat": "Coconut oil",
-        "fatAmt": "2 Tbsp."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Bell pepper",
-        "veggieAmt": "125 g",
-        "carb": "Lentils",
-        "carbAmt": "1.5 c.",
-        "fat": "Raw almonds",
-        "fatAmt": "2 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Bell pepper",
-        "veggieAmt": "125 g",
-        "carb": "Black beans",
-        "carbAmt": "1.5 c.",
-        "fat": "Avocado",
-        "fatAmt": "7 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Bell pepper",
-        "veggieAmt": "125 g",
-        "carb": "Black beans",
-        "carbAmt": "1.5 c.",
-        "fat": "Black olives",
-        "fatAmt": "25 large"
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Bell pepper",
-        "veggieAmt": "125 g",
-        "carb": "Black beans",
-        "carbAmt": "1.5 c.",
-        "fat": "Coconut oil",
-        "fatAmt": "2 Tbsp."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Salmon",
-        "proteinAmt": "5 oz.",
-        "veggie": "Bell pepper",
-        "veggieAmt": "125 g",
-        "carb": "Black beans",
-        "carbAmt": "1.5 c.",
-        "fat": "Raw almonds",
-        "fatAmt": "2 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Spinach",
-        "veggieAmt": "2 c.",
-        "carb": "Sweet potato",
-        "carbAmt": "8 oz.",
-        "fat": "Avocado",
-        "fatAmt": "7 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Spinach",
-        "veggieAmt": "2 c.",
-        "carb": "Sweet potato",
-        "carbAmt": "8 oz.",
-        "fat": "Black olives",
-        "fatAmt": "25 large"
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Spinach",
-        "veggieAmt": "2 c.",
-        "carb": "Sweet potato",
-        "carbAmt": "8 oz.",
-        "fat": "Coconut oil",
-        "fatAmt": "2 Tbsp."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Spinach",
-        "veggieAmt": "2 c.",
-        "carb": "Sweet potato",
-        "carbAmt": "8 oz.",
-        "fat": "Raw almonds",
-        "fatAmt": "2 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Spinach",
-        "veggieAmt": "2 c.",
-        "carb": "Brown rice",
-        "carbAmt": "1.5 c.",
-        "fat": "Avocado",
-        "fatAmt": "7 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Spinach",
-        "veggieAmt": "2 c.",
-        "carb": "Brown rice",
-        "carbAmt": "1.5 c.",
-        "fat": "Black olives",
-        "fatAmt": "25 large"
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Spinach",
-        "veggieAmt": "2 c.",
-        "carb": "Brown rice",
-        "carbAmt": "1.5 c.",
-        "fat": "Coconut oil",
-        "fatAmt": "2 Tbsp."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Spinach",
-        "veggieAmt": "2 c.",
-        "carb": "Brown rice",
-        "carbAmt": "1.5 c.",
-        "fat": "Raw almonds",
-        "fatAmt": "2 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Spinach",
-        "veggieAmt": "2 c.",
-        "carb": "Lentils",
-        "carbAmt": "1.5 c.",
-        "fat": "Avocado",
-        "fatAmt": "7 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Spinach",
-        "veggieAmt": "2 c.",
-        "carb": "Lentils",
-        "carbAmt": "1.5 c.",
-        "fat": "Black olives",
-        "fatAmt": "25 large"
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Spinach",
-        "veggieAmt": "2 c.",
-        "carb": "Lentils",
-        "carbAmt": "1.5 c.",
-        "fat": "Coconut oil",
-        "fatAmt": "2 Tbsp."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Spinach",
-        "veggieAmt": "2 c.",
-        "carb": "Lentils",
-        "carbAmt": "1.5 c.",
-        "fat": "Raw almonds",
-        "fatAmt": "2 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Spinach",
-        "veggieAmt": "2 c.",
-        "carb": "Black beans",
-        "carbAmt": "1.5 c.",
-        "fat": "Avocado",
-        "fatAmt": "7 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Spinach",
-        "veggieAmt": "2 c.",
-        "carb": "Black beans",
-        "carbAmt": "1.5 c.",
-        "fat": "Black olives",
-        "fatAmt": "25 large"
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Spinach",
-        "veggieAmt": "2 c.",
-        "carb": "Black beans",
-        "carbAmt": "1.5 c.",
-        "fat": "Coconut oil",
-        "fatAmt": "2 Tbsp."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Spinach",
-        "veggieAmt": "2 c.",
-        "carb": "Black beans",
-        "carbAmt": "1.5 c.",
-        "fat": "Raw almonds",
-        "fatAmt": "2 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Broccoli",
-        "veggieAmt": "2 c.",
-        "carb": "Sweet potato",
-        "carbAmt": "8 oz.",
-        "fat": "Avocado",
-        "fatAmt": "7 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Broccoli",
-        "veggieAmt": "2 c.",
-        "carb": "Sweet potato",
-        "carbAmt": "8 oz.",
-        "fat": "Black olives",
-        "fatAmt": "25 large"
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Broccoli",
-        "veggieAmt": "2 c.",
-        "carb": "Sweet potato",
-        "carbAmt": "8 oz.",
-        "fat": "Coconut oil",
-        "fatAmt": "2 Tbsp."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Broccoli",
-        "veggieAmt": "2 c.",
-        "carb": "Sweet potato",
-        "carbAmt": "8 oz.",
-        "fat": "Raw almonds",
-        "fatAmt": "2 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Broccoli",
-        "veggieAmt": "2 c.",
-        "carb": "Brown rice",
-        "carbAmt": "1.5 c.",
-        "fat": "Avocado",
-        "fatAmt": "7 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Broccoli",
-        "veggieAmt": "2 c.",
-        "carb": "Brown rice",
-        "carbAmt": "1.5 c.",
-        "fat": "Black olives",
-        "fatAmt": "25 large"
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Broccoli",
-        "veggieAmt": "2 c.",
-        "carb": "Brown rice",
-        "carbAmt": "1.5 c.",
-        "fat": "Coconut oil",
-        "fatAmt": "2 Tbsp."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Broccoli",
-        "veggieAmt": "2 c.",
-        "carb": "Brown rice",
-        "carbAmt": "1.5 c.",
-        "fat": "Raw almonds",
-        "fatAmt": "2 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Broccoli",
-        "veggieAmt": "2 c.",
-        "carb": "Lentils",
-        "carbAmt": "1.5 c.",
-        "fat": "Avocado",
-        "fatAmt": "7 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Broccoli",
-        "veggieAmt": "2 c.",
-        "carb": "Lentils",
-        "carbAmt": "1.5 c.",
-        "fat": "Black olives",
-        "fatAmt": "25 large"
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Broccoli",
-        "veggieAmt": "2 c.",
-        "carb": "Lentils",
-        "carbAmt": "1.5 c.",
-        "fat": "Coconut oil",
-        "fatAmt": "2 Tbsp."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Broccoli",
-        "veggieAmt": "2 c.",
-        "carb": "Lentils",
-        "carbAmt": "1.5 c.",
-        "fat": "Raw almonds",
-        "fatAmt": "2 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Broccoli",
-        "veggieAmt": "2 c.",
-        "carb": "Black beans",
-        "carbAmt": "1.5 c.",
-        "fat": "Avocado",
-        "fatAmt": "7 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Broccoli",
-        "veggieAmt": "2 c.",
-        "carb": "Black beans",
-        "carbAmt": "1.5 c.",
-        "fat": "Black olives",
-        "fatAmt": "25 large"
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Broccoli",
-        "veggieAmt": "2 c.",
-        "carb": "Black beans",
-        "carbAmt": "1.5 c.",
-        "fat": "Coconut oil",
-        "fatAmt": "2 Tbsp."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Broccoli",
-        "veggieAmt": "2 c.",
-        "carb": "Black beans",
-        "carbAmt": "1.5 c.",
-        "fat": "Raw almonds",
-        "fatAmt": "2 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Zucchini",
-        "veggieAmt": "2 c.",
-        "carb": "Sweet potato",
-        "carbAmt": "8 oz.",
-        "fat": "Avocado",
-        "fatAmt": "7 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Zucchini",
-        "veggieAmt": "2 c.",
-        "carb": "Sweet potato",
-        "carbAmt": "8 oz.",
-        "fat": "Black olives",
-        "fatAmt": "25 large"
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Zucchini",
-        "veggieAmt": "2 c.",
-        "carb": "Sweet potato",
-        "carbAmt": "8 oz.",
-        "fat": "Coconut oil",
-        "fatAmt": "2 Tbsp."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Zucchini",
-        "veggieAmt": "2 c.",
-        "carb": "Sweet potato",
-        "carbAmt": "8 oz.",
-        "fat": "Raw almonds",
-        "fatAmt": "2 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Zucchini",
-        "veggieAmt": "2 c.",
-        "carb": "Brown rice",
-        "carbAmt": "1.5 c.",
-        "fat": "Avocado",
-        "fatAmt": "7 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Zucchini",
-        "veggieAmt": "2 c.",
-        "carb": "Brown rice",
-        "carbAmt": "1.5 c.",
-        "fat": "Black olives",
-        "fatAmt": "25 large"
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Zucchini",
-        "veggieAmt": "2 c.",
-        "carb": "Brown rice",
-        "carbAmt": "1.5 c.",
-        "fat": "Coconut oil",
-        "fatAmt": "2 Tbsp."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Zucchini",
-        "veggieAmt": "2 c.",
-        "carb": "Brown rice",
-        "carbAmt": "1.5 c.",
-        "fat": "Raw almonds",
-        "fatAmt": "2 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Zucchini",
-        "veggieAmt": "2 c.",
-        "carb": "Lentils",
-        "carbAmt": "1.5 c.",
-        "fat": "Avocado",
-        "fatAmt": "7 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Zucchini",
-        "veggieAmt": "2 c.",
-        "carb": "Lentils",
-        "carbAmt": "1.5 c.",
-        "fat": "Black olives",
-        "fatAmt": "25 large"
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Zucchini",
-        "veggieAmt": "2 c.",
-        "carb": "Lentils",
-        "carbAmt": "1.5 c.",
-        "fat": "Coconut oil",
-        "fatAmt": "2 Tbsp."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Zucchini",
-        "veggieAmt": "2 c.",
-        "carb": "Lentils",
-        "carbAmt": "1.5 c.",
-        "fat": "Raw almonds",
-        "fatAmt": "2 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Zucchini",
-        "veggieAmt": "2 c.",
-        "carb": "Black beans",
-        "carbAmt": "1.5 c.",
-        "fat": "Avocado",
-        "fatAmt": "7 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Zucchini",
-        "veggieAmt": "2 c.",
-        "carb": "Black beans",
-        "carbAmt": "1.5 c.",
-        "fat": "Black olives",
-        "fatAmt": "25 large"
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Zucchini",
-        "veggieAmt": "2 c.",
-        "carb": "Black beans",
-        "carbAmt": "1.5 c.",
-        "fat": "Coconut oil",
-        "fatAmt": "2 Tbsp."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Zucchini",
-        "veggieAmt": "2 c.",
-        "carb": "Black beans",
-        "carbAmt": "1.5 c.",
-        "fat": "Raw almonds",
-        "fatAmt": "2 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Bell pepper",
-        "veggieAmt": "125 g",
-        "carb": "Sweet potato",
-        "carbAmt": "8 oz.",
-        "fat": "Avocado",
-        "fatAmt": "7 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Bell pepper",
-        "veggieAmt": "125 g",
-        "carb": "Sweet potato",
-        "carbAmt": "8 oz.",
-        "fat": "Black olives",
-        "fatAmt": "25 large"
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Bell pepper",
-        "veggieAmt": "125 g",
-        "carb": "Sweet potato",
-        "carbAmt": "8 oz.",
-        "fat": "Coconut oil",
-        "fatAmt": "2 Tbsp."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Bell pepper",
-        "veggieAmt": "125 g",
-        "carb": "Sweet potato",
-        "carbAmt": "8 oz.",
-        "fat": "Raw almonds",
-        "fatAmt": "2 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Bell pepper",
-        "veggieAmt": "125 g",
-        "carb": "Brown rice",
-        "carbAmt": "1.5 c.",
-        "fat": "Avocado",
-        "fatAmt": "7 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Bell pepper",
-        "veggieAmt": "125 g",
-        "carb": "Brown rice",
-        "carbAmt": "1.5 c.",
-        "fat": "Black olives",
-        "fatAmt": "25 large"
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Bell pepper",
-        "veggieAmt": "125 g",
-        "carb": "Brown rice",
-        "carbAmt": "1.5 c.",
-        "fat": "Coconut oil",
-        "fatAmt": "2 Tbsp."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Bell pepper",
-        "veggieAmt": "125 g",
-        "carb": "Brown rice",
-        "carbAmt": "1.5 c.",
-        "fat": "Raw almonds",
-        "fatAmt": "2 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Bell pepper",
-        "veggieAmt": "125 g",
-        "carb": "Lentils",
-        "carbAmt": "1.5 c.",
-        "fat": "Avocado",
-        "fatAmt": "7 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Bell pepper",
-        "veggieAmt": "125 g",
-        "carb": "Lentils",
-        "carbAmt": "1.5 c.",
-        "fat": "Black olives",
-        "fatAmt": "25 large"
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Bell pepper",
-        "veggieAmt": "125 g",
-        "carb": "Lentils",
-        "carbAmt": "1.5 c.",
-        "fat": "Coconut oil",
-        "fatAmt": "2 Tbsp."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Bell pepper",
-        "veggieAmt": "125 g",
-        "carb": "Lentils",
-        "carbAmt": "1.5 c.",
-        "fat": "Raw almonds",
-        "fatAmt": "2 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Bell pepper",
-        "veggieAmt": "125 g",
-        "carb": "Black beans",
-        "carbAmt": "1.5 c.",
-        "fat": "Avocado",
-        "fatAmt": "7 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Bell pepper",
-        "veggieAmt": "125 g",
-        "carb": "Black beans",
-        "carbAmt": "1.5 c.",
-        "fat": "Black olives",
-        "fatAmt": "25 large"
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Bell pepper",
-        "veggieAmt": "125 g",
-        "carb": "Black beans",
-        "carbAmt": "1.5 c.",
-        "fat": "Coconut oil",
-        "fatAmt": "2 Tbsp."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Egg whites",
-        "proteinAmt": "1.75 c.",
-        "veggie": "Bell pepper",
-        "veggieAmt": "125 g",
-        "carb": "Black beans",
-        "carbAmt": "1.5 c.",
-        "fat": "Raw almonds",
-        "fatAmt": "2 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Ground turkey",
-        "proteinAmt": "6 oz.",
-        "veggie": "Spinach",
-        "veggieAmt": "2 c.",
-        "carb": "Sweet potato",
-        "carbAmt": "8 oz.",
-        "fat": "Avocado",
-        "fatAmt": "7 oz."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Ground turkey",
-        "proteinAmt": "6 oz.",
-        "veggie": "Spinach",
-        "veggieAmt": "2 c.",
-        "carb": "Sweet potato",
-        "carbAmt": "8 oz.",
-        "fat": "Black olives",
-        "fatAmt": "25 large"
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Ground turkey",
-        "proteinAmt": "6 oz.",
-        "veggie": "Spinach",
-        "veggieAmt": "2 c.",
-        "carb": "Sweet potato",
-        "carbAmt": "8 oz.",
-        "fat": "Coconut oil",
-        "fatAmt": "2 Tbsp."
-    },
-    {
-        "gender": "male ",
-        "intent": "gains",
-        "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
         "veggie": "Spinach",
         "veggieAmt": "2 c.",
@@ -17713,7 +15409,2311 @@ const JSONfile = [
         "fatAmt": "2 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Spinach",
+        "veggieAmt": "2 c.",
+        "carb": "Brown rice",
+        "carbAmt": "1.5 c.",
+        "fat": "Avocado",
+        "fatAmt": "7 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Spinach",
+        "veggieAmt": "2 c.",
+        "carb": "Brown rice",
+        "carbAmt": "1.5 c.",
+        "fat": "Black olives",
+        "fatAmt": "25 large"
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Spinach",
+        "veggieAmt": "2 c.",
+        "carb": "Brown rice",
+        "carbAmt": "1.5 c.",
+        "fat": "Coconut oil",
+        "fatAmt": "2 Tbsp."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Spinach",
+        "veggieAmt": "2 c.",
+        "carb": "Brown rice",
+        "carbAmt": "1.5 c.",
+        "fat": "Raw almonds",
+        "fatAmt": "2 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Spinach",
+        "veggieAmt": "2 c.",
+        "carb": "Lentils",
+        "carbAmt": "1.5 c.",
+        "fat": "Avocado",
+        "fatAmt": "7 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Spinach",
+        "veggieAmt": "2 c.",
+        "carb": "Lentils",
+        "carbAmt": "1.5 c.",
+        "fat": "Black olives",
+        "fatAmt": "25 large"
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Spinach",
+        "veggieAmt": "2 c.",
+        "carb": "Lentils",
+        "carbAmt": "1.5 c.",
+        "fat": "Coconut oil",
+        "fatAmt": "2 Tbsp."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Spinach",
+        "veggieAmt": "2 c.",
+        "carb": "Lentils",
+        "carbAmt": "1.5 c.",
+        "fat": "Raw almonds",
+        "fatAmt": "2 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Spinach",
+        "veggieAmt": "2 c.",
+        "carb": "Black beans",
+        "carbAmt": "1.5 c.",
+        "fat": "Avocado",
+        "fatAmt": "7 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Spinach",
+        "veggieAmt": "2 c.",
+        "carb": "Black beans",
+        "carbAmt": "1.5 c.",
+        "fat": "Black olives",
+        "fatAmt": "25 large"
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Spinach",
+        "veggieAmt": "2 c.",
+        "carb": "Black beans",
+        "carbAmt": "1.5 c.",
+        "fat": "Coconut oil",
+        "fatAmt": "2 Tbsp."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Spinach",
+        "veggieAmt": "2 c.",
+        "carb": "Black beans",
+        "carbAmt": "1.5 c.",
+        "fat": "Raw almonds",
+        "fatAmt": "2 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Broccoli",
+        "veggieAmt": "2 c.",
+        "carb": "Sweet potato",
+        "carbAmt": "8 oz.",
+        "fat": "Avocado",
+        "fatAmt": "7 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Broccoli",
+        "veggieAmt": "2 c.",
+        "carb": "Sweet potato",
+        "carbAmt": "8 oz.",
+        "fat": "Black olives",
+        "fatAmt": "25 large"
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Broccoli",
+        "veggieAmt": "2 c.",
+        "carb": "Sweet potato",
+        "carbAmt": "8 oz.",
+        "fat": "Coconut oil",
+        "fatAmt": "2 Tbsp."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Broccoli",
+        "veggieAmt": "2 c.",
+        "carb": "Sweet potato",
+        "carbAmt": "8 oz.",
+        "fat": "Raw almonds",
+        "fatAmt": "2 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Broccoli",
+        "veggieAmt": "2 c.",
+        "carb": "Brown rice",
+        "carbAmt": "1.5 c.",
+        "fat": "Avocado",
+        "fatAmt": "7 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Broccoli",
+        "veggieAmt": "2 c.",
+        "carb": "Brown rice",
+        "carbAmt": "1.5 c.",
+        "fat": "Black olives",
+        "fatAmt": "25 large"
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Broccoli",
+        "veggieAmt": "2 c.",
+        "carb": "Brown rice",
+        "carbAmt": "1.5 c.",
+        "fat": "Coconut oil",
+        "fatAmt": "2 Tbsp."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Broccoli",
+        "veggieAmt": "2 c.",
+        "carb": "Brown rice",
+        "carbAmt": "1.5 c.",
+        "fat": "Raw almonds",
+        "fatAmt": "2 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Broccoli",
+        "veggieAmt": "2 c.",
+        "carb": "Lentils",
+        "carbAmt": "1.5 c.",
+        "fat": "Avocado",
+        "fatAmt": "7 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Broccoli",
+        "veggieAmt": "2 c.",
+        "carb": "Lentils",
+        "carbAmt": "1.5 c.",
+        "fat": "Black olives",
+        "fatAmt": "25 large"
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Broccoli",
+        "veggieAmt": "2 c.",
+        "carb": "Lentils",
+        "carbAmt": "1.5 c.",
+        "fat": "Coconut oil",
+        "fatAmt": "2 Tbsp."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Broccoli",
+        "veggieAmt": "2 c.",
+        "carb": "Lentils",
+        "carbAmt": "1.5 c.",
+        "fat": "Raw almonds",
+        "fatAmt": "2 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Broccoli",
+        "veggieAmt": "2 c.",
+        "carb": "Black beans",
+        "carbAmt": "1.5 c.",
+        "fat": "Avocado",
+        "fatAmt": "7 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Broccoli",
+        "veggieAmt": "2 c.",
+        "carb": "Black beans",
+        "carbAmt": "1.5 c.",
+        "fat": "Black olives",
+        "fatAmt": "25 large"
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Broccoli",
+        "veggieAmt": "2 c.",
+        "carb": "Black beans",
+        "carbAmt": "1.5 c.",
+        "fat": "Coconut oil",
+        "fatAmt": "2 Tbsp."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Broccoli",
+        "veggieAmt": "2 c.",
+        "carb": "Black beans",
+        "carbAmt": "1.5 c.",
+        "fat": "Raw almonds",
+        "fatAmt": "2 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Zucchini",
+        "veggieAmt": "2 c.",
+        "carb": "Sweet potato",
+        "carbAmt": "8 oz.",
+        "fat": "Avocado",
+        "fatAmt": "7 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Zucchini",
+        "veggieAmt": "2 c.",
+        "carb": "Sweet potato",
+        "carbAmt": "8 oz.",
+        "fat": "Black olives",
+        "fatAmt": "25 large"
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Zucchini",
+        "veggieAmt": "2 c.",
+        "carb": "Sweet potato",
+        "carbAmt": "8 oz.",
+        "fat": "Coconut oil",
+        "fatAmt": "2 Tbsp."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Zucchini",
+        "veggieAmt": "2 c.",
+        "carb": "Sweet potato",
+        "carbAmt": "8 oz.",
+        "fat": "Raw almonds",
+        "fatAmt": "2 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Zucchini",
+        "veggieAmt": "2 c.",
+        "carb": "Brown rice",
+        "carbAmt": "1.5 c.",
+        "fat": "Avocado",
+        "fatAmt": "7 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Zucchini",
+        "veggieAmt": "2 c.",
+        "carb": "Brown rice",
+        "carbAmt": "1.5 c.",
+        "fat": "Black olives",
+        "fatAmt": "25 large"
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Zucchini",
+        "veggieAmt": "2 c.",
+        "carb": "Brown rice",
+        "carbAmt": "1.5 c.",
+        "fat": "Coconut oil",
+        "fatAmt": "2 Tbsp."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Zucchini",
+        "veggieAmt": "2 c.",
+        "carb": "Brown rice",
+        "carbAmt": "1.5 c.",
+        "fat": "Raw almonds",
+        "fatAmt": "2 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Zucchini",
+        "veggieAmt": "2 c.",
+        "carb": "Lentils",
+        "carbAmt": "1.5 c.",
+        "fat": "Avocado",
+        "fatAmt": "7 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Zucchini",
+        "veggieAmt": "2 c.",
+        "carb": "Lentils",
+        "carbAmt": "1.5 c.",
+        "fat": "Black olives",
+        "fatAmt": "25 large"
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Zucchini",
+        "veggieAmt": "2 c.",
+        "carb": "Lentils",
+        "carbAmt": "1.5 c.",
+        "fat": "Coconut oil",
+        "fatAmt": "2 Tbsp."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Zucchini",
+        "veggieAmt": "2 c.",
+        "carb": "Lentils",
+        "carbAmt": "1.5 c.",
+        "fat": "Raw almonds",
+        "fatAmt": "2 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Zucchini",
+        "veggieAmt": "2 c.",
+        "carb": "Black beans",
+        "carbAmt": "1.5 c.",
+        "fat": "Avocado",
+        "fatAmt": "7 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Zucchini",
+        "veggieAmt": "2 c.",
+        "carb": "Black beans",
+        "carbAmt": "1.5 c.",
+        "fat": "Black olives",
+        "fatAmt": "25 large"
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Zucchini",
+        "veggieAmt": "2 c.",
+        "carb": "Black beans",
+        "carbAmt": "1.5 c.",
+        "fat": "Coconut oil",
+        "fatAmt": "2 Tbsp."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Zucchini",
+        "veggieAmt": "2 c.",
+        "carb": "Black beans",
+        "carbAmt": "1.5 c.",
+        "fat": "Raw almonds",
+        "fatAmt": "2 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Bell pepper",
+        "veggieAmt": "125 g",
+        "carb": "Sweet potato",
+        "carbAmt": "8 oz.",
+        "fat": "Avocado",
+        "fatAmt": "7 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Bell pepper",
+        "veggieAmt": "125 g",
+        "carb": "Sweet potato",
+        "carbAmt": "8 oz.",
+        "fat": "Black olives",
+        "fatAmt": "25 large"
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Bell pepper",
+        "veggieAmt": "125 g",
+        "carb": "Sweet potato",
+        "carbAmt": "8 oz.",
+        "fat": "Coconut oil",
+        "fatAmt": "2 Tbsp."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Bell pepper",
+        "veggieAmt": "125 g",
+        "carb": "Sweet potato",
+        "carbAmt": "8 oz.",
+        "fat": "Raw almonds",
+        "fatAmt": "2 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Bell pepper",
+        "veggieAmt": "125 g",
+        "carb": "Brown rice",
+        "carbAmt": "1.5 c.",
+        "fat": "Avocado",
+        "fatAmt": "7 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Bell pepper",
+        "veggieAmt": "125 g",
+        "carb": "Brown rice",
+        "carbAmt": "1.5 c.",
+        "fat": "Black olives",
+        "fatAmt": "25 large"
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Bell pepper",
+        "veggieAmt": "125 g",
+        "carb": "Brown rice",
+        "carbAmt": "1.5 c.",
+        "fat": "Coconut oil",
+        "fatAmt": "2 Tbsp."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Bell pepper",
+        "veggieAmt": "125 g",
+        "carb": "Brown rice",
+        "carbAmt": "1.5 c.",
+        "fat": "Raw almonds",
+        "fatAmt": "2 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Bell pepper",
+        "veggieAmt": "125 g",
+        "carb": "Lentils",
+        "carbAmt": "1.5 c.",
+        "fat": "Avocado",
+        "fatAmt": "7 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Bell pepper",
+        "veggieAmt": "125 g",
+        "carb": "Lentils",
+        "carbAmt": "1.5 c.",
+        "fat": "Black olives",
+        "fatAmt": "25 large"
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Bell pepper",
+        "veggieAmt": "125 g",
+        "carb": "Lentils",
+        "carbAmt": "1.5 c.",
+        "fat": "Coconut oil",
+        "fatAmt": "2 Tbsp."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Bell pepper",
+        "veggieAmt": "125 g",
+        "carb": "Lentils",
+        "carbAmt": "1.5 c.",
+        "fat": "Raw almonds",
+        "fatAmt": "2 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Bell pepper",
+        "veggieAmt": "125 g",
+        "carb": "Black beans",
+        "carbAmt": "1.5 c.",
+        "fat": "Avocado",
+        "fatAmt": "7 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Bell pepper",
+        "veggieAmt": "125 g",
+        "carb": "Black beans",
+        "carbAmt": "1.5 c.",
+        "fat": "Black olives",
+        "fatAmt": "25 large"
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Bell pepper",
+        "veggieAmt": "125 g",
+        "carb": "Black beans",
+        "carbAmt": "1.5 c.",
+        "fat": "Coconut oil",
+        "fatAmt": "2 Tbsp."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Chicken breast",
+        "proteinAmt": "6 oz.",
+        "veggie": "Bell pepper",
+        "veggieAmt": "125 g",
+        "carb": "Black beans",
+        "carbAmt": "1.5 c.",
+        "fat": "Raw almonds",
+        "fatAmt": "2 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Spinach",
+        "veggieAmt": "2 c.",
+        "carb": "Sweet potato",
+        "carbAmt": "8 oz.",
+        "fat": "Avocado",
+        "fatAmt": "7 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Spinach",
+        "veggieAmt": "2 c.",
+        "carb": "Sweet potato",
+        "carbAmt": "8 oz.",
+        "fat": "Black olives",
+        "fatAmt": "25 large"
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Spinach",
+        "veggieAmt": "2 c.",
+        "carb": "Sweet potato",
+        "carbAmt": "8 oz.",
+        "fat": "Coconut oil",
+        "fatAmt": "2 Tbsp."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Spinach",
+        "veggieAmt": "2 c.",
+        "carb": "Sweet potato",
+        "carbAmt": "8 oz.",
+        "fat": "Raw almonds",
+        "fatAmt": "2 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Spinach",
+        "veggieAmt": "2 c.",
+        "carb": "Brown rice",
+        "carbAmt": "1.5 c.",
+        "fat": "Avocado",
+        "fatAmt": "7 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Spinach",
+        "veggieAmt": "2 c.",
+        "carb": "Brown rice",
+        "carbAmt": "1.5 c.",
+        "fat": "Black olives",
+        "fatAmt": "25 large"
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Spinach",
+        "veggieAmt": "2 c.",
+        "carb": "Brown rice",
+        "carbAmt": "1.5 c.",
+        "fat": "Coconut oil",
+        "fatAmt": "2 Tbsp."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Spinach",
+        "veggieAmt": "2 c.",
+        "carb": "Brown rice",
+        "carbAmt": "1.5 c.",
+        "fat": "Raw almonds",
+        "fatAmt": "2 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Spinach",
+        "veggieAmt": "2 c.",
+        "carb": "Lentils",
+        "carbAmt": "1.5 c.",
+        "fat": "Avocado",
+        "fatAmt": "7 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Spinach",
+        "veggieAmt": "2 c.",
+        "carb": "Lentils",
+        "carbAmt": "1.5 c.",
+        "fat": "Black olives",
+        "fatAmt": "25 large"
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Spinach",
+        "veggieAmt": "2 c.",
+        "carb": "Lentils",
+        "carbAmt": "1.5 c.",
+        "fat": "Coconut oil",
+        "fatAmt": "2 Tbsp."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Spinach",
+        "veggieAmt": "2 c.",
+        "carb": "Lentils",
+        "carbAmt": "1.5 c.",
+        "fat": "Raw almonds",
+        "fatAmt": "2 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Spinach",
+        "veggieAmt": "2 c.",
+        "carb": "Black beans",
+        "carbAmt": "1.5 c.",
+        "fat": "Avocado",
+        "fatAmt": "7 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Spinach",
+        "veggieAmt": "2 c.",
+        "carb": "Black beans",
+        "carbAmt": "1.5 c.",
+        "fat": "Black olives",
+        "fatAmt": "25 large"
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Spinach",
+        "veggieAmt": "2 c.",
+        "carb": "Black beans",
+        "carbAmt": "1.5 c.",
+        "fat": "Coconut oil",
+        "fatAmt": "2 Tbsp."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Spinach",
+        "veggieAmt": "2 c.",
+        "carb": "Black beans",
+        "carbAmt": "1.5 c.",
+        "fat": "Raw almonds",
+        "fatAmt": "2 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Broccoli",
+        "veggieAmt": "2 c.",
+        "carb": "Sweet potato",
+        "carbAmt": "8 oz.",
+        "fat": "Avocado",
+        "fatAmt": "7 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Broccoli",
+        "veggieAmt": "2 c.",
+        "carb": "Sweet potato",
+        "carbAmt": "8 oz.",
+        "fat": "Black olives",
+        "fatAmt": "25 large"
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Broccoli",
+        "veggieAmt": "2 c.",
+        "carb": "Sweet potato",
+        "carbAmt": "8 oz.",
+        "fat": "Coconut oil",
+        "fatAmt": "2 Tbsp."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Broccoli",
+        "veggieAmt": "2 c.",
+        "carb": "Sweet potato",
+        "carbAmt": "8 oz.",
+        "fat": "Raw almonds",
+        "fatAmt": "2 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Broccoli",
+        "veggieAmt": "2 c.",
+        "carb": "Brown rice",
+        "carbAmt": "1.5 c.",
+        "fat": "Avocado",
+        "fatAmt": "7 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Broccoli",
+        "veggieAmt": "2 c.",
+        "carb": "Brown rice",
+        "carbAmt": "1.5 c.",
+        "fat": "Black olives",
+        "fatAmt": "25 large"
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Broccoli",
+        "veggieAmt": "2 c.",
+        "carb": "Brown rice",
+        "carbAmt": "1.5 c.",
+        "fat": "Coconut oil",
+        "fatAmt": "2 Tbsp."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Broccoli",
+        "veggieAmt": "2 c.",
+        "carb": "Brown rice",
+        "carbAmt": "1.5 c.",
+        "fat": "Raw almonds",
+        "fatAmt": "2 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Broccoli",
+        "veggieAmt": "2 c.",
+        "carb": "Lentils",
+        "carbAmt": "1.5 c.",
+        "fat": "Avocado",
+        "fatAmt": "7 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Broccoli",
+        "veggieAmt": "2 c.",
+        "carb": "Lentils",
+        "carbAmt": "1.5 c.",
+        "fat": "Black olives",
+        "fatAmt": "25 large"
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Broccoli",
+        "veggieAmt": "2 c.",
+        "carb": "Lentils",
+        "carbAmt": "1.5 c.",
+        "fat": "Coconut oil",
+        "fatAmt": "2 Tbsp."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Broccoli",
+        "veggieAmt": "2 c.",
+        "carb": "Lentils",
+        "carbAmt": "1.5 c.",
+        "fat": "Raw almonds",
+        "fatAmt": "2 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Broccoli",
+        "veggieAmt": "2 c.",
+        "carb": "Black beans",
+        "carbAmt": "1.5 c.",
+        "fat": "Avocado",
+        "fatAmt": "7 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Broccoli",
+        "veggieAmt": "2 c.",
+        "carb": "Black beans",
+        "carbAmt": "1.5 c.",
+        "fat": "Black olives",
+        "fatAmt": "25 large"
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Broccoli",
+        "veggieAmt": "2 c.",
+        "carb": "Black beans",
+        "carbAmt": "1.5 c.",
+        "fat": "Coconut oil",
+        "fatAmt": "2 Tbsp."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Broccoli",
+        "veggieAmt": "2 c.",
+        "carb": "Black beans",
+        "carbAmt": "1.5 c.",
+        "fat": "Raw almonds",
+        "fatAmt": "2 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Zucchini",
+        "veggieAmt": "2 c.",
+        "carb": "Sweet potato",
+        "carbAmt": "8 oz.",
+        "fat": "Avocado",
+        "fatAmt": "7 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Zucchini",
+        "veggieAmt": "2 c.",
+        "carb": "Sweet potato",
+        "carbAmt": "8 oz.",
+        "fat": "Black olives",
+        "fatAmt": "25 large"
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Zucchini",
+        "veggieAmt": "2 c.",
+        "carb": "Sweet potato",
+        "carbAmt": "8 oz.",
+        "fat": "Coconut oil",
+        "fatAmt": "2 Tbsp."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Zucchini",
+        "veggieAmt": "2 c.",
+        "carb": "Sweet potato",
+        "carbAmt": "8 oz.",
+        "fat": "Raw almonds",
+        "fatAmt": "2 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Zucchini",
+        "veggieAmt": "2 c.",
+        "carb": "Brown rice",
+        "carbAmt": "1.5 c.",
+        "fat": "Avocado",
+        "fatAmt": "7 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Zucchini",
+        "veggieAmt": "2 c.",
+        "carb": "Brown rice",
+        "carbAmt": "1.5 c.",
+        "fat": "Black olives",
+        "fatAmt": "25 large"
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Zucchini",
+        "veggieAmt": "2 c.",
+        "carb": "Brown rice",
+        "carbAmt": "1.5 c.",
+        "fat": "Coconut oil",
+        "fatAmt": "2 Tbsp."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Zucchini",
+        "veggieAmt": "2 c.",
+        "carb": "Brown rice",
+        "carbAmt": "1.5 c.",
+        "fat": "Raw almonds",
+        "fatAmt": "2 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Zucchini",
+        "veggieAmt": "2 c.",
+        "carb": "Lentils",
+        "carbAmt": "1.5 c.",
+        "fat": "Avocado",
+        "fatAmt": "7 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Zucchini",
+        "veggieAmt": "2 c.",
+        "carb": "Lentils",
+        "carbAmt": "1.5 c.",
+        "fat": "Black olives",
+        "fatAmt": "25 large"
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Zucchini",
+        "veggieAmt": "2 c.",
+        "carb": "Lentils",
+        "carbAmt": "1.5 c.",
+        "fat": "Coconut oil",
+        "fatAmt": "2 Tbsp."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Zucchini",
+        "veggieAmt": "2 c.",
+        "carb": "Lentils",
+        "carbAmt": "1.5 c.",
+        "fat": "Raw almonds",
+        "fatAmt": "2 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Zucchini",
+        "veggieAmt": "2 c.",
+        "carb": "Black beans",
+        "carbAmt": "1.5 c.",
+        "fat": "Avocado",
+        "fatAmt": "7 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Zucchini",
+        "veggieAmt": "2 c.",
+        "carb": "Black beans",
+        "carbAmt": "1.5 c.",
+        "fat": "Black olives",
+        "fatAmt": "25 large"
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Zucchini",
+        "veggieAmt": "2 c.",
+        "carb": "Black beans",
+        "carbAmt": "1.5 c.",
+        "fat": "Coconut oil",
+        "fatAmt": "2 Tbsp."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Zucchini",
+        "veggieAmt": "2 c.",
+        "carb": "Black beans",
+        "carbAmt": "1.5 c.",
+        "fat": "Raw almonds",
+        "fatAmt": "2 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Bell pepper",
+        "veggieAmt": "125 g",
+        "carb": "Sweet potato",
+        "carbAmt": "8 oz.",
+        "fat": "Avocado",
+        "fatAmt": "7 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Bell pepper",
+        "veggieAmt": "125 g",
+        "carb": "Sweet potato",
+        "carbAmt": "8 oz.",
+        "fat": "Black olives",
+        "fatAmt": "25 large"
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Bell pepper",
+        "veggieAmt": "125 g",
+        "carb": "Sweet potato",
+        "carbAmt": "8 oz.",
+        "fat": "Coconut oil",
+        "fatAmt": "2 Tbsp."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Bell pepper",
+        "veggieAmt": "125 g",
+        "carb": "Sweet potato",
+        "carbAmt": "8 oz.",
+        "fat": "Raw almonds",
+        "fatAmt": "2 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Bell pepper",
+        "veggieAmt": "125 g",
+        "carb": "Brown rice",
+        "carbAmt": "1.5 c.",
+        "fat": "Avocado",
+        "fatAmt": "7 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Bell pepper",
+        "veggieAmt": "125 g",
+        "carb": "Brown rice",
+        "carbAmt": "1.5 c.",
+        "fat": "Black olives",
+        "fatAmt": "25 large"
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Bell pepper",
+        "veggieAmt": "125 g",
+        "carb": "Brown rice",
+        "carbAmt": "1.5 c.",
+        "fat": "Coconut oil",
+        "fatAmt": "2 Tbsp."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Bell pepper",
+        "veggieAmt": "125 g",
+        "carb": "Brown rice",
+        "carbAmt": "1.5 c.",
+        "fat": "Raw almonds",
+        "fatAmt": "2 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Bell pepper",
+        "veggieAmt": "125 g",
+        "carb": "Lentils",
+        "carbAmt": "1.5 c.",
+        "fat": "Avocado",
+        "fatAmt": "7 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Bell pepper",
+        "veggieAmt": "125 g",
+        "carb": "Lentils",
+        "carbAmt": "1.5 c.",
+        "fat": "Black olives",
+        "fatAmt": "25 large"
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Bell pepper",
+        "veggieAmt": "125 g",
+        "carb": "Lentils",
+        "carbAmt": "1.5 c.",
+        "fat": "Coconut oil",
+        "fatAmt": "2 Tbsp."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Bell pepper",
+        "veggieAmt": "125 g",
+        "carb": "Lentils",
+        "carbAmt": "1.5 c.",
+        "fat": "Raw almonds",
+        "fatAmt": "2 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Bell pepper",
+        "veggieAmt": "125 g",
+        "carb": "Black beans",
+        "carbAmt": "1.5 c.",
+        "fat": "Avocado",
+        "fatAmt": "7 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Bell pepper",
+        "veggieAmt": "125 g",
+        "carb": "Black beans",
+        "carbAmt": "1.5 c.",
+        "fat": "Black olives",
+        "fatAmt": "25 large"
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Bell pepper",
+        "veggieAmt": "125 g",
+        "carb": "Black beans",
+        "carbAmt": "1.5 c.",
+        "fat": "Coconut oil",
+        "fatAmt": "2 Tbsp."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Salmon",
+        "proteinAmt": "5 oz.",
+        "veggie": "Bell pepper",
+        "veggieAmt": "125 g",
+        "carb": "Black beans",
+        "carbAmt": "1.5 c.",
+        "fat": "Raw almonds",
+        "fatAmt": "2 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Spinach",
+        "veggieAmt": "2 c.",
+        "carb": "Sweet potato",
+        "carbAmt": "8 oz.",
+        "fat": "Avocado",
+        "fatAmt": "7 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Spinach",
+        "veggieAmt": "2 c.",
+        "carb": "Sweet potato",
+        "carbAmt": "8 oz.",
+        "fat": "Black olives",
+        "fatAmt": "25 large"
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Spinach",
+        "veggieAmt": "2 c.",
+        "carb": "Sweet potato",
+        "carbAmt": "8 oz.",
+        "fat": "Coconut oil",
+        "fatAmt": "2 Tbsp."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Spinach",
+        "veggieAmt": "2 c.",
+        "carb": "Sweet potato",
+        "carbAmt": "8 oz.",
+        "fat": "Raw almonds",
+        "fatAmt": "2 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Spinach",
+        "veggieAmt": "2 c.",
+        "carb": "Brown rice",
+        "carbAmt": "1.5 c.",
+        "fat": "Avocado",
+        "fatAmt": "7 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Spinach",
+        "veggieAmt": "2 c.",
+        "carb": "Brown rice",
+        "carbAmt": "1.5 c.",
+        "fat": "Black olives",
+        "fatAmt": "25 large"
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Spinach",
+        "veggieAmt": "2 c.",
+        "carb": "Brown rice",
+        "carbAmt": "1.5 c.",
+        "fat": "Coconut oil",
+        "fatAmt": "2 Tbsp."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Spinach",
+        "veggieAmt": "2 c.",
+        "carb": "Brown rice",
+        "carbAmt": "1.5 c.",
+        "fat": "Raw almonds",
+        "fatAmt": "2 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Spinach",
+        "veggieAmt": "2 c.",
+        "carb": "Lentils",
+        "carbAmt": "1.5 c.",
+        "fat": "Avocado",
+        "fatAmt": "7 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Spinach",
+        "veggieAmt": "2 c.",
+        "carb": "Lentils",
+        "carbAmt": "1.5 c.",
+        "fat": "Black olives",
+        "fatAmt": "25 large"
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Spinach",
+        "veggieAmt": "2 c.",
+        "carb": "Lentils",
+        "carbAmt": "1.5 c.",
+        "fat": "Coconut oil",
+        "fatAmt": "2 Tbsp."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Spinach",
+        "veggieAmt": "2 c.",
+        "carb": "Lentils",
+        "carbAmt": "1.5 c.",
+        "fat": "Raw almonds",
+        "fatAmt": "2 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Spinach",
+        "veggieAmt": "2 c.",
+        "carb": "Black beans",
+        "carbAmt": "1.5 c.",
+        "fat": "Avocado",
+        "fatAmt": "7 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Spinach",
+        "veggieAmt": "2 c.",
+        "carb": "Black beans",
+        "carbAmt": "1.5 c.",
+        "fat": "Black olives",
+        "fatAmt": "25 large"
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Spinach",
+        "veggieAmt": "2 c.",
+        "carb": "Black beans",
+        "carbAmt": "1.5 c.",
+        "fat": "Coconut oil",
+        "fatAmt": "2 Tbsp."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Spinach",
+        "veggieAmt": "2 c.",
+        "carb": "Black beans",
+        "carbAmt": "1.5 c.",
+        "fat": "Raw almonds",
+        "fatAmt": "2 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Broccoli",
+        "veggieAmt": "2 c.",
+        "carb": "Sweet potato",
+        "carbAmt": "8 oz.",
+        "fat": "Avocado",
+        "fatAmt": "7 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Broccoli",
+        "veggieAmt": "2 c.",
+        "carb": "Sweet potato",
+        "carbAmt": "8 oz.",
+        "fat": "Black olives",
+        "fatAmt": "25 large"
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Broccoli",
+        "veggieAmt": "2 c.",
+        "carb": "Sweet potato",
+        "carbAmt": "8 oz.",
+        "fat": "Coconut oil",
+        "fatAmt": "2 Tbsp."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Broccoli",
+        "veggieAmt": "2 c.",
+        "carb": "Sweet potato",
+        "carbAmt": "8 oz.",
+        "fat": "Raw almonds",
+        "fatAmt": "2 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Broccoli",
+        "veggieAmt": "2 c.",
+        "carb": "Brown rice",
+        "carbAmt": "1.5 c.",
+        "fat": "Avocado",
+        "fatAmt": "7 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Broccoli",
+        "veggieAmt": "2 c.",
+        "carb": "Brown rice",
+        "carbAmt": "1.5 c.",
+        "fat": "Black olives",
+        "fatAmt": "25 large"
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Broccoli",
+        "veggieAmt": "2 c.",
+        "carb": "Brown rice",
+        "carbAmt": "1.5 c.",
+        "fat": "Coconut oil",
+        "fatAmt": "2 Tbsp."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Broccoli",
+        "veggieAmt": "2 c.",
+        "carb": "Brown rice",
+        "carbAmt": "1.5 c.",
+        "fat": "Raw almonds",
+        "fatAmt": "2 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Broccoli",
+        "veggieAmt": "2 c.",
+        "carb": "Lentils",
+        "carbAmt": "1.5 c.",
+        "fat": "Avocado",
+        "fatAmt": "7 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Broccoli",
+        "veggieAmt": "2 c.",
+        "carb": "Lentils",
+        "carbAmt": "1.5 c.",
+        "fat": "Black olives",
+        "fatAmt": "25 large"
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Broccoli",
+        "veggieAmt": "2 c.",
+        "carb": "Lentils",
+        "carbAmt": "1.5 c.",
+        "fat": "Coconut oil",
+        "fatAmt": "2 Tbsp."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Broccoli",
+        "veggieAmt": "2 c.",
+        "carb": "Lentils",
+        "carbAmt": "1.5 c.",
+        "fat": "Raw almonds",
+        "fatAmt": "2 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Broccoli",
+        "veggieAmt": "2 c.",
+        "carb": "Black beans",
+        "carbAmt": "1.5 c.",
+        "fat": "Avocado",
+        "fatAmt": "7 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Broccoli",
+        "veggieAmt": "2 c.",
+        "carb": "Black beans",
+        "carbAmt": "1.5 c.",
+        "fat": "Black olives",
+        "fatAmt": "25 large"
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Broccoli",
+        "veggieAmt": "2 c.",
+        "carb": "Black beans",
+        "carbAmt": "1.5 c.",
+        "fat": "Coconut oil",
+        "fatAmt": "2 Tbsp."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Broccoli",
+        "veggieAmt": "2 c.",
+        "carb": "Black beans",
+        "carbAmt": "1.5 c.",
+        "fat": "Raw almonds",
+        "fatAmt": "2 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Zucchini",
+        "veggieAmt": "2 c.",
+        "carb": "Sweet potato",
+        "carbAmt": "8 oz.",
+        "fat": "Avocado",
+        "fatAmt": "7 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Zucchini",
+        "veggieAmt": "2 c.",
+        "carb": "Sweet potato",
+        "carbAmt": "8 oz.",
+        "fat": "Black olives",
+        "fatAmt": "25 large"
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Zucchini",
+        "veggieAmt": "2 c.",
+        "carb": "Sweet potato",
+        "carbAmt": "8 oz.",
+        "fat": "Coconut oil",
+        "fatAmt": "2 Tbsp."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Zucchini",
+        "veggieAmt": "2 c.",
+        "carb": "Sweet potato",
+        "carbAmt": "8 oz.",
+        "fat": "Raw almonds",
+        "fatAmt": "2 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Zucchini",
+        "veggieAmt": "2 c.",
+        "carb": "Brown rice",
+        "carbAmt": "1.5 c.",
+        "fat": "Avocado",
+        "fatAmt": "7 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Zucchini",
+        "veggieAmt": "2 c.",
+        "carb": "Brown rice",
+        "carbAmt": "1.5 c.",
+        "fat": "Black olives",
+        "fatAmt": "25 large"
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Zucchini",
+        "veggieAmt": "2 c.",
+        "carb": "Brown rice",
+        "carbAmt": "1.5 c.",
+        "fat": "Coconut oil",
+        "fatAmt": "2 Tbsp."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Zucchini",
+        "veggieAmt": "2 c.",
+        "carb": "Brown rice",
+        "carbAmt": "1.5 c.",
+        "fat": "Raw almonds",
+        "fatAmt": "2 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Zucchini",
+        "veggieAmt": "2 c.",
+        "carb": "Lentils",
+        "carbAmt": "1.5 c.",
+        "fat": "Avocado",
+        "fatAmt": "7 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Zucchini",
+        "veggieAmt": "2 c.",
+        "carb": "Lentils",
+        "carbAmt": "1.5 c.",
+        "fat": "Black olives",
+        "fatAmt": "25 large"
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Zucchini",
+        "veggieAmt": "2 c.",
+        "carb": "Lentils",
+        "carbAmt": "1.5 c.",
+        "fat": "Coconut oil",
+        "fatAmt": "2 Tbsp."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Zucchini",
+        "veggieAmt": "2 c.",
+        "carb": "Lentils",
+        "carbAmt": "1.5 c.",
+        "fat": "Raw almonds",
+        "fatAmt": "2 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Zucchini",
+        "veggieAmt": "2 c.",
+        "carb": "Black beans",
+        "carbAmt": "1.5 c.",
+        "fat": "Avocado",
+        "fatAmt": "7 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Zucchini",
+        "veggieAmt": "2 c.",
+        "carb": "Black beans",
+        "carbAmt": "1.5 c.",
+        "fat": "Black olives",
+        "fatAmt": "25 large"
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Zucchini",
+        "veggieAmt": "2 c.",
+        "carb": "Black beans",
+        "carbAmt": "1.5 c.",
+        "fat": "Coconut oil",
+        "fatAmt": "2 Tbsp."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Zucchini",
+        "veggieAmt": "2 c.",
+        "carb": "Black beans",
+        "carbAmt": "1.5 c.",
+        "fat": "Raw almonds",
+        "fatAmt": "2 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Bell pepper",
+        "veggieAmt": "125 g",
+        "carb": "Sweet potato",
+        "carbAmt": "8 oz.",
+        "fat": "Avocado",
+        "fatAmt": "7 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Bell pepper",
+        "veggieAmt": "125 g",
+        "carb": "Sweet potato",
+        "carbAmt": "8 oz.",
+        "fat": "Black olives",
+        "fatAmt": "25 large"
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Bell pepper",
+        "veggieAmt": "125 g",
+        "carb": "Sweet potato",
+        "carbAmt": "8 oz.",
+        "fat": "Coconut oil",
+        "fatAmt": "2 Tbsp."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Bell pepper",
+        "veggieAmt": "125 g",
+        "carb": "Sweet potato",
+        "carbAmt": "8 oz.",
+        "fat": "Raw almonds",
+        "fatAmt": "2 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Bell pepper",
+        "veggieAmt": "125 g",
+        "carb": "Brown rice",
+        "carbAmt": "1.5 c.",
+        "fat": "Avocado",
+        "fatAmt": "7 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Bell pepper",
+        "veggieAmt": "125 g",
+        "carb": "Brown rice",
+        "carbAmt": "1.5 c.",
+        "fat": "Black olives",
+        "fatAmt": "25 large"
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Bell pepper",
+        "veggieAmt": "125 g",
+        "carb": "Brown rice",
+        "carbAmt": "1.5 c.",
+        "fat": "Coconut oil",
+        "fatAmt": "2 Tbsp."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Bell pepper",
+        "veggieAmt": "125 g",
+        "carb": "Brown rice",
+        "carbAmt": "1.5 c.",
+        "fat": "Raw almonds",
+        "fatAmt": "2 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Bell pepper",
+        "veggieAmt": "125 g",
+        "carb": "Lentils",
+        "carbAmt": "1.5 c.",
+        "fat": "Avocado",
+        "fatAmt": "7 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Bell pepper",
+        "veggieAmt": "125 g",
+        "carb": "Lentils",
+        "carbAmt": "1.5 c.",
+        "fat": "Black olives",
+        "fatAmt": "25 large"
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Bell pepper",
+        "veggieAmt": "125 g",
+        "carb": "Lentils",
+        "carbAmt": "1.5 c.",
+        "fat": "Coconut oil",
+        "fatAmt": "2 Tbsp."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Bell pepper",
+        "veggieAmt": "125 g",
+        "carb": "Lentils",
+        "carbAmt": "1.5 c.",
+        "fat": "Raw almonds",
+        "fatAmt": "2 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Bell pepper",
+        "veggieAmt": "125 g",
+        "carb": "Black beans",
+        "carbAmt": "1.5 c.",
+        "fat": "Avocado",
+        "fatAmt": "7 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Bell pepper",
+        "veggieAmt": "125 g",
+        "carb": "Black beans",
+        "carbAmt": "1.5 c.",
+        "fat": "Black olives",
+        "fatAmt": "25 large"
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Bell pepper",
+        "veggieAmt": "125 g",
+        "carb": "Black beans",
+        "carbAmt": "1.5 c.",
+        "fat": "Coconut oil",
+        "fatAmt": "2 Tbsp."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Egg whites",
+        "proteinAmt": "1.75 c.",
+        "veggie": "Bell pepper",
+        "veggieAmt": "125 g",
+        "carb": "Black beans",
+        "carbAmt": "1.5 c.",
+        "fat": "Raw almonds",
+        "fatAmt": "2 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Ground turkey",
+        "proteinAmt": "6 oz.",
+        "veggie": "Spinach",
+        "veggieAmt": "2 c.",
+        "carb": "Sweet potato",
+        "carbAmt": "8 oz.",
+        "fat": "Avocado",
+        "fatAmt": "7 oz."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Ground turkey",
+        "proteinAmt": "6 oz.",
+        "veggie": "Spinach",
+        "veggieAmt": "2 c.",
+        "carb": "Sweet potato",
+        "carbAmt": "8 oz.",
+        "fat": "Black olives",
+        "fatAmt": "25 large"
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Ground turkey",
+        "proteinAmt": "6 oz.",
+        "veggie": "Spinach",
+        "veggieAmt": "2 c.",
+        "carb": "Sweet potato",
+        "carbAmt": "8 oz.",
+        "fat": "Coconut oil",
+        "fatAmt": "2 Tbsp."
+    },
+    {
+        "gender": "male",
+        "intent": "gains",
+        "protein": "Ground turkey",
+        "proteinAmt": "6 oz.",
+        "veggie": "Spinach",
+        "veggieAmt": "2 c.",
+        "carb": "Sweet potato",
+        "carbAmt": "8 oz.",
+        "fat": "Raw almonds",
+        "fatAmt": "2 oz."
+    },
+    {
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -17725,7 +17725,7 @@ const JSONfile = [
         "fatAmt": "7 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -17737,7 +17737,7 @@ const JSONfile = [
         "fatAmt": "25 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -17749,7 +17749,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -17761,7 +17761,7 @@ const JSONfile = [
         "fatAmt": "2 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -17773,7 +17773,7 @@ const JSONfile = [
         "fatAmt": "7 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -17785,7 +17785,7 @@ const JSONfile = [
         "fatAmt": "25 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -17797,7 +17797,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -17809,7 +17809,7 @@ const JSONfile = [
         "fatAmt": "2 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -17821,7 +17821,7 @@ const JSONfile = [
         "fatAmt": "7 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -17833,7 +17833,7 @@ const JSONfile = [
         "fatAmt": "25 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -17845,7 +17845,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -17857,7 +17857,7 @@ const JSONfile = [
         "fatAmt": "2 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -17869,7 +17869,7 @@ const JSONfile = [
         "fatAmt": "7 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -17881,7 +17881,7 @@ const JSONfile = [
         "fatAmt": "25 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -17893,7 +17893,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -17905,7 +17905,7 @@ const JSONfile = [
         "fatAmt": "2 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -17917,7 +17917,7 @@ const JSONfile = [
         "fatAmt": "7 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -17929,7 +17929,7 @@ const JSONfile = [
         "fatAmt": "25 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -17941,7 +17941,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -17953,7 +17953,7 @@ const JSONfile = [
         "fatAmt": "2 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -17965,7 +17965,7 @@ const JSONfile = [
         "fatAmt": "7 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -17977,7 +17977,7 @@ const JSONfile = [
         "fatAmt": "25 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -17989,7 +17989,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -18001,7 +18001,7 @@ const JSONfile = [
         "fatAmt": "2 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -18013,7 +18013,7 @@ const JSONfile = [
         "fatAmt": "7 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -18025,7 +18025,7 @@ const JSONfile = [
         "fatAmt": "25 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -18037,7 +18037,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -18049,7 +18049,7 @@ const JSONfile = [
         "fatAmt": "2 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -18061,7 +18061,7 @@ const JSONfile = [
         "fatAmt": "7 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -18073,7 +18073,7 @@ const JSONfile = [
         "fatAmt": "25 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -18085,7 +18085,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -18097,7 +18097,7 @@ const JSONfile = [
         "fatAmt": "2 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -18109,7 +18109,7 @@ const JSONfile = [
         "fatAmt": "7 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -18121,7 +18121,7 @@ const JSONfile = [
         "fatAmt": "25 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -18133,7 +18133,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -18145,7 +18145,7 @@ const JSONfile = [
         "fatAmt": "2 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -18157,7 +18157,7 @@ const JSONfile = [
         "fatAmt": "7 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -18169,7 +18169,7 @@ const JSONfile = [
         "fatAmt": "25 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -18181,7 +18181,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -18193,7 +18193,7 @@ const JSONfile = [
         "fatAmt": "2 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -18205,7 +18205,7 @@ const JSONfile = [
         "fatAmt": "7 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -18217,7 +18217,7 @@ const JSONfile = [
         "fatAmt": "25 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -18229,7 +18229,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -18241,7 +18241,7 @@ const JSONfile = [
         "fatAmt": "2 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -18253,7 +18253,7 @@ const JSONfile = [
         "fatAmt": "7 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -18265,7 +18265,7 @@ const JSONfile = [
         "fatAmt": "25 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -18277,7 +18277,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -18289,7 +18289,7 @@ const JSONfile = [
         "fatAmt": "2 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -18301,7 +18301,7 @@ const JSONfile = [
         "fatAmt": "7 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -18313,7 +18313,7 @@ const JSONfile = [
         "fatAmt": "25 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -18325,7 +18325,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -18337,7 +18337,7 @@ const JSONfile = [
         "fatAmt": "2 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -18349,7 +18349,7 @@ const JSONfile = [
         "fatAmt": "7 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -18361,7 +18361,7 @@ const JSONfile = [
         "fatAmt": "25 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -18373,7 +18373,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -18385,7 +18385,7 @@ const JSONfile = [
         "fatAmt": "2 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -18397,7 +18397,7 @@ const JSONfile = [
         "fatAmt": "7 oz."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -18409,7 +18409,7 @@ const JSONfile = [
         "fatAmt": "25 large"
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -18421,7 +18421,7 @@ const JSONfile = [
         "fatAmt": "2 Tbsp."
     },
     {
-        "gender": "male ",
+        "gender": "male",
         "intent": "gains",
         "protein": "Ground turkey",
         "proteinAmt": "6 oz.",
@@ -18437,7 +18437,7 @@ const JSONfile = [
 //function that loops through that array and posts each object to server
 const postAllMeals = (Meal) => {
     for(let i = 0; i < JSONfile.length; i++){
-        axios.post("http://localhost:8080/meals", JSONfile[i])
+        axios.post("http://localhost:8181/meals", JSONfile[i])
             .then(function(response){
                 console.log(response.data);
             })
