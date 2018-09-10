@@ -19,7 +19,7 @@ const app = express();   //this is a function
 app.use(bodyParser.json());  //this tells it to deal with requests with JSON
 app.use(logger);
 app.use(authenticate);
-app.use("/movies", require("./routes/movies"))
+app.use("/movies", require("./routes/movies"));
 //most important part of a server is that it listens for requests
 //  so we have to write code to tell it to do so
 
