@@ -60,7 +60,7 @@ export default class Meal extends Component {
         }
         let proteinMacros = "";
         if(meal){    //it has to wait until the response comes back from the get request
-            if(selections.gender === "female " || selections.gender === "female"){
+            if(selections.gender === "female"){
                 if(meal.protein === "Chicken breast" && selections.intent === "fat loss"){
                     proteinMacros = "19 g protein, 0 g carb, 1.5 g fat, 120 calories";
                 }else if(meal.protein === "Salmon" && selections.intent === "fat loss"){
@@ -88,7 +88,8 @@ export default class Meal extends Component {
                 }else if(meal.protein === "Ground turkey" && selections.intent === "gains"){
                     proteinMacros = "33 g protein, 0 g carb, 12 g fat, 240 calories";
                 }
-            }else if(selections.gender === "male "){
+
+            }else if(selections.gender === "male"){
                 if(meal.protein === "Chicken breast" && selections.intent === "fat loss"){
                     proteinMacros = "26 g protein, 0 g carb, 2 g fat, 160 calories";
                 }else if(meal.protein === "Salmon" && selections.intent === "fat loss"){
@@ -120,7 +121,7 @@ export default class Meal extends Component {
         }
         let veggieMacros = "";
         if(meal){
-            if(selections.gender === "female " || selections.gender === "female"){
+            if(selections.gender === "female"){
                 console.log(meal);
                 if(meal.veggie === "Spinach" && selections.intent === "fat loss"){
                     veggieMacros = "2 g protein, 2 g carb, 0 g fat, 14 calories";
@@ -149,7 +150,7 @@ export default class Meal extends Component {
                 }else if(meal.veggie === "Bell pepper" && selections.intent === "gains"){
                     veggieMacros = "0.5 g protein, 4 g carb, 0 g fat, 15 calories";
                 }
-            }else if(selections.gender === "male "){
+            }else if(selections.gender === "male"){
                 if(meal.veggie === "Spinach" && selections.intent === "fat loss"){
                     veggieMacros = "2 g protein, 2 g carb, 0 g fat, 14 calories";
                 }else if(meal.veggie === "Broccoli" && selections.intent === "fat loss"){
@@ -181,7 +182,7 @@ export default class Meal extends Component {
         }
         let carbMacros = "";
         if(meal){
-            if(selections.gender === "female " || selections.gender === "female"){
+            if(selections.gender === "female"){
                 if(meal.carb === "Sweet potatoe" && selections.intent === "fat loss"){
                     carbMacros = "1.5 g protein, 29 g carb, 0 g fat, 120 calories";
                 }else if(meal.carb === "Brown rice" && selections.intent === "fat loss"){
@@ -209,7 +210,7 @@ export default class Meal extends Component {
                 }else if(meal.carb === "Black beans" && selections.intent === "gains"){
                     carbMacros = "15 g protein, 41 g carb, 1 g fat, 230 calories";
                 }
-            }else if(selections.gender === "male "){
+            }else if(selections.gender === "male"){
                 if(meal.carb === "Sweet potato" && selections.intent === "fat loss"){
                     carbMacros = "2 g protein, 38 g carb, 0.25 g fat, 160 calories";
                 }else if(meal.carb === "Brown rice" && selections.intent === "fat loss"){
@@ -241,7 +242,7 @@ export default class Meal extends Component {
         }
         let fatMacros = "";
         if(meal){
-            if(selections.gender === "female" || selections.gender === "female "){
+            if(selections.gender === "female"){
                 if(meal.fat === "Avocado" && selections.intent === "fat loss"){
                     fatMacros = "1 g protein, 5 g carb, 8.5 g fat, 90 calories";
                 }else if(meal.fat === "Black olives" && selections.intent === "fat loss"){
@@ -269,7 +270,7 @@ export default class Meal extends Component {
                 }else if(meal.fat === "Raw almonds" && selections.intent === "gains"){
                     fatMacros = "9 g protein, 9 g carb, 21 g fat, 240 calories";
                 }
-            }else if(selections.gender === "male "){
+            }else if(selections.gender === "male"){
                 if(meal.fat === "Avocado" && selections.intent === "fat loss"){
                     fatMacros = "1.5 g protein, 7.5 g carb, 12.75 g fat, 135 calories";
                 }else if(meal.fat === "Black olives" && selections.intent === "fat loss"){
@@ -306,7 +307,7 @@ export default class Meal extends Component {
 
                 <div id="mealTitleDiv">
                     <hr />
-                    <p>{(selections.gender === "male ") ? "Mens' " : "Womens' "}
+                    <p>{(selections.gender === "male") ? "Mens' " : "Womens' "}
                         {selections.type} {(selections.prep === "baking")? "baked meal" : selections.prep} for {intentWord}
                     </p>
                     <hr/>

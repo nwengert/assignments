@@ -18450,7 +18450,8 @@ const postAllMeals = (Meal) => {
 // don't call this again!
 // unless you've completely rebuilt it
 
-// postAllMeals()
+// postAllMeals()   COMMENTED OUT TO PREVENT RE-RUNNING
+
 const JSONlength = JSONfile.length
 console.log(JSONlength)
  

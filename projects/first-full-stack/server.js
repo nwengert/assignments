@@ -10,7 +10,7 @@ app.use(morgan("dev"));
 app.use(bodyParser.json());
 app.use("/meals", require("./routes/meals.js"));
 
-mongoose.connect('mongodb://localhost:27017/bounties',{useNewUrlParser: true})  
+mongoose.connect('mongodb://localhost:27017/meals',{useNewUrlParser: true})  
     .then(()=> console.log("Connected to MongoDB"))
     .catch(err => console.error(err));
 // app.use(logger);                 I DONT KNOW WHAT THESE ARE FOR

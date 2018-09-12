@@ -8,8 +8,7 @@ export default class Gender extends Component {
         // console.log(this.props)
         return (
             <div id="genderDiv">
-                <input checked={this.props.gender === "female " || 
-                                this.props.gender === "female"}
+                <input checked={this.props.gender === "female"}
                     onChange={this.props.handleChange}
                     type="radio"
                     name="gender"
@@ -21,13 +20,11 @@ export default class Gender extends Component {
                     htmlFor="femaleBtn">
                     <img src={Female} alt="female" className="genderPics" id="femalePic"/>
                 </label>
-                                        {/* this space after male is not a typo, well - it WAS a typo that now exists in all the database objects */}
-                <input checked={this.props.gender === "male " ||
-                                this.props.gender === "male"}
+                <input checked={this.props.gender === "male"}
                     onChange={this.props.handleChange}
                     type="radio"
                     name="gender"
-                    value="male " 
+                    value="male" 
                     className="radio_item"
                     id="maleBtn"/>
                 <label
