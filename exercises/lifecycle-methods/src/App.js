@@ -53,6 +53,7 @@ class App extends Component {
     }
 
     render() {
+        console.log(this.state.todos);
         return(
             <div className='theBigDiv' style={{ 
                     backgroundColor: this.state.color,

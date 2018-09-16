@@ -14,6 +14,6 @@ const twoSum = (arr, int) => {
     return false;
 }
 
-// console.log(twoSum([1,2,3], 4));
+console.log(twoSum([1,2,3], 4));
 
 module.exports = twoSum;
