@@ -15,7 +15,8 @@ class App extends Component {
     }
     //these can be just like handleChange, handleSubmit, but don't need to be binded
     componentDidMount(){
-        axios.get('https://api.vschool.io/marcus/todo').then(response => {
+        // axios.get('https://api.vschool.io/nate/todo').then(response => {
+        axios.get('//waterservices.usgs.gov/nwis/dv/?format=json&indent=on&sites=09384600&siteStatus=all').then(response => {
         this.setState({todos: response.data})
         })
         //code will run when the page is uploaded
