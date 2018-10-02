@@ -1,15 +1,16 @@
 import React from 'react';
 import Navbar from './Navbar';
+import natureNate from '../images/NatureNate.jpg';
 
 function About() {
     return (
-        <div>
+        <div id="aboutDiv">
             <Navbar />
-            <div>
+            <div background="../images/NatureNate.jpg">
                 <p>I'm an adept programmer with a knack for design</p>
                 <p>This is how I got started</p>
                 <p>When not working, you might see me doing this stuff...</p>
-                <p>Myer's Briggs personality of ENTJ, Wonderlic 28</p>
+                <p>Myer's Briggs ENTJ personality, Wonderlic 28</p>
             </div>
             <div>
                 <ul>Stuff I'm good at
