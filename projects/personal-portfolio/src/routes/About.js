@@ -1,6 +1,5 @@
 import React from 'react';
 import Navbar from './Navbar';
-import natureNate from '../images/NatureNate.jpg';
 
 function About() {
     return (

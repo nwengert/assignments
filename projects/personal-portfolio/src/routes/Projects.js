@@ -5,7 +5,9 @@ import DIT from '../images/DIT.png';
 import Movies from '../images/Movies.png';
 import ShoDat from '../images/ShoDat.png';
 import XLJSON from '../images/XLJSON.png';
+import Trends from '../images/Trends.png';
 import MacroMeals from '../images/MacroMeals.png';
+import ShoppingList from '../images/MERN-Shopping-List.png';
 
 
 export default class Projects extends Component {
@@ -41,12 +43,24 @@ export default class Projects extends Component {
                         </a>
                     </div>
                     <div className='hvrbox'>
-                        <img src={ XLJSON } className="projectImage" alt="Spreadsheet img"/>
+                        <a href="https://github.com/nwengert/VBA/blob/master/Excel%20to%20JSON" target="_blank" rel="noopener noreferrer">
+                            <img src={ XLJSON } className="projectImage" alt="Spreadsheet img"/>
                             <div class="hvrbox-layer_top">
                                 <div class="hvrbox-text">
                                     Program written in Visual Basic for converting Excel spreadsheet table data into JSON.
                                 </div>
                             </div>
+                        </a>
+                    </div> 
+                    <div className='hvrbox'>
+                        <a href="https://github.com/nwengert/barriers_to_entry/tree/master/mern_shopping_list" target="_blank" rel="noopener noreferrer">
+                            <img src={ ShoppingList } className="projectImage" alt="Screengrab of Shopping List Web App"/>
+                            <div class="hvrbox-layer_top">
+                                <div class="hvrbox-text">
+                                    MERN stack Shopping List. Just like those ubiquitous ToDo lists. 
+                                </div>
+                            </div>
+                        </a>
                     </div> 
                     <div className='hvrbox'>
                         <a href="http://movieyearlist.surge.sh" target="_blank" rel="noopener noreferrer">
@@ -59,12 +73,24 @@ export default class Projects extends Component {
                         </a>
                     </div>  
                     <div className='hvrbox'>
+                        <a href="https://github.com/nwengert/VBA/blob/master/DIT_update" target="_blank" rel="noopener noreferrer">
                             <img src={ DIT } className="projectImage" alt="DIT Screengrab"/>
                             <div class="hvrbox-layer_top">
                                 <div class="hvrbox-text">
                                     Excel Visual Basic program that saved ~5 hrs/month by automatically updating and e-mailing Delivery and Inventory Trackers to field personnel.
                                 </div>
                             </div>
+                        </a>
+                    </div>                     
+                    <div className='hvrbox'>
+                        <a href="https://github.com/nwengert/VBA/blob/master/Trends" target="_blank" rel="noopener noreferrer">
+                            <img src={ Trends } className="projectImage" alt="DIT Screengrab"/>
+                            <div class="hvrbox-layer_top">
+                                <div class="hvrbox-text">
+                                    Automating the accumulation of production data into a table of monthly trends of a customer' oil wells was a giant leap in my journey to automate everything I could in a previous job. 
+                                </div>
+                            </div>
+                        </a>
                     </div> 
                 </div>
             </div>

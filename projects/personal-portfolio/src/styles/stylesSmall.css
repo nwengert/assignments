@@ -31,6 +31,21 @@
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+
+    animation-name: nameBoxCompress;
+    animation-duration: 0.8s;
+}
+@keyframes nameBoxCompress {
+    0% {
+        height: 66px;
+        width: 344px;
+        margin: 8px;
+    }
+    88% {
+        height: 28px;
+        width: 289px;
+        margin: 2px;
+    }
 }
 .nameText{
     color: rgb(58, 51, 70);
@@ -48,12 +63,25 @@
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
+
+    animation-name: nameFromRight;
+    animation-duration: 0.8s;
 }
 #lName{
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: flex-end;
+
+    animation-name: nameFromRight;
+    animation-duration: 0.8s;
+}
+@keyframes nameFromRight {
+    0% {
+        font-size: 34px;
+    }
+    88% {
+    }
 }
 #topImgDiv{
     width: 100%;
@@ -75,6 +103,9 @@
     align-items: flex-start;
     background: linear-gradient(to bottom, rgb(235, 235, 235), lightgray);
     box-shadow: 0px 0px 2px 2px rgb(54, 54, 86);
+
+    animation-name: dropAndBounce;
+    animation-duration: 0.8s;
 }
 #nateCartoon{
     position: relative;
@@ -105,11 +136,67 @@
     border-bottom-left-radius: 9px;
     border-bottom-right-radius: 9px;
     box-shadow: 3px 3px 3px rgb(54, 54, 86);
+    
+    animation-name: moveInLeft;
+    animation-duration: 0.8s;
 }
 #synopsisDiv2{
     color: rgb(210, 217, 194);
     background: linear-gradient(to top, rgb(58, 51, 70), rgb(110, 73, 104));
+
+    animation-name: moveInRight;
+    animation-duration: 0.8s;
 }
+
+@keyframes moveInLeft {
+    0% {
+        opacity: 0;
+        transform: translateX(-100px);
+    }
+    88% {
+        transform: translateX(12px);
+    }
+    100% {
+        opacity: 1;
+        transform: translate(0);
+    }
+}
+@keyframes moveInRight {
+    0% {
+        opacity: 0;
+        transform: translateX(200px);
+    }
+    88% {
+        transform: translateX(-24px);
+    }
+    100% {
+        opacity: 1;
+        transform: translate(0);
+    }
+}
+@keyframes dropAndBounce {
+    0% {
+        opacity: 0;
+        transform: translateY(-96px);
+    }
+    33% {
+        transform: translate(0);
+    }
+    55% {
+        transform: translateY(-22px);
+    }
+    70% {
+        transform: translate(0);
+    }
+    88% {
+        transform: translateY(-9px);
+    }
+    100%{
+        transform: translate(0);
+        opacity: 1;
+    }
+}
+
 
 
 
