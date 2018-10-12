@@ -33,7 +33,7 @@ export default class Projects extends Component {
                         </a>
                     </div>                   
                     <div className='hvrbox'>
-                        <a href="" target="_blank" rel="noopener noreferrer">
+                        <a href="https://macro-meal-creator.herokuapp.com/" target="_blank" rel="noopener noreferrer">
                             <img src={ MacroMeals } className="projectImage" alt="Macro Meal Creator screen grab"/>
                             <div class="hvrbox-layer_top">
                                 <div class="hvrbox-text">
