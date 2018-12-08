@@ -1,0 +1,14 @@
+div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: rebeccapurple;
+}
+button {
+    background-color: rebeccapurple;
+    color: whitesmoke;
+}
+button:hover{
+    background-color: blueviolet;
+}
