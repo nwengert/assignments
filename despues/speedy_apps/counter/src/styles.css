@@ -8,6 +8,7 @@ div {
 button {
     background-color: rebeccapurple;
     color: whitesmoke;
+    margin: 5px;
 }
 button:hover{
     background-color: blueviolet;
