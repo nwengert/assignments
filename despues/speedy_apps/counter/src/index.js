@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 
-import Aq from './Aq'
+import Aqq from './Aqq'
 import './styles.css'
 
-ReactDOM.render(<Aq />, document.getElementById('root'))
+ReactDOM.render(<Aqq />, document.getElementById('root'))
