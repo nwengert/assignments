@@ -1,19 +1,14 @@
-
-// 4 min 29 secs!
-
-
-
 import React, { Component } from 'react'
 
-export default class Aqqq extends Component {
+export default class Aqqqq extends Component {
     constructor() {
-        super() 
+        super()
         this.state = {
             count: 0
         }
         this.increment = this.increment.bind(this)
         this.decrement = this.decrement.bind(this)
-        this.reset = this.reset.bind(this)
+        this.half = this.half.bind(this)
     }
     increment() {
         this.setState(prevState => {
@@ -29,16 +24,20 @@ export default class Aqqq extends Component {
             }
         })
     }
-    reset() {
-        this.setState({ count: 0 })
+    half() {
+        this.setState(prevState => {
+            return {
+                count: prevState.count/2
+            }
+        })
     }
     render() {
-        return (
+        return(
             <div>
                 <h1>{this.state.count}</h1>
-                <button onClick = {this.increment}>ADD</button>
-                <button onClick = {this.decrement}>SUBTRACT</button>
-                <button onClick = {this.reset}>RESET</button>
+                <button onClick = {this.increment}>Increase</button>
+                <button onClick = {this.decrement}>Decrease</button>
+                <button onClick = {this.half}>Half</button>
             </div>
         )
     }
