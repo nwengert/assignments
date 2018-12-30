@@ -25,11 +25,11 @@ export default class Aqqqqq extends Component {
         })
     }
     double() {
-        this.setState(prevState => ){
+        this.setState(prevState => {
             return{
                 count: prevState.count * 2
             }
-        }
+        })
     }
     render() {
         return(
