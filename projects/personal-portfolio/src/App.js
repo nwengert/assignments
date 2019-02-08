@@ -18,3 +18,7 @@ const App = () => {
     )
 }
 export default App
+
+//How to update personal portfolio
+//  make updates, push to github
+//  npm run deploy

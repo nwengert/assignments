@@ -9,6 +9,7 @@ import Trends from '../images/Trends.png';
 import MacroMeals from '../images/MacroMeals.png';
 import PDF2XL from '../images/PDF2XL.png';
 import ShoppingList from '../images/MERN-Shopping-List.png';
+import columnComparer from '../images/columnComparer.jpeg'
 
 
 export default class Projects extends Component {
@@ -84,6 +85,16 @@ export default class Projects extends Component {
                             <div class="hvrbox-layer_top">
                                 <div class="hvrbox-text">
                                     PDF to Excel converter with Visual Basic
+                                </div>
+                            </div>
+                        </a>
+                    </div>  
+                    <div className='hvrbox'>
+                        <a href="https://youtu.be/YnhDJW1NBuE" target="_blank" rel="noopener noreferrer">
+                            <img src={ columnComparer } className="projectImage" alt="Column Comparer Screengrab"/>
+                            <div class="hvrbox-layer_top">
+                                <div class="hvrbox-text">
+                                    VBA program pulls data from separate workbooks into side by side columns and indicates differences for comparison
                                 </div>
                             </div>
                         </a>
