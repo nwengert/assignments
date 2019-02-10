@@ -20,21 +20,6 @@ export default class Projects extends Component {
                 <Navbar />
                 <div className='projectImages'>
                     <div className='hvrbox'>
-                        <a href="http://shodat.herokuapp.com/" target="_blank" rel="noopener noreferrer">
-                            <img src={ ShoDat } className="projectImage" alt="Showtunes Database Website Screen grab"/>
-                            <div class="hvrbox-layer_top">
-                                <div class="hvrbox-text">
-                                    V-School final, group project.  Full-stack React app built for a client. Uses Mongoose, Express, Bcrypt, Riddl-js, React-Router, Axios. <br/>Worked with 
-                                    <a href="https://github.com/MaxxGarcia" id="MaxxGarcia"
-                                            target="_blank" rel="noopener noreferrer"> Maxx Garcia. </a>
-                                    <a href="https://github.com/MaxxGarcia/showtunes-database" id="ShoDat"
-                                            target="_blank" rel="noopener noreferrer"> GitHub Repo</a>
-
-                                </div>
-                            </div>
-                        </a>
-                    </div>                   
-                    <div className='hvrbox'>
                         <a href="https://macro-meal-creator.herokuapp.com/" target="_blank" rel="noopener noreferrer">
                             <img src={ MacroMeals } className="projectImage" alt="Macro Meal Creator screen grab"/>
                             <div class="hvrbox-layer_top">
@@ -44,6 +29,21 @@ export default class Projects extends Component {
                             </div>
                         </a>
                     </div>
+                    <div className='hvrbox'>
+                        <a href="http://shodat.herokuapp.com/" target="_blank" rel="noopener noreferrer">
+                            <img src={ ShoDat } className="projectImage" alt="Showtunes Database Website Screen grab"/>
+                            <div class="hvrbox-layer_top">
+                                <div class="hvrbox-text">
+                                    Full-stack React app built for a client. Uses Mongoose, Express, Bcrypt, Riddl-js, React-Router, Axios. <br/>Worked with 
+                                    <a href="https://github.com/MaxxGarcia" id="MaxxGarcia"
+                                            target="_blank" rel="noopener noreferrer"> Maxx Garcia. </a>
+                                    <a href="https://github.com/MaxxGarcia/showtunes-database" id="ShoDat"
+                                            target="_blank" rel="noopener noreferrer"> GitHub Repo</a>
+
+                                </div>
+                            </div>
+                        </a>
+                    </div>                   
                     <div className='hvrbox'>
                         <a href="https://github.com/nwengert/VBA/blob/master/Excel%20to%20JSON" target="_blank" rel="noopener noreferrer">
                             <img src={ XLJSON } className="projectImage" alt="Spreadsheet img"/>
