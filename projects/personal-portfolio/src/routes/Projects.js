@@ -9,7 +9,8 @@ import Trends from '../images/Trends.png';
 import MacroMeals from '../images/MacroMeals.png';
 import PDF2XL from '../images/PDF2XL.png';
 import ShoppingList from '../images/MERN-Shopping-List.png';
-import columnComparer from '../images/columnComparer.jpeg'
+import columnComparer from '../images/columnComparer.jpeg';
+import usageTrends from '../images/usageTrends.jpg';
 
 
 export default class Projects extends Component {
@@ -99,6 +100,21 @@ export default class Projects extends Component {
                             </div>
                         </a>
                     </div>  
+                    <div className='hvrbox'>
+                        <a href="https://youtu.be/IHZAOBysSvU" target="_blank" rel="noopener noreferrer">
+                            <img src={ usageTrends } className="projectImage" alt="Column Comparer Screengrab"/>
+                            <div class="hvrbox-layer_top">
+                                <div class="hvrbox-text">
+                                    VBA program creates chemical usage trend report and sorts data into list of top ten by cost
+                                </div>
+                            </div>
+                        </a>
+                    </div>  
+
+
+
+
+
                     <div className='hvrbox'>
                         <a href="https://github.com/nwengert/VBA/blob/master/DIT_update" target="_blank" rel="noopener noreferrer">
                             <img src={ DIT } className="projectImage" alt="DIT Screengrab"/>
